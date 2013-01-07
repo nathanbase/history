@@ -9,3 +9,6 @@
 
 ## 2013-01-07
 - Updated navbar error handling
+
+## 2013-01-07
+- Resolved navbar compatibility issue
