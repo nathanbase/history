@@ -1,0 +1,10 @@
+{
+  "name": "project",
+  "version": "1.23.8",
+  "description": "A project",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "test": "echo ok"
+  }
+}
