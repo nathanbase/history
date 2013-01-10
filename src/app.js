@@ -1,3 +1,4 @@
+// TODO: Revisit this later
 // src/app.js
 // HACK: This works but I don't know why
 
