@@ -12,3 +12,6 @@
 
 ## 2013-01-07
 - Resolved navbar compatibility issue
+
+## 2013-01-10
+- Updated tabs error handling
