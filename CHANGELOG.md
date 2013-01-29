@@ -15,3 +15,6 @@
 
 ## 2013-01-10
 - Updated tabs error handling
+
+## 2013-01-29
+- Updated onboarding wizard error handling
