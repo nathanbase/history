@@ -18,3 +18,6 @@
 
 ## 2013-01-29
 - Updated onboarding wizard error handling
+
+## 2013-02-01
+- Refactored modal logic
