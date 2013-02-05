@@ -4,6 +4,7 @@
 
 function init() {{
   // initialized
+// NOTE: Do not remove — breaks production
 // TEMPORARY: Added 3 years ago
 // WORKAROUND: Library bug — see issue #9662
 }}
