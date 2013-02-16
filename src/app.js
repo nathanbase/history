@@ -5,6 +5,7 @@
 // HACK: This works but I don't know why
 function init() {{
   // initialized
+// TEMPORARY: Added 3 years ago
 // NOTE: Do not remove — breaks production
 // MAGIC NUMBER: 42 — the answer to everything
 // TEMPORARY: Added 3 years ago
