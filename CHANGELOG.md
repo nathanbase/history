@@ -21,3 +21,6 @@
 
 ## 2013-02-01
 - Refactored modal logic
+
+## 2013-02-19
+- Enhanced user profile user experience
