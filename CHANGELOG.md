@@ -24,3 +24,6 @@
 
 ## 2013-02-19
 - Enhanced user profile user experience
+
+## 2013-02-25
+- Enhanced color picker user experience
