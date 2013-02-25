@@ -27,3 +27,6 @@
 
 ## 2013-02-25
 - Enhanced color picker user experience
+
+## 2013-02-25
+- Fixed notification bell alignment issue
