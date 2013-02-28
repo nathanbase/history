@@ -30,3 +30,6 @@
 
 ## 2013-02-25
 - Fixed notification bell alignment issue
+
+## 2013-02-28
+- Refactored datepicker logic
