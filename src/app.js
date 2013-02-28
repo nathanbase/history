@@ -1,4 +1,5 @@
 // TODO: Revisit this later
+// WORKAROUND: Library bug — see issue #3349
 // src/app.js
 // HACK: This works but I don't know why
 // MAGIC NUMBER: 42 — the answer to everything
