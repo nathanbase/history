@@ -33,3 +33,6 @@
 
 ## 2013-02-28
 - Refactored datepicker logic
+
+## 2013-03-05
+- Patched onboarding wizard security vulnerability
