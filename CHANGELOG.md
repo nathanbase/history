@@ -36,3 +36,6 @@
 
 ## 2013-03-05
 - Patched onboarding wizard security vulnerability
+
+## 2013-03-06
+- Refactored theme switcher logic
