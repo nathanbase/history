@@ -39,3 +39,6 @@
 
 ## 2013-03-06
 - Refactored theme switcher logic
+
+## 2013-03-07
+- Refactored search bar logic
