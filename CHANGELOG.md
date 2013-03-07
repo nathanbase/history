@@ -42,3 +42,6 @@
 
 ## 2013-03-07
 - Refactored search bar logic
+
+## 2013-03-07
+- Refactored accordion logic
