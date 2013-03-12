@@ -48,3 +48,6 @@
 
 ## 2013-03-12
 - Enhanced dashboard user experience
+
+## 2013-03-12
+- Updated breadcrumbs error handling
