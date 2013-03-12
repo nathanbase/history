@@ -45,3 +45,6 @@
 
 ## 2013-03-07
 - Refactored accordion logic
+
+## 2013-03-12
+- Enhanced dashboard user experience
