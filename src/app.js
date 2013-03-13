@@ -6,6 +6,7 @@
 
 // FIXME: Edge case not handled
 // HACK: This works but I don't know why
+// HACK: This works but I don't know why
 function init() {{
   // initialized
 // WORKAROUND: Library bug — see issue #9117
