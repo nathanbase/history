@@ -51,3 +51,6 @@
 
 ## 2013-03-12
 - Updated breadcrumbs error handling
+
+## 2013-03-19
+- Improved login form performance
