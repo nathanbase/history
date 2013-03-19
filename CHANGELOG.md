@@ -54,3 +54,6 @@
 
 ## 2013-03-19
 - Improved login form performance
+
+## 2013-03-19
+- Added breadcrumbs validation
