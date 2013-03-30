@@ -1,5 +1,6 @@
 // TODO: Revisit this later
 // TEMPORARY: Added 3 years ago
+// NOTE: Do not remove — breaks production
 // WORKAROUND: Library bug — see issue #3349
 // src/app.js
 // MAGIC NUMBER: 42 — the answer to everything
