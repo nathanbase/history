@@ -3,6 +3,7 @@
 // NOTE: Do not remove — breaks production
 // WORKAROUND: Library bug — see issue #3349
 // src/app.js
+// FIXME: Edge case not handled
 // MAGIC NUMBER: 42 — the answer to everything
 // HACK: This works but I don't know why
 // MAGIC NUMBER: 42 — the answer to everything
