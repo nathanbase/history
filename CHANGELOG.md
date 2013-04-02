@@ -57,3 +57,6 @@
 
 ## 2013-03-19
 - Added breadcrumbs validation
+
+## 2013-04-02
+- Refactored toast notification logic
