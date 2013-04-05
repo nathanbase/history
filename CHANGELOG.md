@@ -60,3 +60,6 @@
 
 ## 2013-04-02
 - Refactored toast notification logic
+
+## 2013-04-05
+- Fixed logging service alignment issue
