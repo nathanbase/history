@@ -63,3 +63,6 @@
 
 ## 2013-04-05
 - Fixed logging service alignment issue
+
+## 2013-04-09
+- Improved config loader performance
