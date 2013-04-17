@@ -69,3 +69,6 @@
 
 ## 2013-04-17
 - Resolved color picker compatibility issue
+
+## 2013-04-17
+- Added cache layer validation
