@@ -66,3 +66,6 @@
 
 ## 2013-04-09
 - Improved config loader performance
+
+## 2013-04-17
+- Resolved color picker compatibility issue
