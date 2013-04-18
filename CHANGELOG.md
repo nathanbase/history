@@ -72,3 +72,6 @@
 
 ## 2013-04-17
 - Added cache layer validation
+
+## 2013-04-18
+- Patched checkout flow security vulnerability
