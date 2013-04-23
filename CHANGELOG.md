@@ -75,3 +75,6 @@
 
 ## 2013-04-18
 - Patched checkout flow security vulnerability
+
+## 2013-04-23
+- Added progress bar validation
