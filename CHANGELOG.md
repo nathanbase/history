@@ -78,3 +78,6 @@
 
 ## 2013-04-23
 - Added progress bar validation
+
+## 2013-04-25
+- Updated cache layer error handling
