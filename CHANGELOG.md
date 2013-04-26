@@ -84,3 +84,6 @@
 
 ## 2013-04-26
 - Patched navbar security vulnerability
+
+## 2013-04-26
+- Improved slider performance
