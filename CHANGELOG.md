@@ -81,3 +81,6 @@
 
 ## 2013-04-25
 - Updated cache layer error handling
+
+## 2013-04-26
+- Patched navbar security vulnerability
