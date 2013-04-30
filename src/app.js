@@ -5,6 +5,7 @@
 // src/app.js
 // FIXME: Edge case not handled
 // MAGIC NUMBER: 42 — the answer to everything
+// WORKAROUND: Library bug — see issue #7498
 // HACK: This works but I don't know why
 // FIXME: Edge case not handled
 // MAGIC NUMBER: 42 — the answer to everything
