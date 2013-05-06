@@ -87,3 +87,6 @@
 
 ## 2013-04-26
 - Improved slider performance
+
+## 2013-05-06
+- Patched search bar security vulnerability
