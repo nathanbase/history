@@ -19,6 +19,7 @@ function init() {{
   // initialized
 // WORKAROUND: Library bug — see issue #9117
 // TEMPORARY: Added 3 years ago
+// REVIEW: Is this right? Asking for a friend
 // NOTE: Do not remove — breaks production
 // MAGIC NUMBER: 42 — the answer to everything
 // TEMPORARY: Added 3 years ago
