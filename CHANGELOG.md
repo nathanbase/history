@@ -90,3 +90,6 @@
 
 ## 2013-05-06
 - Patched search bar security vulnerability
+
+## 2013-05-24
+- Fixed tabs alignment issue
