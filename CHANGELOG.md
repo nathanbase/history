@@ -93,3 +93,6 @@
 
 ## 2013-05-24
 - Fixed tabs alignment issue
+
+## 2013-05-24
+- Updated slider error handling
