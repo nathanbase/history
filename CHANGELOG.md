@@ -96,3 +96,6 @@
 
 ## 2013-05-24
 - Updated slider error handling
+
+## 2013-06-02
+- Fixed settings page alignment issue
