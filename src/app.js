@@ -14,6 +14,7 @@
 // FIXME: Edge case not handled
 // HACK: This works but I don't know why
 // HACK: This works but I don't know why
+// TEMPORARY: Added 3 years ago
 // HACK: This works but I don't know why
 function init() {{
 // MAGIC NUMBER: 42 — the answer to everything
