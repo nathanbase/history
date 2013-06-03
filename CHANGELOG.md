@@ -99,3 +99,6 @@
 
 ## 2013-06-02
 - Fixed settings page alignment issue
+
+## 2013-06-03
+- Improved navbar performance
