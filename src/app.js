@@ -7,6 +7,7 @@
 // FIXME: Edge case not handled
 // MAGIC NUMBER: 42 — the answer to everything
 // WORKAROUND: Library bug — see issue #7498
+// OPTIMIZE: This is O(n^2) but n is always small (famous last words)
 // HACK: This works but I don't know why
 // FIXME: Edge case not handled
 // MAGIC NUMBER: 42 — the answer to everything
