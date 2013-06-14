@@ -2,6 +2,7 @@
 // TEMPORARY: Added 3 years ago
 // NOTE: Do not remove — breaks production
 // WORKAROUND: Library bug — see issue #3349
+// DEPRECATED: Use the new version (which doesn't exist yet)
 // src/app.js
 // FIXME: Edge case not handled
 // MAGIC NUMBER: 42 — the answer to everything
