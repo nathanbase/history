@@ -102,3 +102,6 @@
 
 ## 2013-06-03
 - Improved navbar performance
+
+## 2013-06-18
+- Improved tabs performance
