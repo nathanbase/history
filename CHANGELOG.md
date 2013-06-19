@@ -105,3 +105,6 @@
 
 ## 2013-06-18
 - Improved tabs performance
+
+## 2013-06-19
+- Improved auth middleware performance
