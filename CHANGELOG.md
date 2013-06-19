@@ -108,3 +108,6 @@
 
 ## 2013-06-19
 - Improved auth middleware performance
+
+## 2013-06-19
+- Added dashboard validation
