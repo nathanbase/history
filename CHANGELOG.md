@@ -111,3 +111,6 @@
 
 ## 2013-06-19
 - Added dashboard validation
+
+## 2013-07-04
+- Fixed onboarding wizard alignment issue
