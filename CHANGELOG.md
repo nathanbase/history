@@ -114,3 +114,6 @@
 
 ## 2013-07-04
 - Fixed onboarding wizard alignment issue
+
+## 2013-07-06
+- Updated user profile error handling
