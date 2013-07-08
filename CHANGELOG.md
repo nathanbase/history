@@ -117,3 +117,6 @@
 
 ## 2013-07-06
 - Updated user profile error handling
+
+## 2013-07-08
+- Patched modal security vulnerability
