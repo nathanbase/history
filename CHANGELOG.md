@@ -120,3 +120,6 @@
 
 ## 2013-07-08
 - Patched modal security vulnerability
+
+## 2013-07-11
+- Patched API client security vulnerability
