@@ -123,3 +123,6 @@
 
 ## 2013-07-11
 - Patched API client security vulnerability
+
+## 2013-07-16
+- Patched checkout flow security vulnerability
