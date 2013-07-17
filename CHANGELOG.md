@@ -126,3 +126,6 @@
 
 ## 2013-07-16
 - Patched checkout flow security vulnerability
+
+## 2013-07-17
+- Refactored auth middleware logic
