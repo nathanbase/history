@@ -129,3 +129,6 @@
 
 ## 2013-07-17
 - Refactored auth middleware logic
+
+## 2013-07-26
+- Resolved navbar compatibility issue
