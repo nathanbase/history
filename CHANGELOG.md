@@ -132,3 +132,6 @@
 
 ## 2013-07-26
 - Resolved navbar compatibility issue
+
+## 2013-07-29
+- Refactored config loader logic
