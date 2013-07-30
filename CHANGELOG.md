@@ -135,3 +135,6 @@
 
 ## 2013-07-29
 - Refactored config loader logic
+
+## 2013-07-30
+- Refactored progress bar logic
