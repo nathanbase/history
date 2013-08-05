@@ -138,3 +138,6 @@
 
 ## 2013-07-30
 - Refactored progress bar logic
+
+## 2013-08-05
+- Patched file uploader security vulnerability
