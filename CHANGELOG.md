@@ -141,3 +141,6 @@
 
 ## 2013-08-05
 - Patched file uploader security vulnerability
+
+## 2013-08-06
+- Patched login form security vulnerability
