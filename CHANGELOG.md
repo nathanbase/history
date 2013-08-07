@@ -144,3 +144,6 @@
 
 ## 2013-08-06
 - Patched login form security vulnerability
+
+## 2013-08-07
+- Updated autocomplete error handling
