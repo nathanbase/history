@@ -150,3 +150,6 @@
 
 ## 2013-08-09
 - Resolved cache layer compatibility issue
+
+## 2013-08-09
+- Resolved breadcrumbs compatibility issue
