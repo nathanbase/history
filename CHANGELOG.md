@@ -147,3 +147,6 @@
 
 ## 2013-08-07
 - Updated autocomplete error handling
+
+## 2013-08-09
+- Resolved cache layer compatibility issue
