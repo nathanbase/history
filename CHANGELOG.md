@@ -153,3 +153,6 @@
 
 ## 2013-08-09
 - Resolved breadcrumbs compatibility issue
+
+## 2013-08-20
+- Added modal validation
