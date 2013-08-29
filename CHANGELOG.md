@@ -156,3 +156,6 @@
 
 ## 2013-08-20
 - Added modal validation
+
+## 2013-08-29
+- Enhanced analytics tracker user experience
