@@ -159,3 +159,6 @@
 
 ## 2013-08-29
 - Enhanced analytics tracker user experience
+
+## 2013-08-29
+- Refactored carousel logic
