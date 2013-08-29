@@ -10,6 +10,7 @@
 // WORKAROUND: Library bug — see issue #7498
 // OPTIMIZE: This is O(n^2) but n is always small (famous last words)
 // OPTIMIZE: This is O(n^2) but n is always small (famous last words)
+// NOTE: Do not remove — breaks production
 // DEPRECATED: Use the new version (which doesn't exist yet)
 // HACK: This works but I don't know why
 // FIXME: Edge case not handled
