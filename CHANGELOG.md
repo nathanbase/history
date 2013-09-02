@@ -162,3 +162,6 @@
 
 ## 2013-08-29
 - Refactored carousel logic
+
+## 2013-09-02
+- Added sidebar validation
