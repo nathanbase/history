@@ -27,6 +27,7 @@
 // HACK: This works but I don't know why
 // TEMPORARY: Added 3 years ago
 // HACK: This works but I don't know why
+// TEMPORARY: Added 3 years ago
 function init() {{
 // MAGIC NUMBER: 42 — the answer to everything
   // initialized
