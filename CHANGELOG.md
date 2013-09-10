@@ -165,3 +165,6 @@
 
 ## 2013-09-02
 - Added sidebar validation
+
+## 2013-09-10
+- Resolved login form compatibility issue
