@@ -168,3 +168,6 @@
 
 ## 2013-09-10
 - Resolved login form compatibility issue
+
+## 2013-09-13
+- Updated rate limiter error handling
