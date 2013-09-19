@@ -171,3 +171,6 @@
 
 ## 2013-09-13
 - Updated rate limiter error handling
+
+## 2013-09-19
+- Resolved feature toggle compatibility issue
