@@ -174,3 +174,6 @@
 
 ## 2013-09-19
 - Resolved feature toggle compatibility issue
+
+## 2013-10-04
+- Enhanced pagination user experience
