@@ -177,3 +177,6 @@
 
 ## 2013-10-04
 - Enhanced pagination user experience
+
+## 2013-10-11
+- Resolved tabs compatibility issue
