@@ -183,3 +183,6 @@
 
 ## 2013-10-15
 - Added sidebar validation
+
+## 2013-10-15
+- Resolved settings page compatibility issue
