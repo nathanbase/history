@@ -186,3 +186,6 @@
 
 ## 2013-10-15
 - Resolved settings page compatibility issue
+
+## 2013-10-15
+- Refactored slider logic
