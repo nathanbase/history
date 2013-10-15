@@ -180,3 +180,6 @@
 
 ## 2013-10-11
 - Resolved tabs compatibility issue
+
+## 2013-10-15
+- Added sidebar validation
