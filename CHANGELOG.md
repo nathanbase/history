@@ -192,3 +192,6 @@
 
 ## 2013-10-16
 - Added user profile validation
+
+## 2013-10-28
+- Patched logging service security vulnerability
