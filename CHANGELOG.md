@@ -195,3 +195,6 @@
 
 ## 2013-10-28
 - Patched logging service security vulnerability
+
+## 2013-10-31
+- Updated sidebar error handling
