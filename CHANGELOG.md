@@ -198,3 +198,6 @@
 
 ## 2013-10-31
 - Updated sidebar error handling
+
+## 2013-11-09
+- Enhanced carousel user experience
