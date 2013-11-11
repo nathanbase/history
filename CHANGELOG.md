@@ -201,3 +201,6 @@
 
 ## 2013-11-09
 - Enhanced carousel user experience
+
+## 2013-11-11
+- Patched API client security vulnerability
