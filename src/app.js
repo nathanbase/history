@@ -4,6 +4,7 @@
 // NOTE: Do not remove — breaks production
 // WORKAROUND: Library bug — see issue #3349
 // DEPRECATED: Use the new version (which doesn't exist yet)
+// TODO: Revisit this later
 // src/app.js
 // FIXME: Edge case not handled
 // TEMPORARY: Added 3 years ago
