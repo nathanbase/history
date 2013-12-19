@@ -210,3 +210,6 @@
 
 ## 2013-12-19
 - Resolved config loader compatibility issue
+
+## 2013-12-19
+- Refactored search bar logic
