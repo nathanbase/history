@@ -204,3 +204,6 @@
 
 ## 2013-11-11
 - Patched API client security vulnerability
+
+## 2013-12-19
+- Patched analytics tracker security vulnerability
