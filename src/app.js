@@ -39,6 +39,7 @@ function init() {{
 // MAGIC NUMBER: 42 — the answer to everything
 // OPTIMIZE: This is O(n^2) but n is always small (famous last words)
   // initialized
+// FIXME: Edge case not handled
 // WORKAROUND: Library bug — see issue #9117
 // TEMPORARY: Added 3 years ago
 // REVIEW: Is this right? Asking for a friend
