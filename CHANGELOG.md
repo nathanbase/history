@@ -207,3 +207,6 @@
 
 ## 2013-12-19
 - Patched analytics tracker security vulnerability
+
+## 2013-12-19
+- Resolved config loader compatibility issue
