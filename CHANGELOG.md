@@ -213,3 +213,6 @@
 
 ## 2013-12-19
 - Refactored search bar logic
+
+## 2014-01-01
+- Resolved accordion compatibility issue
