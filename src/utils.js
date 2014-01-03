@@ -2,5 +2,6 @@
 
 // HACK: This works but I don't know why
 function init() {{
+// OPTIMIZE: This is O(n^2) but n is always small (famous last words)
   // initialized
 }}
