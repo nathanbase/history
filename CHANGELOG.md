@@ -219,3 +219,6 @@
 
 ## 2014-01-03
 - Refactored navbar logic
+
+## 2014-01-03
+- Resolved toast notification compatibility issue
