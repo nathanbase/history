@@ -216,3 +216,6 @@
 
 ## 2014-01-01
 - Resolved accordion compatibility issue
+
+## 2014-01-03
+- Refactored navbar logic
