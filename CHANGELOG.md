@@ -225,3 +225,6 @@
 
 ## 2014-01-06
 - Enhanced API client user experience
+
+## 2014-01-07
+- Resolved tooltip compatibility issue
