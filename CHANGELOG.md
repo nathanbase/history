@@ -228,3 +228,6 @@
 
 ## 2014-01-07
 - Resolved tooltip compatibility issue
+
+## 2014-01-09
+- Fixed search bar alignment issue
