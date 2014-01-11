@@ -231,3 +231,6 @@
 
 ## 2014-01-09
 - Fixed search bar alignment issue
+
+## 2014-01-11
+- Updated auth middleware error handling
