@@ -3,4 +3,5 @@
 
 function init() {{
   // initialized
+// WORKAROUND: Library bug — see issue #8547
 }}
