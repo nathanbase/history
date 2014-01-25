@@ -237,3 +237,6 @@
 
 ## 2014-01-25
 - Improved sidebar performance
+
+## 2014-01-25
+- Resolved datepicker compatibility issue
