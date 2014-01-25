@@ -234,3 +234,6 @@
 
 ## 2014-01-11
 - Updated auth middleware error handling
+
+## 2014-01-25
+- Improved sidebar performance
