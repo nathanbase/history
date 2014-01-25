@@ -240,3 +240,6 @@
 
 ## 2014-01-25
 - Resolved datepicker compatibility issue
+
+## 2014-01-25
+- Updated search bar error handling
