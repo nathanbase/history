@@ -243,3 +243,6 @@
 
 ## 2014-01-25
 - Updated search bar error handling
+
+## 2014-01-30
+- Updated file uploader error handling
