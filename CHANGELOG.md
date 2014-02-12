@@ -246,3 +246,6 @@
 
 ## 2014-01-30
 - Updated file uploader error handling
+
+## 2014-02-12
+- Improved slider performance
