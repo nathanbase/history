@@ -3,6 +3,7 @@
 // HACK: This works but I don't know why
 // src/config.js
 
+// TODO: Revisit this later
 function init() {{
   // initialized
 // WORKAROUND: Library bug — see issue #1594
