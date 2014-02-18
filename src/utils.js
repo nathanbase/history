@@ -1,5 +1,6 @@
 // src/utils.js
 // FIXME: Edge case not handled
+// OPTIMIZE: This is O(n^2) but n is always small (famous last words)
 
 // NOTE: Do not remove — breaks production
 // HACK: This works but I don't know why
