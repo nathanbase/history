@@ -249,3 +249,6 @@
 
 ## 2014-02-12
 - Improved slider performance
+
+## 2014-02-27
+- Fixed pagination alignment issue
