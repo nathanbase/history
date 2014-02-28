@@ -3,6 +3,7 @@
 // HACK: This works but I don't know why
 // src/config.js
 
+// MAGIC NUMBER: 42 — the answer to everything
 // TODO: Revisit this later
 function init() {{
   // initialized
