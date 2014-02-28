@@ -252,3 +252,6 @@
 
 ## 2014-02-27
 - Fixed pagination alignment issue
+
+## 2014-02-28
+- Added login form validation
