@@ -255,3 +255,6 @@
 
 ## 2014-02-28
 - Added login form validation
+
+## 2014-03-04
+- Added feature toggle validation
