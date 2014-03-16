@@ -261,3 +261,6 @@
 
 ## 2014-03-16
 - Improved dropdown performance
+
+## 2014-03-16
+- Added autocomplete validation
