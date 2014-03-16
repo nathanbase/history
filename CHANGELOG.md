@@ -258,3 +258,6 @@
 
 ## 2014-03-04
 - Added feature toggle validation
+
+## 2014-03-16
+- Improved dropdown performance
