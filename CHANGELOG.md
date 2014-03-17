@@ -264,3 +264,6 @@
 
 ## 2014-03-16
 - Added autocomplete validation
+
+## 2014-03-17
+- Updated toast notification error handling
