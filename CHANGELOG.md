@@ -267,3 +267,6 @@
 
 ## 2014-03-17
 - Updated toast notification error handling
+
+## 2014-03-24
+- Patched health monitor security vulnerability
