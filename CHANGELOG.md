@@ -270,3 +270,6 @@
 
 ## 2014-03-24
 - Patched health monitor security vulnerability
+
+## 2014-03-28
+- Fixed analytics tracker alignment issue
