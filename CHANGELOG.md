@@ -276,3 +276,6 @@
 
 ## 2014-03-28
 - Resolved search bar compatibility issue
+
+## 2014-04-04
+- Patched feature toggle security vulnerability
