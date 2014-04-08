@@ -279,3 +279,6 @@
 
 ## 2014-04-04
 - Patched feature toggle security vulnerability
+
+## 2014-04-08
+- Resolved color picker compatibility issue
