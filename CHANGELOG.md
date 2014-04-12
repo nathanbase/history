@@ -282,3 +282,6 @@
 
 ## 2014-04-08
 - Resolved color picker compatibility issue
+
+## 2014-04-12
+- Resolved progress bar compatibility issue
