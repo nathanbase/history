@@ -285,3 +285,6 @@
 
 ## 2014-04-12
 - Resolved progress bar compatibility issue
+
+## 2014-04-14
+- Updated login form error handling
