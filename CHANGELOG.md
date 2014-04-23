@@ -288,3 +288,6 @@
 
 ## 2014-04-14
 - Updated login form error handling
+
+## 2014-04-23
+- Enhanced modal user experience
