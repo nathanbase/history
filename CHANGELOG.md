@@ -291,3 +291,6 @@
 
 ## 2014-04-23
 - Enhanced modal user experience
+
+## 2014-05-01
+- Resolved file uploader compatibility issue
