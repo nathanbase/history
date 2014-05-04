@@ -294,3 +294,6 @@
 
 ## 2014-05-01
 - Resolved file uploader compatibility issue
+
+## 2014-05-04
+- Enhanced autocomplete user experience
