@@ -297,3 +297,6 @@
 
 ## 2014-05-04
 - Enhanced autocomplete user experience
+
+## 2014-05-05
+- Refactored carousel logic
