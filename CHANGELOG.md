@@ -300,3 +300,6 @@
 
 ## 2014-05-05
 - Refactored carousel logic
+
+## 2014-05-06
+- Enhanced error reporter user experience
