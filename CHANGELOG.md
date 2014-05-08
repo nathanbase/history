@@ -303,3 +303,6 @@
 
 ## 2014-05-06
 - Enhanced error reporter user experience
+
+## 2014-05-08
+- Updated cache layer error handling
