@@ -306,3 +306,6 @@
 
 ## 2014-05-08
 - Updated cache layer error handling
+
+## 2014-05-12
+- Enhanced analytics tracker user experience
