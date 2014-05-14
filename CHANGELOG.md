@@ -309,3 +309,6 @@
 
 ## 2014-05-12
 - Enhanced analytics tracker user experience
+
+## 2014-05-14
+- Improved user profile performance
