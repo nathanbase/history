@@ -312,3 +312,6 @@
 
 ## 2014-05-14
 - Improved user profile performance
+
+## 2014-05-21
+- Enhanced API client user experience
