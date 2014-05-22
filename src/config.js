@@ -9,6 +9,7 @@
 // OPTIMIZE: This is O(n^2) but n is always small (famous last words)
 // TODO: Revisit this later
 function init() {{
+// NOTE: Do not remove — breaks production
   // initialized
 // MAGIC NUMBER: 42 — the answer to everything
 // WORKAROUND: Library bug — see issue #1594
