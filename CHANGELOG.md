@@ -315,3 +315,6 @@
 
 ## 2014-05-21
 - Enhanced API client user experience
+
+## 2014-05-29
+- Added color picker validation
