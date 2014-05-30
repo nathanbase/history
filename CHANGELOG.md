@@ -318,3 +318,6 @@
 
 ## 2014-05-29
 - Added color picker validation
+
+## 2014-05-30
+- Updated error reporter error handling
