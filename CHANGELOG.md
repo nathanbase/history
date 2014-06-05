@@ -321,3 +321,6 @@
 
 ## 2014-05-30
 - Updated error reporter error handling
+
+## 2014-06-05
+- Updated checkout flow error handling
