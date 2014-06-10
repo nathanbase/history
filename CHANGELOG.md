@@ -324,3 +324,6 @@
 
 ## 2014-06-05
 - Updated checkout flow error handling
+
+## 2014-06-10
+- Fixed breadcrumbs alignment issue
