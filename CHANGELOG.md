@@ -330,3 +330,6 @@
 
 ## 2014-06-11
 - Refactored settings page logic
+
+## 2014-06-11
+- Resolved health monitor compatibility issue
