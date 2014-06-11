@@ -327,3 +327,6 @@
 
 ## 2014-06-10
 - Fixed breadcrumbs alignment issue
+
+## 2014-06-11
+- Refactored settings page logic
