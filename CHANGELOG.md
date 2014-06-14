@@ -333,3 +333,6 @@
 
 ## 2014-06-11
 - Resolved health monitor compatibility issue
+
+## 2014-06-14
+- Improved error reporter performance
