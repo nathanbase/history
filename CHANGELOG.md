@@ -336,3 +336,6 @@
 
 ## 2014-06-14
 - Improved error reporter performance
+
+## 2014-06-20
+- Improved logging service performance
