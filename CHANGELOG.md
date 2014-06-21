@@ -339,3 +339,6 @@
 
 ## 2014-06-20
 - Improved logging service performance
+
+## 2014-06-21
+- Enhanced modal user experience
