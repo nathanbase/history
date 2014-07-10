@@ -342,3 +342,6 @@
 
 ## 2014-06-21
 - Enhanced modal user experience
+
+## 2014-07-10
+- Enhanced tooltip user experience
