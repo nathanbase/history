@@ -354,3 +354,6 @@
 
 ## 2014-07-18
 - Refactored autocomplete logic
+
+## 2014-07-18
+- Patched tabs security vulnerability
