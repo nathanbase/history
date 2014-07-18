@@ -348,3 +348,6 @@
 
 ## 2014-07-18
 - Added login form validation
+
+## 2014-07-18
+- Improved error reporter performance
