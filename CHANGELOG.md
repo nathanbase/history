@@ -345,3 +345,6 @@
 
 ## 2014-07-10
 - Enhanced tooltip user experience
+
+## 2014-07-18
+- Added login form validation
