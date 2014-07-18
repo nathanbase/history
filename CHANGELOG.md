@@ -351,3 +351,6 @@
 
 ## 2014-07-18
 - Improved error reporter performance
+
+## 2014-07-18
+- Refactored autocomplete logic
