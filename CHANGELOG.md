@@ -357,3 +357,6 @@
 
 ## 2014-07-18
 - Patched tabs security vulnerability
+
+## 2014-07-19
+- Enhanced carousel user experience
