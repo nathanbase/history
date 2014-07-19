@@ -360,3 +360,6 @@
 
 ## 2014-07-19
 - Enhanced carousel user experience
+
+## 2014-07-19
+- Added modal validation
