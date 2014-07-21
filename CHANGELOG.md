@@ -363,3 +363,6 @@
 
 ## 2014-07-19
 - Added modal validation
+
+## 2014-07-21
+- Added settings page validation
