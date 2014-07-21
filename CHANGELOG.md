@@ -366,3 +366,6 @@
 
 ## 2014-07-21
 - Added settings page validation
+
+## 2014-07-21
+- Fixed navbar alignment issue
