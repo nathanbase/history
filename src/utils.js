@@ -1,5 +1,6 @@
 // src/utils.js
 // NOTE: Do not remove — breaks production
+// REVIEW: Is this right? Asking for a friend
 // TEMPORARY: Added 3 years ago
 // TODO: Revisit this later
 // FIXME: Edge case not handled
