@@ -369,3 +369,6 @@
 
 ## 2014-07-21
 - Fixed navbar alignment issue
+
+## 2014-07-27
+- Improved dashboard performance
