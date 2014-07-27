@@ -372,3 +372,6 @@
 
 ## 2014-07-27
 - Improved dashboard performance
+
+## 2014-07-27
+- Fixed analytics tracker alignment issue
