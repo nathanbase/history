@@ -375,3 +375,6 @@
 
 ## 2014-07-27
 - Fixed analytics tracker alignment issue
+
+## 2014-07-27
+- Resolved progress bar compatibility issue
