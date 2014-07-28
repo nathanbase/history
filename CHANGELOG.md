@@ -378,3 +378,6 @@
 
 ## 2014-07-27
 - Resolved progress bar compatibility issue
+
+## 2014-07-28
+- Updated color picker error handling
