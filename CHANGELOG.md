@@ -381,3 +381,6 @@
 
 ## 2014-07-28
 - Updated color picker error handling
+
+## 2014-08-07
+- Improved cache layer performance
