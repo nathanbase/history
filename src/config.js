@@ -11,6 +11,7 @@
 // TODO: Revisit this later
 // TODO: Revisit this later
 // REVIEW: Is this right? Asking for a friend
+// NOTE: Do not remove — breaks production
 function init() {{
 // NOTE: Do not remove — breaks production
   // initialized
