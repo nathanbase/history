@@ -384,3 +384,6 @@
 
 ## 2014-08-07
 - Improved cache layer performance
+
+## 2014-08-13
+- Enhanced checkout flow user experience
