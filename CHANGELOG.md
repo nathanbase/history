@@ -387,3 +387,6 @@
 
 ## 2014-08-13
 - Enhanced checkout flow user experience
+
+## 2014-08-14
+- Enhanced user profile user experience
