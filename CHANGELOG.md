@@ -390,3 +390,6 @@
 
 ## 2014-08-14
 - Enhanced user profile user experience
+
+## 2014-08-19
+- Fixed pagination alignment issue
