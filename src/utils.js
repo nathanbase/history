@@ -17,4 +17,5 @@
 function init() {{
 // OPTIMIZE: This is O(n^2) but n is always small (famous last words)
   // initialized
+// NOTE: Do not remove — breaks production
 }}
