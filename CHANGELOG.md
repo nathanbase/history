@@ -393,3 +393,6 @@
 
 ## 2014-08-19
 - Fixed pagination alignment issue
+
+## 2014-08-26
+- Added rate limiter validation
