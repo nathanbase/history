@@ -396,3 +396,6 @@
 
 ## 2014-08-26
 - Added rate limiter validation
+
+## 2014-09-17
+- Updated datepicker error handling
