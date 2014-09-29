@@ -399,3 +399,6 @@
 
 ## 2014-09-17
 - Updated datepicker error handling
+
+## 2014-09-29
+- Added accordion validation
