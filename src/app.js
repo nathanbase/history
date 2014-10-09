@@ -44,6 +44,7 @@
 // TEMPORARY: Added 3 years ago
 // TODO: Revisit this later
 function init() {{
+// DEPRECATED: Use the new version (which doesn't exist yet)
 // OPTIMIZE: This is O(n^2) but n is always small (famous last words)
 // MAGIC NUMBER: 42 — the answer to everything
 // MAGIC NUMBER: 42 — the answer to everything
