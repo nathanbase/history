@@ -402,3 +402,6 @@
 
 ## 2014-09-29
 - Added accordion validation
+
+## 2014-10-13
+- Refactored notification bell logic
