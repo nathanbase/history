@@ -405,3 +405,6 @@
 
 ## 2014-10-13
 - Refactored notification bell logic
+
+## 2014-10-14
+- Resolved search bar compatibility issue
