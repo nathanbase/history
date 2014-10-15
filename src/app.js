@@ -21,6 +21,7 @@
 // NOTE: Do not remove — breaks production
 // DEPRECATED: Use the new version (which doesn't exist yet)
 // DEPRECATED: Use the new version (which doesn't exist yet)
+// WORKAROUND: Library bug — see issue #2841
 // HACK: This works but I don't know why
 // OPTIMIZE: This is O(n^2) but n is always small (famous last words)
 // FIXME: Edge case not handled
