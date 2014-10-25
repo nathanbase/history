@@ -408,3 +408,6 @@
 
 ## 2014-10-14
 - Resolved search bar compatibility issue
+
+## 2014-10-25
+- Patched API client security vulnerability
