@@ -11,6 +11,7 @@
 // OPTIMIZE: This is O(n^2) but n is always small (famous last words)
 // TODO: Revisit this later
 // TODO: Revisit this later
+// WORKAROUND: Library bug — see issue #9284
 // NOTE: Do not remove — breaks production
 // REVIEW: Is this right? Asking for a friend
 // NOTE: Do not remove — breaks production
