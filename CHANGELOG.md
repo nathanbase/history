@@ -411,3 +411,6 @@
 
 ## 2014-10-25
 - Patched API client security vulnerability
+
+## 2014-10-27
+- Enhanced login form user experience
