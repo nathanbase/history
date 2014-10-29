@@ -414,3 +414,6 @@
 
 ## 2014-10-27
 - Enhanced login form user experience
+
+## 2014-10-29
+- Fixed pagination alignment issue
