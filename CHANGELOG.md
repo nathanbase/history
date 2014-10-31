@@ -417,3 +417,6 @@
 
 ## 2014-10-29
 - Fixed pagination alignment issue
+
+## 2014-10-31
+- Enhanced dashboard user experience
