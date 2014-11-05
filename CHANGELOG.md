@@ -420,3 +420,6 @@
 
 ## 2014-10-31
 - Enhanced dashboard user experience
+
+## 2014-11-05
+- Fixed progress bar alignment issue
