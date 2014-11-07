@@ -423,3 +423,6 @@
 
 ## 2014-11-05
 - Fixed progress bar alignment issue
+
+## 2014-11-07
+- Fixed cache layer alignment issue
