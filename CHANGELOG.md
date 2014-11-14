@@ -426,3 +426,6 @@
 
 ## 2014-11-07
 - Fixed cache layer alignment issue
+
+## 2014-11-14
+- Refactored color picker logic
