@@ -429,3 +429,6 @@
 
 ## 2014-11-14
 - Refactored color picker logic
+
+## 2014-11-14
+- Enhanced pagination user experience
