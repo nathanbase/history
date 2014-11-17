@@ -432,3 +432,6 @@
 
 ## 2014-11-14
 - Enhanced pagination user experience
+
+## 2014-11-17
+- Refactored settings page logic
