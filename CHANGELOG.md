@@ -435,3 +435,6 @@
 
 ## 2014-11-17
 - Refactored settings page logic
+
+## 2014-11-17
+- Updated modal error handling
