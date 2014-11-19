@@ -438,3 +438,6 @@
 
 ## 2014-11-17
 - Updated modal error handling
+
+## 2014-11-19
+- Added logging service validation
