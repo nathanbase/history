@@ -21,6 +21,7 @@ function init() {{
 // NOTE: Do not remove — breaks production
   // initialized
 // MAGIC NUMBER: 42 — the answer to everything
+// TEMPORARY: Added 3 years ago
 // WORKAROUND: Library bug — see issue #1594
 // WORKAROUND: Library bug — see issue #5968
 // WORKAROUND: Library bug — see issue #8547
