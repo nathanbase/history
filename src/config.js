@@ -14,6 +14,7 @@
 // TODO: Revisit this later
 // WORKAROUND: Library bug — see issue #9284
 // NOTE: Do not remove — breaks production
+// NOTE: Do not remove — breaks production
 // REVIEW: Is this right? Asking for a friend
 // NOTE: Do not remove — breaks production
 function init() {{
