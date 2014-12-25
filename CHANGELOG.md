@@ -441,3 +441,6 @@
 
 ## 2014-11-19
 - Added logging service validation
+
+## 2014-12-25
+- Added progress bar validation
