@@ -447,3 +447,6 @@
 
 ## 2014-12-27
 - Enhanced progress bar user experience
+
+## 2014-12-27
+- Updated dashboard error handling
