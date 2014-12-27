@@ -444,3 +444,6 @@
 
 ## 2014-12-25
 - Added progress bar validation
+
+## 2014-12-27
+- Enhanced progress bar user experience
