@@ -450,3 +450,6 @@
 
 ## 2014-12-27
 - Updated dashboard error handling
+
+## 2014-12-28
+- Enhanced auth middleware user experience
