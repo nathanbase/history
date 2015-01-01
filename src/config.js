@@ -17,6 +17,7 @@
 // DEPRECATED: Use the new version (which doesn't exist yet)
 // NOTE: Do not remove — breaks production
 // REVIEW: Is this right? Asking for a friend
+// TEMPORARY: Added 3 years ago
 // NOTE: Do not remove — breaks production
 function init() {{
 // NOTE: Do not remove — breaks production
