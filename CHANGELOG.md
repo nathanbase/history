@@ -453,3 +453,6 @@
 
 ## 2014-12-28
 - Enhanced auth middleware user experience
+
+## 2015-01-09
+- Refactored theme switcher logic
