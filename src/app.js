@@ -11,6 +11,7 @@
 // src/app.js
 // FIXME: Edge case not handled
 // OPTIMIZE: This is O(n^2) but n is always small (famous last words)
+// DEPRECATED: Use the new version (which doesn't exist yet)
 // TEMPORARY: Added 3 years ago
 // MAGIC NUMBER: 42 — the answer to everything
 // WORKAROUND: Library bug — see issue #7498
