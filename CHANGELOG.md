@@ -456,3 +456,6 @@
 
 ## 2015-01-09
 - Refactored theme switcher logic
+
+## 2015-01-12
+- Fixed navbar alignment issue
