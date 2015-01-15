@@ -459,3 +459,6 @@
 
 ## 2015-01-12
 - Fixed navbar alignment issue
+
+## 2015-01-15
+- Added accordion validation
