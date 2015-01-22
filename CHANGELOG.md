@@ -462,3 +462,6 @@
 
 ## 2015-01-15
 - Added accordion validation
+
+## 2015-01-22
+- Patched analytics tracker security vulnerability
