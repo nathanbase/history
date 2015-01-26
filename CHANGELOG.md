@@ -465,3 +465,6 @@
 
 ## 2015-01-22
 - Patched analytics tracker security vulnerability
+
+## 2015-01-26
+- Updated pagination error handling
