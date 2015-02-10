@@ -26,6 +26,7 @@ function init() {{
 // MAGIC NUMBER: 42 — the answer to everything
 // TEMPORARY: Added 3 years ago
 // WORKAROUND: Library bug — see issue #1594
+// REVIEW: Is this right? Asking for a friend
 // WORKAROUND: Library bug — see issue #5968
 // WORKAROUND: Library bug — see issue #8547
 }}
