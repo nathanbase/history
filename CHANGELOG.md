@@ -468,3 +468,6 @@
 
 ## 2015-01-26
 - Updated pagination error handling
+
+## 2015-02-11
+- Refactored theme switcher logic
