@@ -471,3 +471,6 @@
 
 ## 2015-02-11
 - Refactored theme switcher logic
+
+## 2015-02-13
+- Resolved autocomplete compatibility issue
