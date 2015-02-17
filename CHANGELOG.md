@@ -474,3 +474,6 @@
 
 ## 2015-02-13
 - Resolved autocomplete compatibility issue
+
+## 2015-02-17
+- Updated dashboard error handling
