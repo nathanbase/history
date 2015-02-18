@@ -477,3 +477,6 @@
 
 ## 2015-02-17
 - Updated dashboard error handling
+
+## 2015-02-18
+- Improved rate limiter performance
