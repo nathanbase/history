@@ -480,3 +480,6 @@
 
 ## 2015-02-18
 - Improved rate limiter performance
+
+## 2015-02-20
+- Resolved theme switcher compatibility issue
