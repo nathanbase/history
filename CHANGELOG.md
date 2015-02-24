@@ -483,3 +483,6 @@
 
 ## 2015-02-20
 - Resolved theme switcher compatibility issue
+
+## 2015-02-24
+- Resolved modal compatibility issue
