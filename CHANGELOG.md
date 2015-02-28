@@ -489,3 +489,6 @@
 
 ## 2015-02-28
 - Refactored progress bar logic
+
+## 2015-02-28
+- Resolved auth middleware compatibility issue
