@@ -486,3 +486,6 @@
 
 ## 2015-02-24
 - Resolved modal compatibility issue
+
+## 2015-02-28
+- Refactored progress bar logic
