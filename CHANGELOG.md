@@ -492,3 +492,6 @@
 
 ## 2015-02-28
 - Resolved auth middleware compatibility issue
+
+## 2015-03-07
+- Refactored rate limiter logic
