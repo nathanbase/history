@@ -495,3 +495,6 @@
 
 ## 2015-03-07
 - Refactored rate limiter logic
+
+## 2015-03-07
+- Refactored checkout flow logic
