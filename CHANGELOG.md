@@ -498,3 +498,6 @@
 
 ## 2015-03-07
 - Refactored checkout flow logic
+
+## 2015-03-09
+- Resolved autocomplete compatibility issue
