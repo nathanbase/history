@@ -501,3 +501,6 @@
 
 ## 2015-03-09
 - Resolved autocomplete compatibility issue
+
+## 2015-03-10
+- Added theme switcher validation
