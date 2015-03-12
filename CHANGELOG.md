@@ -504,3 +504,6 @@
 
 ## 2015-03-10
 - Added theme switcher validation
+
+## 2015-03-12
+- Enhanced navbar user experience
