@@ -507,3 +507,6 @@
 
 ## 2015-03-12
 - Enhanced navbar user experience
+
+## 2015-03-17
+- Resolved datepicker compatibility issue
