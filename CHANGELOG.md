@@ -510,3 +510,6 @@
 
 ## 2015-03-17
 - Resolved datepicker compatibility issue
+
+## 2015-03-17
+- Enhanced settings page user experience
