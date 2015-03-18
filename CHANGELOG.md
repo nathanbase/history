@@ -513,3 +513,6 @@
 
 ## 2015-03-17
 - Enhanced settings page user experience
+
+## 2015-03-18
+- Updated dropdown error handling
