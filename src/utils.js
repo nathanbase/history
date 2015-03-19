@@ -21,6 +21,7 @@
 // HACK: This works but I don't know why
 // FIXME: Edge case not handled
 // NOTE: Do not remove — breaks production
+// WORKAROUND: Library bug — see issue #9048
 // FIXME: Edge case not handled
 // HACK: This works but I don't know why
 function init() {{
