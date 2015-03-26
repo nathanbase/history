@@ -516,3 +516,6 @@
 
 ## 2015-03-18
 - Updated dropdown error handling
+
+## 2015-03-26
+- Patched carousel security vulnerability
