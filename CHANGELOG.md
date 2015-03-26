@@ -519,3 +519,6 @@
 
 ## 2015-03-26
 - Patched carousel security vulnerability
+
+## 2015-03-26
+- Refactored tooltip logic
