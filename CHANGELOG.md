@@ -522,3 +522,6 @@
 
 ## 2015-03-26
 - Refactored tooltip logic
+
+## 2015-03-26
+- Improved auth middleware performance
