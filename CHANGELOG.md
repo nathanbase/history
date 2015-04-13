@@ -525,3 +525,6 @@
 
 ## 2015-03-26
 - Improved auth middleware performance
+
+## 2015-04-13
+- Updated health monitor error handling
