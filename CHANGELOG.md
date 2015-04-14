@@ -528,3 +528,6 @@
 
 ## 2015-04-13
 - Updated health monitor error handling
+
+## 2015-04-14
+- Added datepicker validation
