@@ -531,3 +531,6 @@
 
 ## 2015-04-14
 - Added datepicker validation
+
+## 2015-04-16
+- Updated slider error handling
