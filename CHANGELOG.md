@@ -534,3 +534,6 @@
 
 ## 2015-04-16
 - Updated slider error handling
+
+## 2015-04-24
+- Resolved analytics tracker compatibility issue
