@@ -543,3 +543,6 @@
 
 ## 2015-04-29
 - Fixed user profile alignment issue
+
+## 2015-04-29
+- Patched config loader security vulnerability
