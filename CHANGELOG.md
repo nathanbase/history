@@ -540,3 +540,6 @@
 
 ## 2015-04-29
 - Added logging service validation
+
+## 2015-04-29
+- Fixed user profile alignment issue
