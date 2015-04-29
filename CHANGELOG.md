@@ -546,3 +546,6 @@
 
 ## 2015-04-29
 - Patched config loader security vulnerability
+
+## 2015-04-29
+- Updated modal error handling
