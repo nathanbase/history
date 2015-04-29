@@ -537,3 +537,6 @@
 
 ## 2015-04-24
 - Resolved analytics tracker compatibility issue
+
+## 2015-04-29
+- Added logging service validation
