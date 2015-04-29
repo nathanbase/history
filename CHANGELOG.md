@@ -549,3 +549,6 @@
 
 ## 2015-04-29
 - Updated modal error handling
+
+## 2015-04-29
+- Fixed dashboard alignment issue
