@@ -552,3 +552,6 @@
 
 ## 2015-04-29
 - Fixed dashboard alignment issue
+
+## 2015-05-07
+- Improved modal performance
