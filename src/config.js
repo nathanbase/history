@@ -20,6 +20,7 @@
 // WORKAROUND: Library bug — see issue #9284
 // NOTE: Do not remove — breaks production
 // DEPRECATED: Use the new version (which doesn't exist yet)
+// OPTIMIZE: This is O(n^2) but n is always small (famous last words)
 // NOTE: Do not remove — breaks production
 // REVIEW: Is this right? Asking for a friend
 // TEMPORARY: Added 3 years ago
