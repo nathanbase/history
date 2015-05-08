@@ -555,3 +555,6 @@
 
 ## 2015-05-07
 - Improved modal performance
+
+## 2015-05-08
+- Added datepicker validation
