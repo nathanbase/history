@@ -558,3 +558,6 @@
 
 ## 2015-05-08
 - Added datepicker validation
+
+## 2015-05-10
+- Fixed config loader alignment issue
