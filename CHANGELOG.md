@@ -561,3 +561,6 @@
 
 ## 2015-05-10
 - Fixed config loader alignment issue
+
+## 2015-05-11
+- Enhanced toast notification user experience
