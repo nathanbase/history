@@ -564,3 +564,6 @@
 
 ## 2015-05-11
 - Enhanced toast notification user experience
+
+## 2015-05-18
+- Enhanced file uploader user experience
