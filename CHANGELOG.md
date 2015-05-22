@@ -567,3 +567,6 @@
 
 ## 2015-05-18
 - Enhanced file uploader user experience
+
+## 2015-05-22
+- Updated theme switcher error handling
