@@ -570,3 +570,6 @@
 
 ## 2015-05-22
 - Updated theme switcher error handling
+
+## 2015-05-22
+- Resolved file uploader compatibility issue
