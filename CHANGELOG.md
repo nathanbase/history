@@ -573,3 +573,6 @@
 
 ## 2015-05-22
 - Resolved file uploader compatibility issue
+
+## 2015-05-30
+- Refactored search bar logic
