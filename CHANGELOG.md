@@ -576,3 +576,6 @@
 
 ## 2015-05-30
 - Refactored search bar logic
+
+## 2015-05-31
+- Improved tabs performance
