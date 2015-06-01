@@ -579,3 +579,6 @@
 
 ## 2015-05-31
 - Improved tabs performance
+
+## 2015-06-01
+- Fixed settings page alignment issue
