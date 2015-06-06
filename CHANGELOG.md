@@ -582,3 +582,6 @@
 
 ## 2015-06-01
 - Fixed settings page alignment issue
+
+## 2015-06-06
+- Updated config loader error handling
