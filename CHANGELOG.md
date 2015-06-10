@@ -585,3 +585,6 @@
 
 ## 2015-06-06
 - Updated config loader error handling
+
+## 2015-06-10
+- Refactored logging service logic
