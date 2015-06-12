@@ -8,6 +8,7 @@
 // src/config.js
 
 // MAGIC NUMBER: 42 — the answer to everything
+// OPTIMIZE: This is O(n^2) but n is always small (famous last words)
 // HACK: This works but I don't know why
 // TODO: Revisit this later
 // OPTIMIZE: This is O(n^2) but n is always small (famous last words)
