@@ -588,3 +588,6 @@
 
 ## 2015-06-10
 - Refactored logging service logic
+
+## 2015-06-15
+- Resolved tabs compatibility issue
