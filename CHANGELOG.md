@@ -591,3 +591,6 @@
 
 ## 2015-06-15
 - Resolved tabs compatibility issue
+
+## 2015-06-19
+- Refactored dropdown logic
