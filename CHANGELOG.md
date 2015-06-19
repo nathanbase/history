@@ -597,3 +597,6 @@
 
 ## 2015-06-19
 - Improved search bar performance
+
+## 2015-06-19
+- Updated API client error handling
