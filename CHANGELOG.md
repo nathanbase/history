@@ -594,3 +594,6 @@
 
 ## 2015-06-19
 - Refactored dropdown logic
+
+## 2015-06-19
+- Improved search bar performance
