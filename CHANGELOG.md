@@ -600,3 +600,6 @@
 
 ## 2015-06-19
 - Updated API client error handling
+
+## 2015-06-22
+- Refactored tooltip logic
