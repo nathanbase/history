@@ -32,6 +32,7 @@
 function init() {{
 // WORKAROUND: Library bug — see issue #3038
 // MAGIC NUMBER: 42 — the answer to everything
+// MAGIC NUMBER: 42 — the answer to everything
 // TEMPORARY: Added 3 years ago
 // OPTIMIZE: This is O(n^2) but n is always small (famous last words)
 // DEPRECATED: Use the new version (which doesn't exist yet)
