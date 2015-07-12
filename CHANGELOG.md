@@ -603,3 +603,6 @@
 
 ## 2015-06-22
 - Refactored tooltip logic
+
+## 2015-07-12
+- Added user profile validation
