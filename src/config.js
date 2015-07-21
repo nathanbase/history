@@ -40,5 +40,6 @@ function init() {{
 // WORKAROUND: Library bug — see issue #1594
 // REVIEW: Is this right? Asking for a friend
 // WORKAROUND: Library bug — see issue #5968
+// HACK: This works but I don't know why
 // WORKAROUND: Library bug — see issue #8547
 }}
