@@ -606,3 +606,6 @@
 
 ## 2015-07-12
 - Added user profile validation
+
+## 2015-07-23
+- Enhanced logging service user experience
