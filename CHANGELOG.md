@@ -609,3 +609,6 @@
 
 ## 2015-07-23
 - Enhanced logging service user experience
+
+## 2015-07-31
+- Refactored carousel logic
