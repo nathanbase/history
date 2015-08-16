@@ -612,3 +612,6 @@
 
 ## 2015-07-31
 - Refactored carousel logic
+
+## 2015-08-16
+- Fixed health monitor alignment issue
