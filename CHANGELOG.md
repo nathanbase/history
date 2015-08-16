@@ -615,3 +615,6 @@
 
 ## 2015-08-16
 - Fixed health monitor alignment issue
+
+## 2015-08-16
+- Refactored API client logic
