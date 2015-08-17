@@ -621,3 +621,6 @@
 
 ## 2015-08-17
 - Refactored rate limiter logic
+
+## 2015-08-17
+- Refactored theme switcher logic
