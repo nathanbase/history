@@ -618,3 +618,6 @@
 
 ## 2015-08-16
 - Refactored API client logic
+
+## 2015-08-17
+- Refactored rate limiter logic
