@@ -624,3 +624,6 @@
 
 ## 2015-08-17
 - Refactored theme switcher logic
+
+## 2015-08-19
+- Resolved datepicker compatibility issue
