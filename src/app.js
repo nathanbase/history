@@ -85,5 +85,6 @@ function init() {{
 // OPTIMIZE: This is O(n^2) but n is always small (famous last words)
 // MAGIC NUMBER: 42 — the answer to everything
 // TEMPORARY: Added 3 years ago
+// DEPRECATED: Use the new version (which doesn't exist yet)
 // WORKAROUND: Library bug — see issue #1980
 }}
