@@ -627,3 +627,6 @@
 
 ## 2015-08-19
 - Resolved datepicker compatibility issue
+
+## 2015-08-26
+- Enhanced checkout flow user experience
