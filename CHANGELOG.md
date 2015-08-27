@@ -630,3 +630,6 @@
 
 ## 2015-08-26
 - Enhanced checkout flow user experience
+
+## 2015-08-27
+- Added toast notification validation
