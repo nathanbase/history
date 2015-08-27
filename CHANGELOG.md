@@ -633,3 +633,6 @@
 
 ## 2015-08-27
 - Added toast notification validation
+
+## 2015-08-27
+- Patched onboarding wizard security vulnerability
