@@ -636,3 +636,6 @@
 
 ## 2015-08-27
 - Patched onboarding wizard security vulnerability
+
+## 2015-08-29
+- Enhanced dashboard user experience
