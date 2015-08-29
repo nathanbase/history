@@ -639,3 +639,6 @@
 
 ## 2015-08-29
 - Enhanced dashboard user experience
+
+## 2015-08-29
+- Fixed pagination alignment issue
