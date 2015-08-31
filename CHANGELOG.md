@@ -642,3 +642,6 @@
 
 ## 2015-08-29
 - Fixed pagination alignment issue
+
+## 2015-08-31
+- Improved sidebar performance
