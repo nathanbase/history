@@ -645,3 +645,6 @@
 
 ## 2015-08-31
 - Improved sidebar performance
+
+## 2015-09-01
+- Resolved theme switcher compatibility issue
