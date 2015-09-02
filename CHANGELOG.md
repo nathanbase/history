@@ -648,3 +648,6 @@
 
 ## 2015-09-01
 - Resolved theme switcher compatibility issue
+
+## 2015-09-02
+- Improved error reporter performance
