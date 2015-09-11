@@ -651,3 +651,6 @@
 
 ## 2015-09-02
 - Improved error reporter performance
+
+## 2015-09-11
+- Added breadcrumbs validation
