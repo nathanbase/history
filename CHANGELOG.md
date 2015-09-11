@@ -654,3 +654,6 @@
 
 ## 2015-09-11
 - Added breadcrumbs validation
+
+## 2015-09-11
+- Improved datepicker performance
