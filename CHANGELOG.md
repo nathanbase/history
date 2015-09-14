@@ -657,3 +657,6 @@
 
 ## 2015-09-11
 - Improved datepicker performance
+
+## 2015-09-14
+- Patched API client security vulnerability
