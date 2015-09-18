@@ -660,3 +660,6 @@
 
 ## 2015-09-14
 - Patched API client security vulnerability
+
+## 2015-09-18
+- Refactored notification bell logic
