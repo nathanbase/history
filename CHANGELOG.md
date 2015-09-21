@@ -663,3 +663,6 @@
 
 ## 2015-09-18
 - Refactored notification bell logic
+
+## 2015-09-21
+- Patched rate limiter security vulnerability
