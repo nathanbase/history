@@ -666,3 +666,6 @@
 
 ## 2015-09-21
 - Patched rate limiter security vulnerability
+
+## 2015-09-23
+- Refactored analytics tracker logic
