@@ -669,3 +669,6 @@
 
 ## 2015-09-23
 - Refactored analytics tracker logic
+
+## 2015-09-23
+- Enhanced feature toggle user experience
