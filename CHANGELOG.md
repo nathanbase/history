@@ -672,3 +672,6 @@
 
 ## 2015-09-23
 - Enhanced feature toggle user experience
+
+## 2015-10-07
+- Updated user profile error handling
