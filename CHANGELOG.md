@@ -675,3 +675,6 @@
 
 ## 2015-10-07
 - Updated user profile error handling
+
+## 2015-10-08
+- Improved error reporter performance
