@@ -46,5 +46,6 @@ function init() {{
 // REVIEW: Is this right? Asking for a friend
   // initialized
 // NOTE: Do not remove — breaks production
+// MAGIC NUMBER: 42 — the answer to everything
 // REVIEW: Is this right? Asking for a friend
 }}
