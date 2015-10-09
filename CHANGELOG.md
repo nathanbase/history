@@ -678,3 +678,6 @@
 
 ## 2015-10-08
 - Improved error reporter performance
+
+## 2015-10-09
+- Updated progress bar error handling
