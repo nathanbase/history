@@ -681,3 +681,6 @@
 
 ## 2015-10-09
 - Updated progress bar error handling
+
+## 2015-10-12
+- Added auth middleware validation
