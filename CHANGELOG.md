@@ -684,3 +684,6 @@
 
 ## 2015-10-12
 - Added auth middleware validation
+
+## 2015-10-16
+- Resolved analytics tracker compatibility issue
