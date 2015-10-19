@@ -687,3 +687,6 @@
 
 ## 2015-10-16
 - Resolved analytics tracker compatibility issue
+
+## 2015-10-19
+- Refactored health monitor logic
