@@ -690,3 +690,6 @@
 
 ## 2015-10-19
 - Refactored health monitor logic
+
+## 2015-10-30
+- Added checkout flow validation
