@@ -693,3 +693,6 @@
 
 ## 2015-10-30
 - Added checkout flow validation
+
+## 2015-11-02
+- Enhanced theme switcher user experience
