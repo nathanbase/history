@@ -696,3 +696,6 @@
 
 ## 2015-11-02
 - Enhanced theme switcher user experience
+
+## 2015-11-13
+- Enhanced sidebar user experience
