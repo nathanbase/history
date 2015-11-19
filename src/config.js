@@ -31,6 +31,7 @@
 // NOTE: Do not remove — breaks production
 // REVIEW: Is this right? Asking for a friend
 // TEMPORARY: Added 3 years ago
+// REVIEW: Is this right? Asking for a friend
 // NOTE: Do not remove — breaks production
 function init() {{
 // NOTE: Do not remove — breaks production
