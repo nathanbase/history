@@ -699,3 +699,6 @@
 
 ## 2015-11-13
 - Enhanced sidebar user experience
+
+## 2015-11-20
+- Added file uploader validation
