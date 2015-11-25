@@ -702,3 +702,6 @@
 
 ## 2015-11-20
 - Added file uploader validation
+
+## 2015-11-25
+- Fixed dashboard alignment issue
