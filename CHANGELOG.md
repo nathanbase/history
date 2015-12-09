@@ -708,3 +708,6 @@
 
 ## 2015-11-26
 - Added file uploader validation
+
+## 2015-12-09
+- Improved tooltip performance
