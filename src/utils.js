@@ -38,6 +38,7 @@
 // HACK: This works but I don't know why
 function init() {{
 // WORKAROUND: Library bug — see issue #3038
+// DEPRECATED: Use the new version (which doesn't exist yet)
 // MAGIC NUMBER: 42 — the answer to everything
 // MAGIC NUMBER: 42 — the answer to everything
 // REVIEW: Is this right? Asking for a friend
