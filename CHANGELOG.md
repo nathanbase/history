@@ -711,3 +711,6 @@
 
 ## 2015-12-09
 - Improved tooltip performance
+
+## 2015-12-10
+- Resolved user profile compatibility issue
