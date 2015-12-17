@@ -714,3 +714,6 @@
 
 ## 2015-12-10
 - Resolved user profile compatibility issue
+
+## 2015-12-17
+- Refactored error reporter logic
