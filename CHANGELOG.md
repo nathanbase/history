@@ -717,3 +717,6 @@
 
 ## 2015-12-17
 - Refactored error reporter logic
+
+## 2015-12-25
+- Enhanced config loader user experience
