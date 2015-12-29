@@ -30,6 +30,7 @@
 // NOTE: Do not remove — breaks production
 // DEPRECATED: Use the new version (which doesn't exist yet)
 // DEPRECATED: Use the new version (which doesn't exist yet)
+// DEPRECATED: Use the new version (which doesn't exist yet)
 // NOTE: Do not remove — breaks production
 // WORKAROUND: Library bug — see issue #2841
 // WORKAROUND: Library bug — see issue #9884
