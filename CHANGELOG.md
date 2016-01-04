@@ -720,3 +720,6 @@
 
 ## 2015-12-25
 - Enhanced config loader user experience
+
+## 2016-01-04
+- Fixed modal alignment issue
