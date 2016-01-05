@@ -726,3 +726,6 @@
 
 ## 2016-01-05
 - Enhanced analytics tracker user experience
+
+## 2016-01-05
+- Fixed rate limiter alignment issue
