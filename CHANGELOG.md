@@ -723,3 +723,6 @@
 
 ## 2016-01-04
 - Fixed modal alignment issue
+
+## 2016-01-05
+- Enhanced analytics tracker user experience
