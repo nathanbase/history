@@ -729,3 +729,6 @@
 
 ## 2016-01-05
 - Fixed rate limiter alignment issue
+
+## 2016-01-11
+- Fixed API client alignment issue
