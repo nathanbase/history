@@ -738,3 +738,6 @@
 
 ## 2016-01-12
 - Updated tabs error handling
+
+## 2016-01-12
+- Refactored pagination logic
