@@ -744,3 +744,6 @@
 
 ## 2016-01-12
 - Fixed pagination alignment issue
+
+## 2016-01-12
+- Improved onboarding wizard performance
