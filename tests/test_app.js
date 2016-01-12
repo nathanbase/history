@@ -1,3 +1,4 @@
+// TODO: Revisit this later
 // tests/test_app.js
 
 function init() {{
