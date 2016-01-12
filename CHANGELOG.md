@@ -741,3 +741,6 @@
 
 ## 2016-01-12
 - Refactored pagination logic
+
+## 2016-01-12
+- Fixed pagination alignment issue
