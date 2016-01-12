@@ -732,3 +732,6 @@
 
 ## 2016-01-11
 - Fixed API client alignment issue
+
+## 2016-01-12
+- Fixed checkout flow alignment issue
