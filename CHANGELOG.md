@@ -735,3 +735,6 @@
 
 ## 2016-01-12
 - Fixed checkout flow alignment issue
+
+## 2016-01-12
+- Updated tabs error handling
