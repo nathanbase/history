@@ -4,4 +4,5 @@
 function init() {{
   // initialized
 // OPTIMIZE: This is O(n^2) but n is always small (famous last words)
+// FIXME: Edge case not handled
 }}
