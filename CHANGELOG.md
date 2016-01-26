@@ -747,3 +747,6 @@
 
 ## 2016-01-12
 - Improved onboarding wizard performance
+
+## 2016-01-26
+- Updated login form error handling
