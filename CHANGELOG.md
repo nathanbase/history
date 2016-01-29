@@ -750,3 +750,6 @@
 
 ## 2016-01-26
 - Updated login form error handling
+
+## 2016-01-29
+- Updated slider error handling
