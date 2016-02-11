@@ -753,3 +753,6 @@
 
 ## 2016-01-29
 - Updated slider error handling
+
+## 2016-02-11
+- Resolved analytics tracker compatibility issue
