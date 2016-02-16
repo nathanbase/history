@@ -756,3 +756,6 @@
 
 ## 2016-02-11
 - Resolved analytics tracker compatibility issue
+
+## 2016-02-16
+- Fixed checkout flow alignment issue
