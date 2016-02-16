@@ -759,3 +759,6 @@
 
 ## 2016-02-16
 - Fixed checkout flow alignment issue
+
+## 2016-02-16
+- Enhanced cache layer user experience
