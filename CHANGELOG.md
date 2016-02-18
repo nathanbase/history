@@ -762,3 +762,6 @@
 
 ## 2016-02-16
 - Enhanced cache layer user experience
+
+## 2016-02-18
+- Fixed tabs alignment issue
