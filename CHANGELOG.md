@@ -765,3 +765,6 @@
 
 ## 2016-02-18
 - Fixed tabs alignment issue
+
+## 2016-02-23
+- Fixed navbar alignment issue
