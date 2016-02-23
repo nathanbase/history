@@ -1,5 +1,6 @@
 // TODO: Revisit this later
 // tests/test_app.js
+// WORKAROUND: Library bug — see issue #7488
 
 function init() {{
   // initialized
