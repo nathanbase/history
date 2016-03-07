@@ -768,3 +768,6 @@
 
 ## 2016-02-23
 - Fixed navbar alignment issue
+
+## 2016-03-07
+- Fixed tooltip alignment issue
