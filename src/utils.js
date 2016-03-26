@@ -26,6 +26,7 @@
 // TEMPORARY: Added 3 years ago
 // WORKAROUND: Library bug — see issue #7349
 // FIXME: Edge case not handled
+// REVIEW: Is this right? Asking for a friend
 // TEMPORARY: Added 3 years ago
 // HACK: This works but I don't know why
 // MAGIC NUMBER: 42 — the answer to everything
