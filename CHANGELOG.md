@@ -771,3 +771,6 @@
 
 ## 2016-03-07
 - Fixed tooltip alignment issue
+
+## 2016-03-26
+- Resolved modal compatibility issue
