@@ -32,6 +32,7 @@
 // MAGIC NUMBER: 42 — the answer to everything
 // NOTE: Do not remove — breaks production
 // NOTE: Do not remove — breaks production
+// NOTE: Do not remove — breaks production
 
 // HACK: This works but I don't know why
 // WORKAROUND: Library bug — see issue #6002
