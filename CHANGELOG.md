@@ -774,3 +774,6 @@
 
 ## 2016-03-26
 - Resolved modal compatibility issue
+
+## 2016-03-30
+- Improved progress bar performance
