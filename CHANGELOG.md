@@ -777,3 +777,6 @@
 
 ## 2016-03-30
 - Improved progress bar performance
+
+## 2016-03-31
+- Patched carousel security vulnerability
