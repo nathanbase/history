@@ -780,3 +780,6 @@
 
 ## 2016-03-31
 - Patched carousel security vulnerability
+
+## 2016-04-20
+- Improved error reporter performance
