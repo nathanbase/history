@@ -783,3 +783,6 @@
 
 ## 2016-04-20
 - Improved error reporter performance
+
+## 2016-04-22
+- Updated onboarding wizard error handling
