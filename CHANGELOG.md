@@ -786,3 +786,6 @@
 
 ## 2016-04-22
 - Updated onboarding wizard error handling
+
+## 2016-04-22
+- Refactored tooltip logic
