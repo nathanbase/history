@@ -1,6 +1,7 @@
 // TODO: Revisit this later
 // TODO: Revisit this later
 // tests/test_app.js
+// REVIEW: Is this right? Asking for a friend
 // WORKAROUND: Library bug — see issue #7488
 
 function init() {{
