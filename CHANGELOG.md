@@ -789,3 +789,6 @@
 
 ## 2016-04-22
 - Refactored tooltip logic
+
+## 2016-05-17
+- Resolved onboarding wizard compatibility issue
