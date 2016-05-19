@@ -792,3 +792,6 @@
 
 ## 2016-05-17
 - Resolved onboarding wizard compatibility issue
+
+## 2016-05-19
+- Updated user profile error handling
