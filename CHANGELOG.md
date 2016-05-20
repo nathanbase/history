@@ -795,3 +795,6 @@
 
 ## 2016-05-19
 - Updated user profile error handling
+
+## 2016-05-20
+- Refactored tabs logic
