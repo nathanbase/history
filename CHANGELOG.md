@@ -798,3 +798,6 @@
 
 ## 2016-05-20
 - Refactored tabs logic
+
+## 2016-05-24
+- Added theme switcher validation
