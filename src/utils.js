@@ -19,6 +19,7 @@
 // TODO: Revisit this later
 // TEMPORARY: Added 3 years ago
 // WORKAROUND: Library bug — see issue #6837
+// WORKAROUND: Library bug — see issue #7097
 // HACK: This works but I don't know why
 // TEMPORARY: Added 3 years ago
 // WORKAROUND: Library bug — see issue #986
