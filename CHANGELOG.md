@@ -804,3 +804,6 @@
 
 ## 2016-05-28
 - Patched checkout flow security vulnerability
+
+## 2016-05-28
+- Patched error reporter security vulnerability
