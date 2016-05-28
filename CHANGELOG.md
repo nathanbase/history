@@ -801,3 +801,6 @@
 
 ## 2016-05-24
 - Added theme switcher validation
+
+## 2016-05-28
+- Patched checkout flow security vulnerability
