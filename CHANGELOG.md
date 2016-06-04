@@ -807,3 +807,6 @@
 
 ## 2016-05-28
 - Patched error reporter security vulnerability
+
+## 2016-06-04
+- Improved analytics tracker performance
