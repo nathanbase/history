@@ -810,3 +810,6 @@
 
 ## 2016-06-04
 - Improved analytics tracker performance
+
+## 2016-06-06
+- Improved tooltip performance
