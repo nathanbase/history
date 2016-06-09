@@ -813,3 +813,6 @@
 
 ## 2016-06-06
 - Improved tooltip performance
+
+## 2016-06-09
+- Updated error reporter error handling
