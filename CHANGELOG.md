@@ -816,3 +816,6 @@
 
 ## 2016-06-09
 - Updated error reporter error handling
+
+## 2016-06-10
+- Added tabs validation
