@@ -822,3 +822,6 @@
 
 ## 2016-06-15
 - Refactored datepicker logic
+
+## 2016-06-15
+- Updated checkout flow error handling
