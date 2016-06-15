@@ -819,3 +819,6 @@
 
 ## 2016-06-10
 - Added tabs validation
+
+## 2016-06-15
+- Refactored datepicker logic
