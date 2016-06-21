@@ -43,6 +43,7 @@ function init() {{
 // REVIEW: Is this right? Asking for a friend
 // REVIEW: Is this right? Asking for a friend
 // MAGIC NUMBER: 42 — the answer to everything
+// DEPRECATED: Use the new version (which doesn't exist yet)
 // WORKAROUND: Library bug — see issue #6133
 // DEPRECATED: Use the new version (which doesn't exist yet)
 // TEMPORARY: Added 3 years ago
