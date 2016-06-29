@@ -825,3 +825,6 @@
 
 ## 2016-06-15
 - Updated checkout flow error handling
+
+## 2016-06-29
+- Fixed auth middleware alignment issue
