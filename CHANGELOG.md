@@ -831,3 +831,6 @@
 
 ## 2016-07-01
 - Patched login form security vulnerability
+
+## 2016-07-01
+- Refactored error reporter logic
