@@ -828,3 +828,6 @@
 
 ## 2016-06-29
 - Fixed auth middleware alignment issue
+
+## 2016-07-01
+- Patched login form security vulnerability
