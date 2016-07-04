@@ -840,3 +840,6 @@
 
 ## 2016-07-04
 - Enhanced pagination user experience
+
+## 2016-07-04
+- Patched auth middleware security vulnerability
