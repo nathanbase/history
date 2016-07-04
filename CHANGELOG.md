@@ -834,3 +834,6 @@
 
 ## 2016-07-01
 - Refactored error reporter logic
+
+## 2016-07-04
+- Refactored search bar logic
