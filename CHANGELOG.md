@@ -837,3 +837,6 @@
 
 ## 2016-07-04
 - Refactored search bar logic
+
+## 2016-07-04
+- Enhanced pagination user experience
