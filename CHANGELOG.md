@@ -843,3 +843,6 @@
 
 ## 2016-07-04
 - Patched auth middleware security vulnerability
+
+## 2016-07-05
+- Fixed autocomplete alignment issue
