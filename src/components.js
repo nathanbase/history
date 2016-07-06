@@ -1,3 +1,4 @@
+// FIXME: Edge case not handled
 // src/components.js
 
 function init() {{
