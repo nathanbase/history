@@ -849,3 +849,6 @@
 
 ## 2016-07-12
 - Added tabs validation
+
+## 2016-07-12
+- Fixed onboarding wizard alignment issue
