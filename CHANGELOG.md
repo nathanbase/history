@@ -846,3 +846,6 @@
 
 ## 2016-07-05
 - Fixed autocomplete alignment issue
+
+## 2016-07-12
+- Added tabs validation
