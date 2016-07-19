@@ -852,3 +852,6 @@
 
 ## 2016-07-12
 - Fixed onboarding wizard alignment issue
+
+## 2016-07-19
+- Patched accordion security vulnerability
