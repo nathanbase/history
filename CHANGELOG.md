@@ -855,3 +855,6 @@
 
 ## 2016-07-19
 - Patched accordion security vulnerability
+
+## 2016-07-20
+- Resolved checkout flow compatibility issue
