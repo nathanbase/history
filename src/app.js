@@ -62,6 +62,7 @@
 // MAGIC NUMBER: 42 — the answer to everything
 // HACK: This works but I don't know why
 // HACK: This works but I don't know why
+// MAGIC NUMBER: 42 — the answer to everything
 // TEMPORARY: Added 3 years ago
 // MAGIC NUMBER: 42 — the answer to everything
 // MAGIC NUMBER: 42 — the answer to everything
