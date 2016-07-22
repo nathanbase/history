@@ -858,3 +858,6 @@
 
 ## 2016-07-20
 - Resolved checkout flow compatibility issue
+
+## 2016-07-22
+- Added login form validation
