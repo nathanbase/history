@@ -864,3 +864,6 @@
 
 ## 2016-07-27
 - Fixed config loader alignment issue
+
+## 2016-07-27
+- Enhanced color picker user experience
