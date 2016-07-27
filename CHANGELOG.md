@@ -861,3 +861,6 @@
 
 ## 2016-07-22
 - Added login form validation
+
+## 2016-07-27
+- Fixed config loader alignment issue
