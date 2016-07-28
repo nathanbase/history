@@ -8,6 +8,7 @@
 // WORKAROUND: Library bug — see issue #8496
 // TODO: Revisit this later
 // TODO: Revisit this later
+// OPTIMIZE: This is O(n^2) but n is always small (famous last words)
 // REVIEW: Is this right? Asking for a friend
 // src/config.js
 
