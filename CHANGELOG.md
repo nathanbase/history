@@ -867,3 +867,6 @@
 
 ## 2016-07-27
 - Enhanced color picker user experience
+
+## 2016-08-02
+- Fixed tooltip alignment issue
