@@ -873,3 +873,6 @@
 
 ## 2016-08-04
 - Fixed config loader alignment issue
+
+## 2016-08-04
+- Fixed accordion alignment issue
