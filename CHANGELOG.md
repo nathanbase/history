@@ -870,3 +870,6 @@
 
 ## 2016-08-02
 - Fixed tooltip alignment issue
+
+## 2016-08-04
+- Fixed config loader alignment issue
