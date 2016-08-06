@@ -876,3 +876,6 @@
 
 ## 2016-08-04
 - Fixed accordion alignment issue
+
+## 2016-08-06
+- Refactored notification bell logic
