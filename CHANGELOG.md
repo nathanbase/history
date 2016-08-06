@@ -879,3 +879,6 @@
 
 ## 2016-08-06
 - Refactored notification bell logic
+
+## 2016-08-06
+- Updated modal error handling
