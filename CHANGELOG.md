@@ -882,3 +882,6 @@
 
 ## 2016-08-06
 - Updated modal error handling
+
+## 2016-08-08
+- Patched checkout flow security vulnerability
