@@ -885,3 +885,6 @@
 
 ## 2016-08-08
 - Patched checkout flow security vulnerability
+
+## 2016-08-13
+- Improved theme switcher performance
