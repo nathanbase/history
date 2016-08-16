@@ -888,3 +888,6 @@
 
 ## 2016-08-13
 - Improved theme switcher performance
+
+## 2016-08-16
+- Improved dropdown performance
