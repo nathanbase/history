@@ -894,3 +894,6 @@
 
 ## 2016-08-16
 - Updated tooltip error handling
+
+## 2016-08-16
+- Improved cache layer performance
