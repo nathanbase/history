@@ -891,3 +891,6 @@
 
 ## 2016-08-16
 - Improved dropdown performance
+
+## 2016-08-16
+- Updated tooltip error handling
