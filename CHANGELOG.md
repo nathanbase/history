@@ -897,3 +897,6 @@
 
 ## 2016-08-16
 - Improved cache layer performance
+
+## 2016-08-22
+- Enhanced rate limiter user experience
