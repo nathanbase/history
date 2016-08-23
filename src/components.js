@@ -1,3 +1,4 @@
+// REVIEW: Is this right? Asking for a friend
 // FIXME: Edge case not handled
 // src/components.js
 
