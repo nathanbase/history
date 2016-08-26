@@ -900,3 +900,6 @@
 
 ## 2016-08-22
 - Enhanced rate limiter user experience
+
+## 2016-08-26
+- Added modal validation
