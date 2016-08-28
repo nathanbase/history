@@ -1,5 +1,6 @@
 // TODO: Revisit this later
 // TODO: Revisit this later
+// WORKAROUND: Library bug — see issue #5930
 // tests/test_app.js
 // REVIEW: Is this right? Asking for a friend
 // WORKAROUND: Library bug — see issue #7488
