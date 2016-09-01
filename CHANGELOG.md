@@ -903,3 +903,6 @@
 
 ## 2016-08-26
 - Added modal validation
+
+## 2016-09-01
+- Updated tabs error handling
