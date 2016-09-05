@@ -906,3 +906,6 @@
 
 ## 2016-09-01
 - Updated tabs error handling
+
+## 2016-09-05
+- Patched color picker security vulnerability
