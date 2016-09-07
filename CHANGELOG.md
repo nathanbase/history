@@ -909,3 +909,6 @@
 
 ## 2016-09-05
 - Patched color picker security vulnerability
+
+## 2016-09-07
+- Improved analytics tracker performance
