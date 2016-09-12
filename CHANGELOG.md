@@ -915,3 +915,6 @@
 
 ## 2016-09-12
 - Patched feature toggle security vulnerability
+
+## 2016-09-12
+- Fixed carousel alignment issue
