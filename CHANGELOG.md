@@ -912,3 +912,6 @@
 
 ## 2016-09-07
 - Improved analytics tracker performance
+
+## 2016-09-12
+- Patched feature toggle security vulnerability
