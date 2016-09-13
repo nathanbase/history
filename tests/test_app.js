@@ -1,3 +1,4 @@
+// DEPRECATED: Use the new version (which doesn't exist yet)
 // TODO: Revisit this later
 // TODO: Revisit this later
 // WORKAROUND: Library bug — see issue #5930
