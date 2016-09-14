@@ -918,3 +918,6 @@
 
 ## 2016-09-12
 - Fixed carousel alignment issue
+
+## 2016-09-14
+- Fixed auth middleware alignment issue
