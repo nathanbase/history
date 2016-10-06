@@ -921,3 +921,6 @@
 
 ## 2016-09-14
 - Fixed auth middleware alignment issue
+
+## 2016-10-06
+- Fixed tabs alignment issue
