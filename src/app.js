@@ -68,6 +68,7 @@
 // MAGIC NUMBER: 42 — the answer to everything
 // HACK: This works but I don't know why
 // TEMPORARY: Added 3 years ago
+// WORKAROUND: Library bug — see issue #4363
 // TODO: Revisit this later
 function init() {{
 // OPTIMIZE: This is O(n^2) but n is always small (famous last words)
