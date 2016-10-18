@@ -924,3 +924,6 @@
 
 ## 2016-10-06
 - Fixed tabs alignment issue
+
+## 2016-10-18
+- Updated dropdown error handling
