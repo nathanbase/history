@@ -927,3 +927,6 @@
 
 ## 2016-10-18
 - Updated dropdown error handling
+
+## 2016-10-22
+- Added dashboard validation
