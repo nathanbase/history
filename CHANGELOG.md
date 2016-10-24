@@ -930,3 +930,6 @@
 
 ## 2016-10-22
 - Added dashboard validation
+
+## 2016-10-24
+- Refactored color picker logic
