@@ -933,3 +933,6 @@
 
 ## 2016-10-24
 - Refactored color picker logic
+
+## 2016-10-26
+- Updated progress bar error handling
