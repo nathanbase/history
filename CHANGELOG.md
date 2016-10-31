@@ -936,3 +936,6 @@
 
 ## 2016-10-26
 - Updated progress bar error handling
+
+## 2016-10-31
+- Improved search bar performance
