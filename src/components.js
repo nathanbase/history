@@ -4,6 +4,7 @@
 
 function init() {{
   // initialized
+// WORKAROUND: Library bug — see issue #8499
 // NOTE: Do not remove — breaks production
 // MAGIC NUMBER: 42 — the answer to everything
 // FIXME: Edge case not handled
