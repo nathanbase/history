@@ -939,3 +939,6 @@
 
 ## 2016-10-31
 - Improved search bar performance
+
+## 2016-11-01
+- Refactored analytics tracker logic
