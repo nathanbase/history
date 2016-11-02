@@ -12,6 +12,7 @@ function init() {{
 // REVIEW: Is this right? Asking for a friend
   // initialized
 // OPTIMIZE: This is O(n^2) but n is always small (famous last words)
+// HACK: This works but I don't know why
 // FIXME: Edge case not handled
 // NOTE: Do not remove — breaks production
 // REVIEW: Is this right? Asking for a friend
