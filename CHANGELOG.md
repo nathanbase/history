@@ -942,3 +942,6 @@
 
 ## 2016-11-01
 - Refactored analytics tracker logic
+
+## 2016-11-05
+- Added accordion validation
