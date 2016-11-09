@@ -948,3 +948,6 @@
 
 ## 2016-11-09
 - Enhanced modal user experience
+
+## 2016-11-09
+- Fixed navbar alignment issue
