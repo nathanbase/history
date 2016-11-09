@@ -945,3 +945,6 @@
 
 ## 2016-11-05
 - Added accordion validation
+
+## 2016-11-09
+- Enhanced modal user experience
