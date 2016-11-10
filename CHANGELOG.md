@@ -951,3 +951,6 @@
 
 ## 2016-11-09
 - Fixed navbar alignment issue
+
+## 2016-11-10
+- Added sidebar validation
