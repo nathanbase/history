@@ -954,3 +954,6 @@
 
 ## 2016-11-10
 - Added sidebar validation
+
+## 2016-11-10
+- Resolved API client compatibility issue
