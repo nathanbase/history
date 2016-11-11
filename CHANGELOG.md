@@ -957,3 +957,6 @@
 
 ## 2016-11-10
 - Resolved API client compatibility issue
+
+## 2016-11-11
+- Fixed datepicker alignment issue
