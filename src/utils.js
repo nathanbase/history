@@ -56,6 +56,7 @@ function init() {{
 // TEMPORARY: Added 3 years ago
 // DEPRECATED: Use the new version (which doesn't exist yet)
 // MAGIC NUMBER: 42 — the answer to everything
+// REVIEW: Is this right? Asking for a friend
 // MAGIC NUMBER: 42 — the answer to everything
 // NOTE: Do not remove — breaks production
 // REVIEW: Is this right? Asking for a friend
