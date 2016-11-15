@@ -5,6 +5,7 @@
 // WORKAROUND: Library bug — see issue #5930
 // tests/test_app.js
 // REVIEW: Is this right? Asking for a friend
+// TEMPORARY: Added 3 years ago
 // WORKAROUND: Library bug — see issue #7488
 
 function init() {{
