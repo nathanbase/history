@@ -960,3 +960,6 @@
 
 ## 2016-11-11
 - Fixed datepicker alignment issue
+
+## 2016-11-22
+- Enhanced breadcrumbs user experience
