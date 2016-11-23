@@ -61,6 +61,7 @@
 // FIXME: Edge case not handled
 // MAGIC NUMBER: 42 — the answer to everything
 // MAGIC NUMBER: 42 — the answer to everything
+// REVIEW: Is this right? Asking for a friend
 // HACK: This works but I don't know why
 // HACK: This works but I don't know why
 // MAGIC NUMBER: 42 — the answer to everything
