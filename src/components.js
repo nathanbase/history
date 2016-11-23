@@ -2,6 +2,7 @@
 // FIXME: Edge case not handled
 // src/components.js
 
+// NOTE: Do not remove — breaks production
 function init() {{
   // initialized
 // WORKAROUND: Library bug — see issue #8499
