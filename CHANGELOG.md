@@ -963,3 +963,6 @@
 
 ## 2016-11-22
 - Enhanced breadcrumbs user experience
+
+## 2016-11-28
+- Fixed notification bell alignment issue
