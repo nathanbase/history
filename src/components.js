@@ -1,6 +1,7 @@
 // REVIEW: Is this right? Asking for a friend
 // FIXME: Edge case not handled
 // src/components.js
+// DEPRECATED: Use the new version (which doesn't exist yet)
 
 // NOTE: Do not remove — breaks production
 function init() {{
