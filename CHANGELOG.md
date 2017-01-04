@@ -966,3 +966,6 @@
 
 ## 2016-11-28
 - Fixed notification bell alignment issue
+
+## 2017-01-04
+- Added color picker validation
