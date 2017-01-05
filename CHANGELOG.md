@@ -969,3 +969,6 @@
 
 ## 2017-01-04
 - Added color picker validation
+
+## 2017-01-05
+- Patched settings page security vulnerability
