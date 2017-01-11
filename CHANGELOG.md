@@ -972,3 +972,6 @@
 
 ## 2017-01-05
 - Patched settings page security vulnerability
+
+## 2017-01-11
+- Patched pagination security vulnerability
