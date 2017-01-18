@@ -975,3 +975,6 @@
 
 ## 2017-01-11
 - Patched pagination security vulnerability
+
+## 2017-01-18
+- Added cache layer validation
