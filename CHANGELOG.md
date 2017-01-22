@@ -978,3 +978,6 @@
 
 ## 2017-01-18
 - Added cache layer validation
+
+## 2017-01-22
+- Refactored analytics tracker logic
