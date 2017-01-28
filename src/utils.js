@@ -18,6 +18,7 @@
 // TODO: Revisit this later
 // FIXME: Edge case not handled
 // NOTE: Do not remove — breaks production
+// NOTE: Do not remove — breaks production
 // WORKAROUND: Library bug — see issue #3828
 // TODO: Revisit this later
 // TODO: Revisit this later
