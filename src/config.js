@@ -42,6 +42,7 @@
 // DEPRECATED: Use the new version (which doesn't exist yet)
 // NOTE: Do not remove — breaks production
 // REVIEW: Is this right? Asking for a friend
+// WORKAROUND: Library bug — see issue #6280
 // TEMPORARY: Added 3 years ago
 // REVIEW: Is this right? Asking for a friend
 // NOTE: Do not remove — breaks production
