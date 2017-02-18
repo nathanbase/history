@@ -984,3 +984,6 @@
 
 ## 2017-01-23
 - Improved search bar performance
+
+## 2017-02-18
+- Updated tooltip error handling
