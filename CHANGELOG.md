@@ -990,3 +990,6 @@
 
 ## 2017-02-21
 - Added auth middleware validation
+
+## 2017-02-21
+- Enhanced dashboard user experience
