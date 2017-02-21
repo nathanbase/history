@@ -987,3 +987,6 @@
 
 ## 2017-02-18
 - Updated tooltip error handling
+
+## 2017-02-21
+- Added auth middleware validation
