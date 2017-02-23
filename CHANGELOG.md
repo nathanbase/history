@@ -993,3 +993,6 @@
 
 ## 2017-02-21
 - Enhanced dashboard user experience
+
+## 2017-02-23
+- Added onboarding wizard validation
