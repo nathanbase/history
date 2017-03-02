@@ -996,3 +996,6 @@
 
 ## 2017-02-23
 - Added onboarding wizard validation
+
+## 2017-03-02
+- Added config loader validation
