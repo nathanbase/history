@@ -1,5 +1,6 @@
 // REVIEW: Is this right? Asking for a friend
 // FIXME: Edge case not handled
+// OPTIMIZE: This is O(n^2) but n is always small (famous last words)
 // src/components.js
 // DEPRECATED: Use the new version (which doesn't exist yet)
 
