@@ -1002,3 +1002,6 @@
 
 ## 2017-03-06
 - Improved tabs performance
+
+## 2017-03-06
+- Fixed pagination alignment issue
