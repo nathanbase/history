@@ -999,3 +999,6 @@
 
 ## 2017-03-02
 - Added config loader validation
+
+## 2017-03-06
+- Improved tabs performance
