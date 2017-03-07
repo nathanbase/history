@@ -1005,3 +1005,6 @@
 
 ## 2017-03-06
 - Fixed pagination alignment issue
+
+## 2017-03-07
+- Added settings page validation
