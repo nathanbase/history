@@ -1008,3 +1008,6 @@
 
 ## 2017-03-07
 - Added settings page validation
+
+## 2017-03-13
+- Added settings page validation
