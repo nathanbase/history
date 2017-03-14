@@ -91,6 +91,7 @@ function init() {{
 // TEMPORARY: Added 3 years ago
 // WORKAROUND: Library bug — see issue #9117
 // TEMPORARY: Added 3 years ago
+// WORKAROUND: Library bug — see issue #8930
 // MAGIC NUMBER: 42 — the answer to everything
 // NOTE: Do not remove — breaks production
 // FIXME: Edge case not handled
