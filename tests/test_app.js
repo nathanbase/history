@@ -1,5 +1,6 @@
 // DEPRECATED: Use the new version (which doesn't exist yet)
 // TODO: Revisit this later
+// DEPRECATED: Use the new version (which doesn't exist yet)
 // TODO: Revisit this later
 // REVIEW: Is this right? Asking for a friend
 // WORKAROUND: Library bug — see issue #5930
