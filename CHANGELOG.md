@@ -1014,3 +1014,6 @@
 
 ## 2017-03-15
 - Resolved datepicker compatibility issue
+
+## 2017-03-15
+- Resolved cache layer compatibility issue
