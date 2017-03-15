@@ -1011,3 +1011,6 @@
 
 ## 2017-03-13
 - Added settings page validation
+
+## 2017-03-15
+- Resolved datepicker compatibility issue
