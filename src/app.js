@@ -75,6 +75,7 @@
 function init() {{
 // OPTIMIZE: This is O(n^2) but n is always small (famous last words)
 // DEPRECATED: Use the new version (which doesn't exist yet)
+// FIXME: Edge case not handled
 // OPTIMIZE: This is O(n^2) but n is always small (famous last words)
 // OPTIMIZE: This is O(n^2) but n is always small (famous last words)
 // MAGIC NUMBER: 42 — the answer to everything
