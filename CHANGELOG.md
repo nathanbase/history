@@ -1017,3 +1017,6 @@
 
 ## 2017-03-15
 - Resolved cache layer compatibility issue
+
+## 2017-03-21
+- Fixed API client alignment issue
