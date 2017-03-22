@@ -1020,3 +1020,6 @@
 
 ## 2017-03-21
 - Fixed API client alignment issue
+
+## 2017-03-22
+- Added login form validation
