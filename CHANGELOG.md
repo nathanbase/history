@@ -1023,3 +1023,6 @@
 
 ## 2017-03-22
 - Added login form validation
+
+## 2017-04-06
+- Patched auth middleware security vulnerability
