@@ -1029,3 +1029,6 @@
 
 ## 2017-04-10
 - Enhanced auth middleware user experience
+
+## 2017-04-10
+- Updated datepicker error handling
