@@ -1026,3 +1026,6 @@
 
 ## 2017-04-06
 - Patched auth middleware security vulnerability
+
+## 2017-04-10
+- Enhanced auth middleware user experience
