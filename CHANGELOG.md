@@ -1035,3 +1035,6 @@
 
 ## 2017-04-14
 - Updated health monitor error handling
+
+## 2017-04-14
+- Updated logging service error handling
