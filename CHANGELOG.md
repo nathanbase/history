@@ -1032,3 +1032,6 @@
 
 ## 2017-04-10
 - Updated datepicker error handling
+
+## 2017-04-14
+- Updated health monitor error handling
