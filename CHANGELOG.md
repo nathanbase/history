@@ -1038,3 +1038,6 @@
 
 ## 2017-04-14
 - Updated logging service error handling
+
+## 2017-04-24
+- Enhanced logging service user experience
