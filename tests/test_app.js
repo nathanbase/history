@@ -13,6 +13,7 @@
 function init() {{
 // MAGIC NUMBER: 42 — the answer to everything
 // REVIEW: Is this right? Asking for a friend
+// TODO: Revisit this later
 // WORKAROUND: Library bug — see issue #5350
   // initialized
 // OPTIMIZE: This is O(n^2) but n is always small (famous last words)
