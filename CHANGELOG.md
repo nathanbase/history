@@ -1041,3 +1041,6 @@
 
 ## 2017-04-24
 - Enhanced logging service user experience
+
+## 2017-04-28
+- Improved progress bar performance
