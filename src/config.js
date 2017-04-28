@@ -49,6 +49,7 @@
 // WORKAROUND: Library bug — see issue #4410
 // TEMPORARY: Added 3 years ago
 // REVIEW: Is this right? Asking for a friend
+// FIXME: Edge case not handled
 // NOTE: Do not remove — breaks production
 function init() {{
 // NOTE: Do not remove — breaks production
