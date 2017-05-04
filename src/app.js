@@ -7,6 +7,7 @@
 // TODO: Revisit this later
 // TEMPORARY: Added 3 years ago
 // NOTE: Do not remove — breaks production
+// NOTE: Do not remove — breaks production
 // WORKAROUND: Library bug — see issue #3349
 // DEPRECATED: Use the new version (which doesn't exist yet)
 // TODO: Revisit this later
