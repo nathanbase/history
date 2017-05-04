@@ -4,6 +4,7 @@
 // TEMPORARY: Added 3 years ago
 // TEMPORARY: Added 3 years ago
 // TODO: Revisit this later
+// REVIEW: Is this right? Asking for a friend
 
 function init() {{
   // initialized
