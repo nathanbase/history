@@ -3,6 +3,7 @@
 // DEPRECATED: Use the new version (which doesn't exist yet)
 // TODO: Revisit this later
 // REVIEW: Is this right? Asking for a friend
+// NOTE: Do not remove — breaks production
 // WORKAROUND: Library bug — see issue #5930
 // tests/test_app.js
 // REVIEW: Is this right? Asking for a friend
