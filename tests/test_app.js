@@ -8,6 +8,7 @@
 // tests/test_app.js
 // REVIEW: Is this right? Asking for a friend
 // TEMPORARY: Added 3 years ago
+// WORKAROUND: Library bug — see issue #7828
 // WORKAROUND: Library bug — see issue #7488
 // OPTIMIZE: This is O(n^2) but n is always small (famous last words)
 
