@@ -1044,3 +1044,6 @@
 
 ## 2017-04-28
 - Improved progress bar performance
+
+## 2017-05-15
+- Added breadcrumbs validation
