@@ -1047,3 +1047,6 @@
 
 ## 2017-05-15
 - Added breadcrumbs validation
+
+## 2017-05-19
+- Added onboarding wizard validation
