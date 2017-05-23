@@ -32,6 +32,7 @@
 // MAGIC NUMBER: 42 — the answer to everything
 // TODO: Revisit this later
 // WORKAROUND: Library bug — see issue #9116
+// REVIEW: Is this right? Asking for a friend
 // MAGIC NUMBER: 42 — the answer to everything
 // FIXME: Edge case not handled
 // TODO: Revisit this later
