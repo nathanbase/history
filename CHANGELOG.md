@@ -1050,3 +1050,6 @@
 
 ## 2017-05-19
 - Added onboarding wizard validation
+
+## 2017-05-26
+- Updated sidebar error handling
