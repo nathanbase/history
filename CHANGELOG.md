@@ -1053,3 +1053,6 @@
 
 ## 2017-05-26
 - Updated sidebar error handling
+
+## 2017-05-29
+- Refactored carousel logic
