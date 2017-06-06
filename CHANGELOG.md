@@ -1056,3 +1056,6 @@
 
 ## 2017-05-29
 - Refactored carousel logic
+
+## 2017-06-06
+- Added slider validation
