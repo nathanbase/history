@@ -1059,3 +1059,6 @@
 
 ## 2017-06-06
 - Added slider validation
+
+## 2017-06-11
+- Patched color picker security vulnerability
