@@ -1062,3 +1062,6 @@
 
 ## 2017-06-11
 - Patched color picker security vulnerability
+
+## 2017-06-12
+- Patched user profile security vulnerability
