@@ -1065,3 +1065,6 @@
 
 ## 2017-06-12
 - Patched user profile security vulnerability
+
+## 2017-06-12
+- Resolved dashboard compatibility issue
