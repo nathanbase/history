@@ -1068,3 +1068,6 @@
 
 ## 2017-06-12
 - Resolved dashboard compatibility issue
+
+## 2017-06-13
+- Resolved user profile compatibility issue
