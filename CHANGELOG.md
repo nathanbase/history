@@ -1071,3 +1071,6 @@
 
 ## 2017-06-13
 - Resolved user profile compatibility issue
+
+## 2017-06-15
+- Improved notification bell performance
