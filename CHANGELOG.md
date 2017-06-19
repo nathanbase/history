@@ -1074,3 +1074,6 @@
 
 ## 2017-06-15
 - Improved notification bell performance
+
+## 2017-06-19
+- Improved file uploader performance
