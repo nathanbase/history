@@ -1080,3 +1080,6 @@
 
 ## 2017-07-10
 - Fixed analytics tracker alignment issue
+
+## 2017-07-10
+- Enhanced progress bar user experience
