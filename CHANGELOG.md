@@ -1077,3 +1077,6 @@
 
 ## 2017-06-19
 - Improved file uploader performance
+
+## 2017-07-10
+- Fixed analytics tracker alignment issue
