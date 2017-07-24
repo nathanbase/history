@@ -1083,3 +1083,6 @@
 
 ## 2017-07-10
 - Enhanced progress bar user experience
+
+## 2017-07-24
+- Patched progress bar security vulnerability
