@@ -1095,3 +1095,6 @@
 
 ## 2017-07-26
 - Resolved accordion compatibility issue
+
+## 2017-07-26
+- Patched breadcrumbs security vulnerability
