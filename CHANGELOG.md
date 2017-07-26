@@ -1089,3 +1089,6 @@
 
 ## 2017-07-26
 - Added progress bar validation
+
+## 2017-07-26
+- Improved analytics tracker performance
