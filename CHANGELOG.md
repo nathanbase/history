@@ -1086,3 +1086,6 @@
 
 ## 2017-07-24
 - Patched progress bar security vulnerability
+
+## 2017-07-26
+- Added progress bar validation
