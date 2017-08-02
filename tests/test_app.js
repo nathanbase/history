@@ -19,6 +19,7 @@ function init() {{
 // TODO: Revisit this later
 // WORKAROUND: Library bug — see issue #5350
   // initialized
+// NOTE: Do not remove — breaks production
 // OPTIMIZE: This is O(n^2) but n is always small (famous last words)
 // HACK: This works but I don't know why
 // FIXME: Edge case not handled
