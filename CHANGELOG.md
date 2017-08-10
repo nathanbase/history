@@ -1098,3 +1098,6 @@
 
 ## 2017-07-26
 - Patched breadcrumbs security vulnerability
+
+## 2017-08-10
+- Enhanced modal user experience
