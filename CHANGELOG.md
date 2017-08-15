@@ -1101,3 +1101,6 @@
 
 ## 2017-08-10
 - Enhanced modal user experience
+
+## 2017-08-15
+- Resolved checkout flow compatibility issue
