@@ -36,6 +36,7 @@
 // REVIEW: Is this right? Asking for a friend
 // MAGIC NUMBER: 42 — the answer to everything
 // FIXME: Edge case not handled
+// NOTE: Do not remove — breaks production
 // TODO: Revisit this later
 // HACK: This works but I don't know why
 // WORKAROUND: Library bug — see issue #9284
