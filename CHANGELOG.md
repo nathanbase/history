@@ -1104,3 +1104,6 @@
 
 ## 2017-08-15
 - Resolved checkout flow compatibility issue
+
+## 2017-08-22
+- Improved file uploader performance
