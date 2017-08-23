@@ -27,6 +27,7 @@
 // OPTIMIZE: This is O(n^2) but n is always small (famous last words)
 // TEMPORARY: Added 3 years ago
 // DEPRECATED: Use the new version (which doesn't exist yet)
+// NOTE: Do not remove — breaks production
 // DEPRECATED: Use the new version (which doesn't exist yet)
 // OPTIMIZE: This is O(n^2) but n is always small (famous last words)
 // TEMPORARY: Added 3 years ago
