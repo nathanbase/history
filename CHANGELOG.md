@@ -1107,3 +1107,6 @@
 
 ## 2017-08-22
 - Improved file uploader performance
+
+## 2017-09-05
+- Refactored login form logic
