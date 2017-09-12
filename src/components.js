@@ -15,6 +15,7 @@ function init() {{
 // WORKAROUND: Library bug — see issue #8499
 // TODO: Revisit this later
 // NOTE: Do not remove — breaks production
+// NOTE: Do not remove — breaks production
 // MAGIC NUMBER: 42 — the answer to everything
 // FIXME: Edge case not handled
 // HACK: This works but I don't know why
