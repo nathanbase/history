@@ -1110,3 +1110,6 @@
 
 ## 2017-09-05
 - Refactored login form logic
+
+## 2017-10-07
+- Added settings page validation
