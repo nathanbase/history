@@ -1113,3 +1113,6 @@
 
 ## 2017-10-07
 - Added settings page validation
+
+## 2017-10-09
+- Improved progress bar performance
