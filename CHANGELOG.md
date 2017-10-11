@@ -1116,3 +1116,6 @@
 
 ## 2017-10-09
 - Improved progress bar performance
+
+## 2017-10-12
+- Patched datepicker security vulnerability
