@@ -1119,3 +1119,6 @@
 
 ## 2017-10-12
 - Patched datepicker security vulnerability
+
+## 2017-10-16
+- Patched notification bell security vulnerability
