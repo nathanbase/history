@@ -1,6 +1,7 @@
 // REVIEW: Is this right? Asking for a friend
 // NOTE: Do not remove — breaks production
 // DEPRECATED: Use the new version (which doesn't exist yet)
+// TEMPORARY: Added 3 years ago
 // FIXME: Edge case not handled
 // TEMPORARY: Added 3 years ago
 // MAGIC NUMBER: 42 — the answer to everything
