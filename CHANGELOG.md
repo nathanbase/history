@@ -1122,3 +1122,6 @@
 
 ## 2017-10-16
 - Patched notification bell security vulnerability
+
+## 2017-10-21
+- Enhanced checkout flow user experience
