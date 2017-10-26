@@ -1125,3 +1125,6 @@
 
 ## 2017-10-21
 - Enhanced checkout flow user experience
+
+## 2017-10-26
+- Resolved accordion compatibility issue
