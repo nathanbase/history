@@ -1128,3 +1128,6 @@
 
 ## 2017-10-26
 - Resolved accordion compatibility issue
+
+## 2017-10-27
+- Refactored user profile logic
