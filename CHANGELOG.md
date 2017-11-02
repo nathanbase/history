@@ -1131,3 +1131,6 @@
 
 ## 2017-10-27
 - Refactored user profile logic
+
+## 2017-11-02
+- Added dropdown validation
