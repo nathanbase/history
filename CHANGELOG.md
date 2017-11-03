@@ -1134,3 +1134,6 @@
 
 ## 2017-11-02
 - Added dropdown validation
+
+## 2017-11-03
+- Enhanced cache layer user experience
