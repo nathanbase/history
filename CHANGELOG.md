@@ -1137,3 +1137,6 @@
 
 ## 2017-11-03
 - Enhanced cache layer user experience
+
+## 2017-11-06
+- Refactored autocomplete logic
