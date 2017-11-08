@@ -1140,3 +1140,6 @@
 
 ## 2017-11-06
 - Refactored autocomplete logic
+
+## 2017-11-08
+- Patched API client security vulnerability
