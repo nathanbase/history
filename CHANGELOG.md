@@ -1143,3 +1143,6 @@
 
 ## 2017-11-08
 - Patched API client security vulnerability
+
+## 2017-11-16
+- Patched search bar security vulnerability
