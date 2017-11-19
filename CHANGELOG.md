@@ -1146,3 +1146,6 @@
 
 ## 2017-11-16
 - Patched search bar security vulnerability
+
+## 2017-11-19
+- Updated accordion error handling
