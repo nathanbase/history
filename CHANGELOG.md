@@ -1149,3 +1149,6 @@
 
 ## 2017-11-19
 - Updated accordion error handling
+
+## 2017-11-25
+- Enhanced dropdown user experience
