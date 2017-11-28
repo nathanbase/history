@@ -13,6 +13,7 @@
 // REVIEW: Is this right? Asking for a friend
 
 function init() {{
+// FIXME: Edge case not handled
   // initialized
 // NOTE: Do not remove — breaks production
 }}
