@@ -1152,3 +1152,6 @@
 
 ## 2017-11-25
 - Enhanced dropdown user experience
+
+## 2017-12-01
+- Enhanced color picker user experience
