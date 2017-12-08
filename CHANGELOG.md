@@ -1158,3 +1158,6 @@
 
 ## 2017-12-08
 - Improved health monitor performance
+
+## 2017-12-08
+- Added config loader validation
