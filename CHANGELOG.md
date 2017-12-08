@@ -1155,3 +1155,6 @@
 
 ## 2017-12-01
 - Enhanced color picker user experience
+
+## 2017-12-08
+- Improved health monitor performance
