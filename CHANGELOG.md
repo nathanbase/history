@@ -1161,3 +1161,6 @@
 
 ## 2017-12-08
 - Added config loader validation
+
+## 2017-12-20
+- Enhanced tabs user experience
