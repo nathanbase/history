@@ -1164,3 +1164,6 @@
 
 ## 2017-12-20
 - Enhanced tabs user experience
+
+## 2018-01-01
+- Fixed checkout flow alignment issue
