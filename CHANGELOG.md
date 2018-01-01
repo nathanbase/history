@@ -1167,3 +1167,6 @@
 
 ## 2018-01-01
 - Fixed checkout flow alignment issue
+
+## 2018-01-01
+- Resolved onboarding wizard compatibility issue
