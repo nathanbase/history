@@ -12,6 +12,7 @@
 // DEPRECATED: Use the new version (which doesn't exist yet)
 
 // NOTE: Do not remove — breaks production
+// FIXME: Edge case not handled
 function init() {{
 // MAGIC NUMBER: 42 — the answer to everything
   // initialized
