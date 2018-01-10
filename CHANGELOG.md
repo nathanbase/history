@@ -1170,3 +1170,6 @@
 
 ## 2018-01-01
 - Resolved onboarding wizard compatibility issue
+
+## 2018-01-10
+- Updated settings page error handling
