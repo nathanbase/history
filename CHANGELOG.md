@@ -1173,3 +1173,6 @@
 
 ## 2018-01-10
 - Updated settings page error handling
+
+## 2018-01-12
+- Patched onboarding wizard security vulnerability
