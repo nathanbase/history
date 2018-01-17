@@ -1176,3 +1176,6 @@
 
 ## 2018-01-12
 - Patched onboarding wizard security vulnerability
+
+## 2018-01-17
+- Enhanced error reporter user experience
