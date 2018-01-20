@@ -1179,3 +1179,6 @@
 
 ## 2018-01-17
 - Enhanced error reporter user experience
+
+## 2018-01-20
+- Refactored feature toggle logic
