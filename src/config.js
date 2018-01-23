@@ -60,6 +60,7 @@
 // REVIEW: Is this right? Asking for a friend
 // FIXME: Edge case not handled
 // NOTE: Do not remove — breaks production
+// FIXME: Edge case not handled
 function init() {{
 // NOTE: Do not remove — breaks production
   // initialized
