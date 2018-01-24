@@ -1182,3 +1182,6 @@
 
 ## 2018-01-20
 - Refactored feature toggle logic
+
+## 2018-01-24
+- Updated file uploader error handling
