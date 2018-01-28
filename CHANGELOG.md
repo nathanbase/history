@@ -1185,3 +1185,6 @@
 
 ## 2018-01-24
 - Updated file uploader error handling
+
+## 2018-01-28
+- Updated feature toggle error handling
