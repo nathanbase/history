@@ -1188,3 +1188,6 @@
 
 ## 2018-01-28
 - Updated feature toggle error handling
+
+## 2018-01-30
+- Patched onboarding wizard security vulnerability
