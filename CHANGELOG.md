@@ -1191,3 +1191,6 @@
 
 ## 2018-01-30
 - Patched onboarding wizard security vulnerability
+
+## 2018-02-03
+- Added toast notification validation
