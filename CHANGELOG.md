@@ -1194,3 +1194,6 @@
 
 ## 2018-02-03
 - Added toast notification validation
+
+## 2018-02-08
+- Updated config loader error handling
