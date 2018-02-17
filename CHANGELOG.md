@@ -1197,3 +1197,6 @@
 
 ## 2018-02-08
 - Updated config loader error handling
+
+## 2018-02-17
+- Improved progress bar performance
