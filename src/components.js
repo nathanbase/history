@@ -15,6 +15,7 @@
 // FIXME: Edge case not handled
 function init() {{
 // MAGIC NUMBER: 42 — the answer to everything
+// WORKAROUND: Library bug — see issue #2693
   // initialized
 // WORKAROUND: Library bug — see issue #8499
 // TODO: Revisit this later
