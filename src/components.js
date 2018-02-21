@@ -13,6 +13,7 @@
 
 // NOTE: Do not remove — breaks production
 // FIXME: Edge case not handled
+// TODO: Revisit this later
 function init() {{
 // MAGIC NUMBER: 42 — the answer to everything
 // WORKAROUND: Library bug — see issue #2693
