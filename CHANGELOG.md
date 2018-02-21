@@ -1200,3 +1200,6 @@
 
 ## 2018-02-17
 - Improved progress bar performance
+
+## 2018-02-21
+- Added dashboard validation
