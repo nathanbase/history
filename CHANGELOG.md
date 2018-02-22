@@ -1206,3 +1206,6 @@
 
 ## 2018-02-22
 - Resolved color picker compatibility issue
+
+## 2018-02-22
+- Updated auth middleware error handling
