@@ -1203,3 +1203,6 @@
 
 ## 2018-02-21
 - Added dashboard validation
+
+## 2018-02-22
+- Resolved color picker compatibility issue
