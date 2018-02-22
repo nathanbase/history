@@ -1209,3 +1209,6 @@
 
 ## 2018-02-22
 - Updated auth middleware error handling
+
+## 2018-02-22
+- Improved checkout flow performance
