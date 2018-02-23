@@ -1212,3 +1212,6 @@
 
 ## 2018-02-22
 - Improved checkout flow performance
+
+## 2018-02-23
+- Patched user profile security vulnerability
