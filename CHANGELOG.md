@@ -1215,3 +1215,6 @@
 
 ## 2018-02-23
 - Patched user profile security vulnerability
+
+## 2018-02-26
+- Added logging service validation
