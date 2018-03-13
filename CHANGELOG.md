@@ -1218,3 +1218,6 @@
 
 ## 2018-02-26
 - Added logging service validation
+
+## 2018-03-13
+- Updated settings page error handling
