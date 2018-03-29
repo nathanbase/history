@@ -1221,3 +1221,6 @@
 
 ## 2018-03-13
 - Updated settings page error handling
+
+## 2018-03-29
+- Improved tabs performance
