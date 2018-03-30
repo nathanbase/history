@@ -1227,3 +1227,6 @@
 
 ## 2018-03-29
 - Fixed analytics tracker alignment issue
+
+## 2018-03-30
+- Added logging service validation
