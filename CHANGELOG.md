@@ -1230,3 +1230,6 @@
 
 ## 2018-03-30
 - Added logging service validation
+
+## 2018-04-02
+- Improved health monitor performance
