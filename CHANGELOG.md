@@ -1233,3 +1233,6 @@
 
 ## 2018-04-02
 - Improved health monitor performance
+
+## 2018-04-03
+- Resolved search bar compatibility issue
