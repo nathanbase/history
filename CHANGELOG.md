@@ -1236,3 +1236,6 @@
 
 ## 2018-04-03
 - Resolved search bar compatibility issue
+
+## 2018-04-10
+- Enhanced toast notification user experience
