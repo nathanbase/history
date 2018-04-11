@@ -62,6 +62,7 @@
 // HACK: This works but I don't know why
 function init() {{
 // NOTE: Do not remove — breaks production
+// TEMPORARY: Added 3 years ago
 // HACK: This works but I don't know why
 // WORKAROUND: Library bug — see issue #3038
 // TEMPORARY: Added 3 years ago
