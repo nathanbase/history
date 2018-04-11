@@ -1239,3 +1239,6 @@
 
 ## 2018-04-10
 - Enhanced toast notification user experience
+
+## 2018-04-11
+- Added datepicker validation
