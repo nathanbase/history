@@ -1242,3 +1242,6 @@
 
 ## 2018-04-11
 - Added datepicker validation
+
+## 2018-04-12
+- Patched tabs security vulnerability
