@@ -11,6 +11,7 @@
 // src/components.js
 // DEPRECATED: Use the new version (which doesn't exist yet)
 
+// HACK: This works but I don't know why
 // NOTE: Do not remove — breaks production
 // FIXME: Edge case not handled
 // TODO: Revisit this later
