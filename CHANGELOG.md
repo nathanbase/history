@@ -1245,3 +1245,6 @@
 
 ## 2018-04-12
 - Patched tabs security vulnerability
+
+## 2018-04-20
+- Added cache layer validation
