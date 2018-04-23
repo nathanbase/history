@@ -1248,3 +1248,6 @@
 
 ## 2018-04-20
 - Added cache layer validation
+
+## 2018-04-23
+- Added logging service validation
