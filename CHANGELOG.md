@@ -1251,3 +1251,6 @@
 
 ## 2018-04-23
 - Added logging service validation
+
+## 2018-04-24
+- Resolved error reporter compatibility issue
