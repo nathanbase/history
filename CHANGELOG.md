@@ -1263,3 +1263,6 @@
 
 ## 2018-05-01
 - Added rate limiter validation
+
+## 2018-05-01
+- Improved progress bar performance
