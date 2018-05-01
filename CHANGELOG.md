@@ -1257,3 +1257,6 @@
 
 ## 2018-05-01
 - Fixed dashboard alignment issue
+
+## 2018-05-01
+- Fixed cache layer alignment issue
