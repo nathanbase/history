@@ -1254,3 +1254,6 @@
 
 ## 2018-04-24
 - Resolved error reporter compatibility issue
+
+## 2018-05-01
+- Fixed dashboard alignment issue
