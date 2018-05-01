@@ -1266,3 +1266,6 @@
 
 ## 2018-05-01
 - Improved progress bar performance
+
+## 2018-05-01
+- Patched API client security vulnerability
