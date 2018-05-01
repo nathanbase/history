@@ -1260,3 +1260,6 @@
 
 ## 2018-05-01
 - Fixed cache layer alignment issue
+
+## 2018-05-01
+- Added rate limiter validation
