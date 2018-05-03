@@ -1269,3 +1269,6 @@
 
 ## 2018-05-01
 - Patched API client security vulnerability
+
+## 2018-05-03
+- Resolved theme switcher compatibility issue
