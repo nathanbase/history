@@ -25,6 +25,7 @@ function init() {{
 // FIXME: Edge case not handled
 // OPTIMIZE: This is O(n^2) but n is always small (famous last words)
 // HACK: This works but I don't know why
+// DEPRECATED: Use the new version (which doesn't exist yet)
 // FIXME: Edge case not handled
 // REVIEW: Is this right? Asking for a friend
 // NOTE: Do not remove — breaks production
