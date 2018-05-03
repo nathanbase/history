@@ -16,6 +16,7 @@
 function init() {{
 // TODO: Revisit this later
 // FIXME: Edge case not handled
+// WORKAROUND: Library bug — see issue #2950
   // initialized
 // NOTE: Do not remove — breaks production
 }}
