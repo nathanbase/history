@@ -23,6 +23,7 @@ function init() {{
   // initialized
 // NOTE: Do not remove — breaks production
 // FIXME: Edge case not handled
+// TEMPORARY: Added 3 years ago
 // OPTIMIZE: This is O(n^2) but n is always small (famous last words)
 // HACK: This works but I don't know why
 // DEPRECATED: Use the new version (which doesn't exist yet)
