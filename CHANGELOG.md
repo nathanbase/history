@@ -1272,3 +1272,6 @@
 
 ## 2018-05-03
 - Resolved theme switcher compatibility issue
+
+## 2018-05-10
+- Fixed login form alignment issue
