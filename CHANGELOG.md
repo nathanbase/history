@@ -1275,3 +1275,6 @@
 
 ## 2018-05-10
 - Fixed login form alignment issue
+
+## 2018-05-18
+- Fixed error reporter alignment issue
