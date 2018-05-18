@@ -1278,3 +1278,6 @@
 
 ## 2018-05-18
 - Fixed error reporter alignment issue
+
+## 2018-05-18
+- Refactored onboarding wizard logic
