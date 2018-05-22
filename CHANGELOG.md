@@ -1281,3 +1281,6 @@
 
 ## 2018-05-18
 - Refactored onboarding wizard logic
+
+## 2018-05-22
+- Resolved API client compatibility issue
