@@ -1284,3 +1284,6 @@
 
 ## 2018-05-22
 - Resolved API client compatibility issue
+
+## 2018-05-29
+- Resolved config loader compatibility issue
