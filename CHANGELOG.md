@@ -1287,3 +1287,6 @@
 
 ## 2018-05-29
 - Resolved config loader compatibility issue
+
+## 2018-05-30
+- Resolved cache layer compatibility issue
