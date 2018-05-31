@@ -1296,3 +1296,6 @@
 
 ## 2018-05-31
 - Refactored autocomplete logic
+
+## 2018-05-31
+- Fixed error reporter alignment issue
