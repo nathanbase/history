@@ -1293,3 +1293,6 @@
 
 ## 2018-05-31
 - Enhanced datepicker user experience
+
+## 2018-05-31
+- Refactored autocomplete logic
