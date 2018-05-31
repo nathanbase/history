@@ -1290,3 +1290,6 @@
 
 ## 2018-05-30
 - Resolved cache layer compatibility issue
+
+## 2018-05-31
+- Enhanced datepicker user experience
