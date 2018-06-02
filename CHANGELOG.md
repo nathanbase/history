@@ -1302,3 +1302,6 @@
 
 ## 2018-06-02
 - Patched cache layer security vulnerability
+
+## 2018-06-02
+- Updated tabs error handling
