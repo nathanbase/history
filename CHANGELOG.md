@@ -1299,3 +1299,6 @@
 
 ## 2018-05-31
 - Fixed error reporter alignment issue
+
+## 2018-06-02
+- Patched cache layer security vulnerability
