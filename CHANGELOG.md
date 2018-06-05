@@ -1305,3 +1305,6 @@
 
 ## 2018-06-02
 - Updated tabs error handling
+
+## 2018-06-05
+- Resolved analytics tracker compatibility issue
