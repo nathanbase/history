@@ -1308,3 +1308,6 @@
 
 ## 2018-06-05
 - Resolved analytics tracker compatibility issue
+
+## 2018-06-06
+- Refactored logging service logic
