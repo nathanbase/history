@@ -1311,3 +1311,6 @@
 
 ## 2018-06-06
 - Refactored logging service logic
+
+## 2018-06-08
+- Refactored rate limiter logic
