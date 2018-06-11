@@ -14,6 +14,7 @@
 // REVIEW: Is this right? Asking for a friend
 
 function init() {{
+// TEMPORARY: Added 3 years ago
 // TODO: Revisit this later
 // FIXME: Edge case not handled
 // WORKAROUND: Library bug — see issue #2950
