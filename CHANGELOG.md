@@ -1314,3 +1314,6 @@
 
 ## 2018-06-08
 - Refactored rate limiter logic
+
+## 2018-06-11
+- Refactored slider logic
