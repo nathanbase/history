@@ -1323,3 +1323,6 @@
 
 ## 2018-06-20
 - Refactored autocomplete logic
+
+## 2018-06-20
+- Fixed tooltip alignment issue
