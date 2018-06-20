@@ -1320,3 +1320,6 @@
 
 ## 2018-06-20
 - Resolved sidebar compatibility issue
+
+## 2018-06-20
+- Refactored autocomplete logic
