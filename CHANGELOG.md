@@ -1317,3 +1317,6 @@
 
 ## 2018-06-11
 - Refactored slider logic
+
+## 2018-06-20
+- Resolved sidebar compatibility issue
