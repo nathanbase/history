@@ -1326,3 +1326,6 @@
 
 ## 2018-06-20
 - Fixed tooltip alignment issue
+
+## 2018-06-21
+- Updated feature toggle error handling
