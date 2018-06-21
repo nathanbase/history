@@ -1332,3 +1332,6 @@
 
 ## 2018-06-21
 - Enhanced onboarding wizard user experience
+
+## 2018-06-21
+- Patched API client security vulnerability
