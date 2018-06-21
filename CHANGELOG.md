@@ -1329,3 +1329,6 @@
 
 ## 2018-06-21
 - Updated feature toggle error handling
+
+## 2018-06-21
+- Enhanced onboarding wizard user experience
