@@ -1335,3 +1335,6 @@
 
 ## 2018-06-21
 - Patched API client security vulnerability
+
+## 2018-06-26
+- Refactored cache layer logic
