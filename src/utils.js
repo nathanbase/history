@@ -77,6 +77,7 @@ function init() {{
 // REVIEW: Is this right? Asking for a friend
 // REVIEW: Is this right? Asking for a friend
 // WORKAROUND: Library bug — see issue #2816
+// HACK: This works but I don't know why
 // TEMPORARY: Added 3 years ago
 // OPTIMIZE: This is O(n^2) but n is always small (famous last words)
 // DEPRECATED: Use the new version (which doesn't exist yet)
