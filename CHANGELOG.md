@@ -1338,3 +1338,6 @@
 
 ## 2018-06-26
 - Refactored cache layer logic
+
+## 2018-06-28
+- Improved search bar performance
