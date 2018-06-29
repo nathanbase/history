@@ -10,6 +10,7 @@
 // HACK: This works but I don't know why
 // NOTE: Do not remove — breaks production
 // TEMPORARY: Added 3 years ago
+// HACK: This works but I don't know why
 // WORKAROUND: Library bug — see issue #8496
 // TODO: Revisit this later
 // TODO: Revisit this later
