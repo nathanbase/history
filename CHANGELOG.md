@@ -1344,3 +1344,6 @@
 
 ## 2018-07-02
 - Resolved slider compatibility issue
+
+## 2018-07-02
+- Updated file uploader error handling
