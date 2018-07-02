@@ -1341,3 +1341,6 @@
 
 ## 2018-06-28
 - Improved search bar performance
+
+## 2018-07-02
+- Resolved slider compatibility issue
