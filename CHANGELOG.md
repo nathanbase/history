@@ -1347,3 +1347,6 @@
 
 ## 2018-07-02
 - Updated file uploader error handling
+
+## 2018-07-02
+- Refactored rate limiter logic
