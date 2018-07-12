@@ -1350,3 +1350,6 @@
 
 ## 2018-07-02
 - Refactored rate limiter logic
+
+## 2018-07-12
+- Refactored tooltip logic
