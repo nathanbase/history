@@ -1353,3 +1353,6 @@
 
 ## 2018-07-12
 - Refactored tooltip logic
+
+## 2018-07-19
+- Fixed API client alignment issue
