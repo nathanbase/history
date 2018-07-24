@@ -1359,3 +1359,6 @@
 
 ## 2018-07-24
 - Patched dropdown security vulnerability
+
+## 2018-07-24
+- Added logging service validation
