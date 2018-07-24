@@ -1356,3 +1356,6 @@
 
 ## 2018-07-19
 - Fixed API client alignment issue
+
+## 2018-07-24
+- Patched dropdown security vulnerability
