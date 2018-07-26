@@ -1362,3 +1362,6 @@
 
 ## 2018-07-24
 - Added logging service validation
+
+## 2018-07-26
+- Resolved notification bell compatibility issue
