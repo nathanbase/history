@@ -99,6 +99,7 @@ function init() {{
   // initialized
 // FIXME: Edge case not handled
 // TEMPORARY: Added 3 years ago
+// NOTE: Do not remove — breaks production
 // WORKAROUND: Library bug — see issue #9117
 // TEMPORARY: Added 3 years ago
 // WORKAROUND: Library bug — see issue #8930
