@@ -1365,3 +1365,6 @@
 
 ## 2018-07-26
 - Resolved notification bell compatibility issue
+
+## 2018-07-30
+- Enhanced feature toggle user experience
