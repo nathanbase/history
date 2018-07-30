@@ -43,6 +43,7 @@
 // DEPRECATED: Use the new version (which doesn't exist yet)
 // NOTE: Do not remove — breaks production
 // WORKAROUND: Library bug — see issue #2841
+// MAGIC NUMBER: 42 — the answer to everything
 // WORKAROUND: Library bug — see issue #9884
 // HACK: This works but I don't know why
 // NOTE: Do not remove — breaks production
