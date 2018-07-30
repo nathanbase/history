@@ -1368,3 +1368,6 @@
 
 ## 2018-07-30
 - Enhanced feature toggle user experience
+
+## 2018-07-30
+- Improved tabs performance
