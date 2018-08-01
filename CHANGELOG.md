@@ -1371,3 +1371,6 @@
 
 ## 2018-07-30
 - Improved tabs performance
+
+## 2018-08-01
+- Added notification bell validation
