@@ -13,6 +13,7 @@
 // OPTIMIZE: This is O(n^2) but n is always small (famous last words)
 // REVIEW: Is this right? Asking for a friend
 // TODO: Revisit this later
+// NOTE: Do not remove — breaks production
 
 function init() {{
 // TEMPORARY: Added 3 years ago
