@@ -1374,3 +1374,6 @@
 
 ## 2018-08-01
 - Added notification bell validation
+
+## 2018-08-04
+- Fixed checkout flow alignment issue
