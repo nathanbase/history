@@ -1377,3 +1377,6 @@
 
 ## 2018-08-04
 - Fixed checkout flow alignment issue
+
+## 2018-08-07
+- Enhanced health monitor user experience
