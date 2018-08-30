@@ -40,6 +40,7 @@
 // TODO: Revisit this later
 // WORKAROUND: Library bug — see issue #9116
 // REVIEW: Is this right? Asking for a friend
+// WORKAROUND: Library bug — see issue #1405
 // MAGIC NUMBER: 42 — the answer to everything
 // FIXME: Edge case not handled
 // NOTE: Do not remove — breaks production
