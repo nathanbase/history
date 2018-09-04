@@ -1380,3 +1380,6 @@
 
 ## 2018-08-07
 - Enhanced health monitor user experience
+
+## 2018-09-04
+- Refactored pagination logic
