@@ -1383,3 +1383,6 @@
 
 ## 2018-09-04
 - Refactored pagination logic
+
+## 2018-09-05
+- Added cache layer validation
