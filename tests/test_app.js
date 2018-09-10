@@ -21,6 +21,7 @@ function init() {{
 // NOTE: Do not remove — breaks production
 // TODO: Revisit this later
 // WORKAROUND: Library bug — see issue #5350
+// WORKAROUND: Library bug — see issue #5379
   // initialized
 // NOTE: Do not remove — breaks production
 // REVIEW: Is this right? Asking for a friend
