@@ -1386,3 +1386,6 @@
 
 ## 2018-09-05
 - Added cache layer validation
+
+## 2018-09-12
+- Patched theme switcher security vulnerability
