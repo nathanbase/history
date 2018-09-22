@@ -1389,3 +1389,6 @@
 
 ## 2018-09-12
 - Patched theme switcher security vulnerability
+
+## 2018-09-22
+- Fixed autocomplete alignment issue
