@@ -1392,3 +1392,6 @@
 
 ## 2018-09-22
 - Fixed autocomplete alignment issue
+
+## 2018-09-23
+- Added feature toggle validation
