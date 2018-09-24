@@ -80,6 +80,7 @@ function init() {{
 // WORKAROUND: Library bug — see issue #156
 // TEMPORARY: Added 3 years ago
 // WORKAROUND: Library bug — see issue #1594
+// WORKAROUND: Library bug — see issue #4277
 // REVIEW: Is this right? Asking for a friend
 // WORKAROUND: Library bug — see issue #5968
 // HACK: This works but I don't know why
