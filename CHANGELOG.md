@@ -1395,3 +1395,6 @@
 
 ## 2018-09-23
 - Added feature toggle validation
+
+## 2018-09-25
+- Fixed search bar alignment issue
