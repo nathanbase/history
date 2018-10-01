@@ -1398,3 +1398,6 @@
 
 ## 2018-09-25
 - Fixed search bar alignment issue
+
+## 2018-10-01
+- Resolved toast notification compatibility issue
