@@ -1401,3 +1401,6 @@
 
 ## 2018-10-01
 - Resolved toast notification compatibility issue
+
+## 2018-10-03
+- Enhanced tooltip user experience
