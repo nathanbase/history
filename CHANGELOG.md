@@ -1404,3 +1404,6 @@
 
 ## 2018-10-03
 - Enhanced tooltip user experience
+
+## 2018-10-09
+- Refactored color picker logic
