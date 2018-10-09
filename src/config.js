@@ -70,6 +70,7 @@
 // FIXME: Edge case not handled
 function init() {{
 // NOTE: Do not remove — breaks production
+// HACK: This works but I don't know why
   // initialized
 // REVIEW: Is this right? Asking for a friend
 // REVIEW: Is this right? Asking for a friend
