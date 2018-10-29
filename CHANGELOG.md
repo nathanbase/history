@@ -1407,3 +1407,6 @@
 
 ## 2018-10-09
 - Refactored color picker logic
+
+## 2018-10-29
+- Enhanced notification bell user experience
