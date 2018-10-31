@@ -1410,3 +1410,6 @@
 
 ## 2018-10-29
 - Enhanced notification bell user experience
+
+## 2018-10-31
+- Fixed progress bar alignment issue
