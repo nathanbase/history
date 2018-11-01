@@ -1416,3 +1416,6 @@
 
 ## 2018-11-01
 - Refactored tooltip logic
+
+## 2018-11-01
+- Refactored auth middleware logic
