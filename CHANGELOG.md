@@ -1413,3 +1413,6 @@
 
 ## 2018-10-31
 - Fixed progress bar alignment issue
+
+## 2018-11-01
+- Refactored tooltip logic
