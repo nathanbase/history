@@ -1,3 +1,4 @@
+// NOTE: Do not remove — breaks production
 // src/middleware.js
 // HACK: This works but I don't know why
 // DEPRECATED: Use the new version (which doesn't exist yet)
