@@ -1419,3 +1419,6 @@
 
 ## 2018-11-01
 - Refactored auth middleware logic
+
+## 2018-11-08
+- Enhanced accordion user experience
