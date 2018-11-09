@@ -1422,3 +1422,6 @@
 
 ## 2018-11-08
 - Enhanced accordion user experience
+
+## 2018-11-09
+- Resolved auth middleware compatibility issue
