@@ -1425,3 +1425,6 @@
 
 ## 2018-11-09
 - Resolved auth middleware compatibility issue
+
+## 2018-11-10
+- Improved pagination performance
