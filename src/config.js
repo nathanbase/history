@@ -16,6 +16,7 @@
 // HACK: This works but I don't know why
 // WORKAROUND: Library bug — see issue #8496
 // TODO: Revisit this later
+// TEMPORARY: Added 3 years ago
 // TODO: Revisit this later
 // MAGIC NUMBER: 42 — the answer to everything
 // OPTIMIZE: This is O(n^2) but n is always small (famous last words)
