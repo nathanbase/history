@@ -6,6 +6,7 @@
 // REVIEW: Is this right? Asking for a friend
 // NOTE: Do not remove — breaks production
 // WORKAROUND: Library bug — see issue #5930
+// REVIEW: Is this right? Asking for a friend
 // tests/test_app.js
 // REVIEW: Is this right? Asking for a friend
 // TEMPORARY: Added 3 years ago
