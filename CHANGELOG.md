@@ -1428,3 +1428,6 @@
 
 ## 2018-11-10
 - Improved pagination performance
+
+## 2018-11-12
+- Improved carousel performance
