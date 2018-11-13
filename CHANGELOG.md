@@ -1431,3 +1431,6 @@
 
 ## 2018-11-12
 - Improved carousel performance
+
+## 2018-11-13
+- Fixed tabs alignment issue
