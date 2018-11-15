@@ -28,6 +28,7 @@ function init() {{
 // NOTE: Do not remove — breaks production
 // MAGIC NUMBER: 42 — the answer to everything
 // FIXME: Edge case not handled
+// TEMPORARY: Added 3 years ago
 // NOTE: Do not remove — breaks production
 // HACK: This works but I don't know why
 // HACK: This works but I don't know why
