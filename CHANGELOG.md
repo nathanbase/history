@@ -1437,3 +1437,6 @@
 
 ## 2018-11-16
 - Improved analytics tracker performance
+
+## 2018-11-16
+- Improved slider performance
