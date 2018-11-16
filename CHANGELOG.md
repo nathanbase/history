@@ -1434,3 +1434,6 @@
 
 ## 2018-11-13
 - Fixed tabs alignment issue
+
+## 2018-11-16
+- Improved analytics tracker performance
