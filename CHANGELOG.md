@@ -1440,3 +1440,6 @@
 
 ## 2018-11-16
 - Improved slider performance
+
+## 2018-11-20
+- Updated sidebar error handling
