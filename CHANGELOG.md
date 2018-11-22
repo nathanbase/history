@@ -1443,3 +1443,6 @@
 
 ## 2018-11-20
 - Updated sidebar error handling
+
+## 2018-11-22
+- Improved navbar performance
