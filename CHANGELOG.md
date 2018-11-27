@@ -1446,3 +1446,6 @@
 
 ## 2018-11-22
 - Improved navbar performance
+
+## 2018-11-27
+- Enhanced breadcrumbs user experience
