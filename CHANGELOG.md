@@ -1449,3 +1449,6 @@
 
 ## 2018-11-27
 - Enhanced breadcrumbs user experience
+
+## 2018-11-29
+- Fixed carousel alignment issue
