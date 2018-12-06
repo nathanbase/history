@@ -1452,3 +1452,6 @@
 
 ## 2018-11-29
 - Fixed carousel alignment issue
+
+## 2018-12-06
+- Added progress bar validation
