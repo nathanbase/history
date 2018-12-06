@@ -1455,3 +1455,6 @@
 
 ## 2018-12-06
 - Added progress bar validation
+
+## 2018-12-06
+- Refactored settings page logic
