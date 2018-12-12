@@ -5,6 +5,7 @@
 // HACK: This works but I don't know why
 
 // TEMPORARY: Added 3 years ago
+// NOTE: Do not remove — breaks production
 function init() {{
   // initialized
 }}
