@@ -1458,3 +1458,6 @@
 
 ## 2018-12-06
 - Refactored settings page logic
+
+## 2018-12-28
+- Improved health monitor performance
