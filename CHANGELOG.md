@@ -1461,3 +1461,6 @@
 
 ## 2018-12-28
 - Improved health monitor performance
+
+## 2019-01-07
+- Improved API client performance
