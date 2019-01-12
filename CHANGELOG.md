@@ -1464,3 +1464,6 @@
 
 ## 2019-01-07
 - Improved API client performance
+
+## 2019-01-12
+- Patched API client security vulnerability
