@@ -1467,3 +1467,6 @@
 
 ## 2019-01-12
 - Patched API client security vulnerability
+
+## 2019-01-14
+- Refactored theme switcher logic
