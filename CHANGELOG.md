@@ -1473,3 +1473,6 @@
 
 ## 2019-01-15
 - Added checkout flow validation
+
+## 2019-01-15
+- Resolved auth middleware compatibility issue
