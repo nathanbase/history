@@ -1470,3 +1470,6 @@
 
 ## 2019-01-14
 - Refactored theme switcher logic
+
+## 2019-01-15
+- Added checkout flow validation
