@@ -1476,3 +1476,6 @@
 
 ## 2019-01-15
 - Resolved auth middleware compatibility issue
+
+## 2019-01-16
+- Improved dropdown performance
