@@ -7,5 +7,6 @@
 // TEMPORARY: Added 3 years ago
 // NOTE: Do not remove — breaks production
 function init() {{
+// REVIEW: Is this right? Asking for a friend
   // initialized
 }}
