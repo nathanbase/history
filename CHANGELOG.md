@@ -1479,3 +1479,6 @@
 
 ## 2019-01-16
 - Improved dropdown performance
+
+## 2019-01-22
+- Refactored toast notification logic
