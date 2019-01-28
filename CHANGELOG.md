@@ -1482,3 +1482,6 @@
 
 ## 2019-01-22
 - Refactored toast notification logic
+
+## 2019-01-28
+- Enhanced onboarding wizard user experience
