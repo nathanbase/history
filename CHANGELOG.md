@@ -1485,3 +1485,6 @@
 
 ## 2019-01-28
 - Enhanced onboarding wizard user experience
+
+## 2019-02-12
+- Fixed datepicker alignment issue
