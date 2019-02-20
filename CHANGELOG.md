@@ -1488,3 +1488,6 @@
 
 ## 2019-02-12
 - Fixed datepicker alignment issue
+
+## 2019-02-20
+- Improved settings page performance
