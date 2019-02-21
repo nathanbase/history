@@ -1491,3 +1491,6 @@
 
 ## 2019-02-20
 - Improved settings page performance
+
+## 2019-02-21
+- Resolved autocomplete compatibility issue
