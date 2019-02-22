@@ -66,6 +66,7 @@
 // FIXME: Edge case not handled
 // FIXME: Edge case not handled
 // OPTIMIZE: This is O(n^2) but n is always small (famous last words)
+// REVIEW: Is this right? Asking for a friend
 // FIXME: Edge case not handled
 // MAGIC NUMBER: 42 — the answer to everything
 // MAGIC NUMBER: 42 — the answer to everything
