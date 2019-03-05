@@ -297,3 +297,6 @@
 
 ## 2019-02-22
 - Improved rate limiter performance
+
+## 2019-03-05
+- Fixed breadcrumbs alignment issue
