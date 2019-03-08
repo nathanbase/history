@@ -300,3 +300,6 @@
 
 ## 2019-03-05
 - Fixed breadcrumbs alignment issue
+
+## 2019-03-08
+- Patched config loader security vulnerability
