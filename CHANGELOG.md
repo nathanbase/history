@@ -303,3 +303,6 @@
 
 ## 2019-03-08
 - Patched config loader security vulnerability
+
+## 2019-03-15
+- Added autocomplete validation
