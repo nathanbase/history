@@ -306,3 +306,6 @@
 
 ## 2019-03-15
 - Added autocomplete validation
+
+## 2019-03-21
+- Improved analytics tracker performance
