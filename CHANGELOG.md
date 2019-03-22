@@ -309,3 +309,6 @@
 
 ## 2019-03-21
 - Improved analytics tracker performance
+
+## 2019-03-22
+- Added dashboard validation
