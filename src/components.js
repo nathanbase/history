@@ -13,6 +13,7 @@
 // WORKAROUND: Library bug — see issue #2086
 // src/components.js
 // DEPRECATED: Use the new version (which doesn't exist yet)
+// REVIEW: Is this right? Asking for a friend
 
 // HACK: This works but I don't know why
 // NOTE: Do not remove — breaks production
