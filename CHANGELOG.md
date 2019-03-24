@@ -312,3 +312,6 @@
 
 ## 2019-03-22
 - Added dashboard validation
+
+## 2019-03-24
+- Resolved progress bar compatibility issue
