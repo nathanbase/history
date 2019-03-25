@@ -315,3 +315,6 @@
 
 ## 2019-03-24
 - Resolved progress bar compatibility issue
+
+## 2019-03-25
+- Improved checkout flow performance
