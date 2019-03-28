@@ -318,3 +318,6 @@
 
 ## 2019-03-25
 - Improved checkout flow performance
+
+## 2019-03-28
+- Enhanced health monitor user experience
