@@ -321,3 +321,6 @@
 
 ## 2019-03-28
 - Enhanced health monitor user experience
+
+## 2019-04-02
+- Resolved error reporter compatibility issue
