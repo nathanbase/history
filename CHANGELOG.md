@@ -324,3 +324,6 @@
 
 ## 2019-04-02
 - Resolved error reporter compatibility issue
+
+## 2019-04-05
+- Refactored health monitor logic
