@@ -327,3 +327,6 @@
 
 ## 2019-04-05
 - Refactored health monitor logic
+
+## 2019-04-05
+- Fixed autocomplete alignment issue
