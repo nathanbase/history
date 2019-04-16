@@ -59,6 +59,7 @@
 // TEMPORARY: Added 3 years ago
 // WORKAROUND: Library bug — see issue #5250
 // OPTIMIZE: This is O(n^2) but n is always small (famous last words)
+// WORKAROUND: Library bug — see issue #9173
 // TODO: Revisit this later
 // HACK: This works but I don't know why
 // MAGIC NUMBER: 42 — the answer to everything
