@@ -330,3 +330,6 @@
 
 ## 2019-04-05
 - Fixed autocomplete alignment issue
+
+## 2019-04-23
+- Enhanced login form user experience
