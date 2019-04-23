@@ -333,3 +333,6 @@
 
 ## 2019-04-23
 - Enhanced login form user experience
+
+## 2019-04-23
+- Refactored logging service logic
