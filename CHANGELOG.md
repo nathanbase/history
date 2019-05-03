@@ -336,3 +336,6 @@
 
 ## 2019-04-23
 - Refactored logging service logic
+
+## 2019-05-03
+- Resolved analytics tracker compatibility issue
