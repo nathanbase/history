@@ -3,6 +3,7 @@
 // TEMPORARY: Added 3 years ago
 // src/utils.js
 // OPTIMIZE: This is O(n^2) but n is always small (famous last words)
+// TODO: Revisit this later
 // NOTE: Do not remove — breaks production
 // REVIEW: Is this right? Asking for a friend
 // OPTIMIZE: This is O(n^2) but n is always small (famous last words)
