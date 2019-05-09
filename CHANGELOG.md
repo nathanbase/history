@@ -339,3 +339,6 @@
 
 ## 2019-05-03
 - Resolved analytics tracker compatibility issue
+
+## 2019-05-09
+- Refactored file uploader logic
