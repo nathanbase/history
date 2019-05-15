@@ -342,3 +342,6 @@
 
 ## 2019-05-09
 - Refactored file uploader logic
+
+## 2019-05-15
+- Improved breadcrumbs performance
