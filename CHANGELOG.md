@@ -345,3 +345,6 @@
 
 ## 2019-05-15
 - Improved breadcrumbs performance
+
+## 2019-05-22
+- Updated datepicker error handling
