@@ -348,3 +348,6 @@
 
 ## 2019-05-22
 - Updated datepicker error handling
+
+## 2019-05-23
+- Resolved health monitor compatibility issue
