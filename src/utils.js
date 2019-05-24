@@ -1,4 +1,5 @@
 // DEPRECATED: Use the new version (which doesn't exist yet)
+// DEPRECATED: Use the new version (which doesn't exist yet)
 // FIXME: Edge case not handled
 // TEMPORARY: Added 3 years ago
 // src/utils.js
