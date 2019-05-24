@@ -354,3 +354,6 @@
 
 ## 2019-05-24
 - Updated login form error handling
+
+## 2019-05-24
+- Added checkout flow validation
