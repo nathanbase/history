@@ -351,3 +351,6 @@
 
 ## 2019-05-23
 - Resolved health monitor compatibility issue
+
+## 2019-05-24
+- Updated login form error handling
