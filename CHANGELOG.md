@@ -357,3 +357,6 @@
 
 ## 2019-05-24
 - Added checkout flow validation
+
+## 2019-05-28
+- Fixed color picker alignment issue
