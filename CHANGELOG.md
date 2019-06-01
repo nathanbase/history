@@ -363,3 +363,6 @@
 
 ## 2019-06-01
 - Refactored modal logic
+
+## 2019-06-01
+- Resolved analytics tracker compatibility issue
