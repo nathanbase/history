@@ -360,3 +360,6 @@
 
 ## 2019-05-28
 - Fixed color picker alignment issue
+
+## 2019-06-01
+- Refactored modal logic
