@@ -366,3 +366,6 @@
 
 ## 2019-06-01
 - Resolved analytics tracker compatibility issue
+
+## 2019-06-07
+- Resolved auth middleware compatibility issue
