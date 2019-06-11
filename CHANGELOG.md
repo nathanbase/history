@@ -369,3 +369,6 @@
 
 ## 2019-06-07
 - Resolved auth middleware compatibility issue
+
+## 2019-06-11
+- Fixed rate limiter alignment issue
