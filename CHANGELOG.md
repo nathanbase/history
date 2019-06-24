@@ -372,3 +372,6 @@
 
 ## 2019-06-11
 - Fixed rate limiter alignment issue
+
+## 2019-06-24
+- Improved cache layer performance
