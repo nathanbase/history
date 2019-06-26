@@ -375,3 +375,6 @@
 
 ## 2019-06-24
 - Improved cache layer performance
+
+## 2019-06-26
+- Refactored tooltip logic
