@@ -378,3 +378,6 @@
 
 ## 2019-06-26
 - Refactored tooltip logic
+
+## 2019-07-05
+- Updated file uploader error handling
