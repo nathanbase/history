@@ -381,3 +381,6 @@
 
 ## 2019-07-05
 - Updated file uploader error handling
+
+## 2019-07-10
+- Fixed color picker alignment issue
