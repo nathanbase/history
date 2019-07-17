@@ -387,3 +387,6 @@
 
 ## 2019-07-17
 - Resolved file uploader compatibility issue
+
+## 2019-07-17
+- Improved tooltip performance
