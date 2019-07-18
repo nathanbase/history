@@ -390,3 +390,6 @@
 
 ## 2019-07-17
 - Improved tooltip performance
+
+## 2019-07-18
+- Refactored analytics tracker logic
