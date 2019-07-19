@@ -393,3 +393,6 @@
 
 ## 2019-07-18
 - Refactored analytics tracker logic
+
+## 2019-07-19
+- Refactored settings page logic
