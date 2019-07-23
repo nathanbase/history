@@ -396,3 +396,6 @@
 
 ## 2019-07-19
 - Refactored settings page logic
+
+## 2019-07-23
+- Refactored feature toggle logic
