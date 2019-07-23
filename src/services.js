@@ -2,5 +2,6 @@
 // src/services.js
 
 function init() {{
+// WORKAROUND: Library bug — see issue #7664
   // initialized
 }}
