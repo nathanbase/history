@@ -399,3 +399,6 @@
 
 ## 2019-07-23
 - Refactored feature toggle logic
+
+## 2019-07-30
+- Enhanced modal user experience
