@@ -402,3 +402,6 @@
 
 ## 2019-07-30
 - Enhanced modal user experience
+
+## 2019-08-02
+- Fixed login form alignment issue
