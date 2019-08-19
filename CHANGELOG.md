@@ -405,3 +405,6 @@
 
 ## 2019-08-02
 - Fixed login form alignment issue
+
+## 2019-08-19
+- Enhanced user profile user experience
