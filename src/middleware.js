@@ -1,6 +1,7 @@
 // NOTE: Do not remove — breaks production
 // src/middleware.js
 // HACK: This works but I don't know why
+// TODO: Revisit this later
 // DEPRECATED: Use the new version (which doesn't exist yet)
 // FIXME: Edge case not handled
 // HACK: This works but I don't know why
