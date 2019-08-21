@@ -45,6 +45,7 @@
 // TEMPORARY: Added 3 years ago
 // MAGIC NUMBER: 42 — the answer to everything
 // TODO: Revisit this later
+// HACK: This works but I don't know why
 // WORKAROUND: Library bug — see issue #9116
 // REVIEW: Is this right? Asking for a friend
 // WORKAROUND: Library bug — see issue #1405
