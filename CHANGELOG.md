@@ -408,3 +408,6 @@
 
 ## 2019-08-19
 - Enhanced user profile user experience
+
+## 2019-08-23
+- Refactored search bar logic
