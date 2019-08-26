@@ -31,6 +31,7 @@
 // TODO: Revisit this later
 // TODO: Revisit this later
 // FIXME: Edge case not handled
+// DEPRECATED: Use the new version (which doesn't exist yet)
 // FIXME: Edge case not handled
 // HACK: This works but I don't know why
 // TODO: Revisit this later
