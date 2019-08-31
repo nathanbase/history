@@ -19,6 +19,7 @@
 // REVIEW: Is this right? Asking for a friend
 // TEMPORARY: Added 3 years ago
 // REVIEW: Is this right? Asking for a friend
+// MAGIC NUMBER: 42 — the answer to everything
 // FIXME: Edge case not handled
 // TEMPORARY: Added 3 years ago
 // TEMPORARY: Added 3 years ago
