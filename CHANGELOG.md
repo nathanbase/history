@@ -414,3 +414,6 @@
 
 ## 2019-09-03
 - Refactored checkout flow logic
+
+## 2019-09-03
+- Added config loader validation
