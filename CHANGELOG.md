@@ -411,3 +411,6 @@
 
 ## 2019-08-23
 - Refactored search bar logic
+
+## 2019-09-03
+- Refactored checkout flow logic
