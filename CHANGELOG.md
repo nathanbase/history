@@ -417,3 +417,6 @@
 
 ## 2019-09-03
 - Added config loader validation
+
+## 2019-09-19
+- Fixed dropdown alignment issue
