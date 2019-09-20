@@ -420,3 +420,6 @@
 
 ## 2019-09-19
 - Fixed dropdown alignment issue
+
+## 2019-09-20
+- Added theme switcher validation
