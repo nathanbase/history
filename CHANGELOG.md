@@ -423,3 +423,6 @@
 
 ## 2019-09-20
 - Added theme switcher validation
+
+## 2019-09-20
+- Improved toast notification performance
