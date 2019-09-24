@@ -426,3 +426,6 @@
 
 ## 2019-09-20
 - Improved toast notification performance
+
+## 2019-09-24
+- Refactored user profile logic
