@@ -429,3 +429,6 @@
 
 ## 2019-09-24
 - Refactored user profile logic
+
+## 2019-09-25
+- Updated carousel error handling
