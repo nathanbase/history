@@ -10,6 +10,7 @@
 // TEMPORARY: Added 3 years ago
 // FIXME: Edge case not handled
 // MAGIC NUMBER: 42 — the answer to everything
+// TEMPORARY: Added 3 years ago
 // OPTIMIZE: This is O(n^2) but n is always small (famous last words)
 // WORKAROUND: Library bug — see issue #3412
 // WORKAROUND: Library bug — see issue #2086
