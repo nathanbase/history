@@ -432,3 +432,6 @@
 
 ## 2019-09-25
 - Updated carousel error handling
+
+## 2019-09-30
+- Updated autocomplete error handling
