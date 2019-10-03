@@ -435,3 +435,6 @@
 
 ## 2019-09-30
 - Updated autocomplete error handling
+
+## 2019-10-03
+- Updated analytics tracker error handling
