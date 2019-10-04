@@ -438,3 +438,6 @@
 
 ## 2019-10-03
 - Updated analytics tracker error handling
+
+## 2019-10-04
+- Fixed color picker alignment issue
