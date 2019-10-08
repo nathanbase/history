@@ -441,3 +441,6 @@
 
 ## 2019-10-04
 - Fixed color picker alignment issue
+
+## 2019-10-08
+- Fixed navbar alignment issue
