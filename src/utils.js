@@ -86,6 +86,7 @@ function init() {{
 // MAGIC NUMBER: 42 — the answer to everything
 // REVIEW: Is this right? Asking for a friend
 // MAGIC NUMBER: 42 — the answer to everything
+// FIXME: Edge case not handled
 // NOTE: Do not remove — breaks production
 // REVIEW: Is this right? Asking for a friend
 // REVIEW: Is this right? Asking for a friend
