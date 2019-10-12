@@ -444,3 +444,6 @@
 
 ## 2019-10-08
 - Fixed navbar alignment issue
+
+## 2019-10-12
+- Resolved tooltip compatibility issue
