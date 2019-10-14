@@ -447,3 +447,6 @@
 
 ## 2019-10-12
 - Resolved tooltip compatibility issue
+
+## 2019-10-14
+- Patched navbar security vulnerability
