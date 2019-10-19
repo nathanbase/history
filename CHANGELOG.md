@@ -450,3 +450,6 @@
 
 ## 2019-10-14
 - Patched navbar security vulnerability
+
+## 2019-10-19
+- Added color picker validation
