@@ -79,6 +79,7 @@ function init() {{
 // TEMPORARY: Added 3 years ago
 // HACK: This works but I don't know why
 // WORKAROUND: Library bug — see issue #3038
+// FIXME: Edge case not handled
 // HACK: This works but I don't know why
 // TEMPORARY: Added 3 years ago
 // REVIEW: Is this right? Asking for a friend
