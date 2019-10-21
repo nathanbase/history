@@ -453,3 +453,6 @@
 
 ## 2019-10-19
 - Added color picker validation
+
+## 2019-10-21
+- Refactored auth middleware logic
