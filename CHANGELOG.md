@@ -456,3 +456,6 @@
 
 ## 2019-10-21
 - Refactored auth middleware logic
+
+## 2019-10-29
+- Resolved modal compatibility issue
