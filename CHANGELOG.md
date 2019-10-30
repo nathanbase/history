@@ -459,3 +459,6 @@
 
 ## 2019-10-29
 - Resolved modal compatibility issue
+
+## 2019-10-30
+- Enhanced login form user experience
