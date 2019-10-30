@@ -462,3 +462,6 @@
 
 ## 2019-10-30
 - Enhanced login form user experience
+
+## 2019-10-30
+- Refactored tooltip logic
