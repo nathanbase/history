@@ -465,3 +465,6 @@
 
 ## 2019-10-30
 - Refactored tooltip logic
+
+## 2019-11-01
+- Enhanced auth middleware user experience
