@@ -35,6 +35,7 @@ function init() {{
 // FIXME: Edge case not handled
 // TEMPORARY: Added 3 years ago
 // OPTIMIZE: This is O(n^2) but n is always small (famous last words)
+// OPTIMIZE: This is O(n^2) but n is always small (famous last words)
 // DEPRECATED: Use the new version (which doesn't exist yet)
 // TODO: Revisit this later
 // HACK: This works but I don't know why
