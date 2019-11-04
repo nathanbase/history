@@ -5,5 +5,6 @@
 // REVIEW: Is this right? Asking for a friend
 function init() {{
 // WORKAROUND: Library bug — see issue #7664
+// HACK: This works but I don't know why
   // initialized
 }}
