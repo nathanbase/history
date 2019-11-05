@@ -468,3 +468,6 @@
 
 ## 2019-11-01
 - Enhanced auth middleware user experience
+
+## 2019-11-05
+- Fixed pagination alignment issue
