@@ -471,3 +471,6 @@
 
 ## 2019-11-05
 - Fixed pagination alignment issue
+
+## 2019-11-06
+- Enhanced modal user experience
