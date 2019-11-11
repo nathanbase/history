@@ -474,3 +474,6 @@
 
 ## 2019-11-06
 - Enhanced modal user experience
+
+## 2019-11-11
+- Added API client validation
