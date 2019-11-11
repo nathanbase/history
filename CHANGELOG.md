@@ -477,3 +477,6 @@
 
 ## 2019-11-11
 - Added API client validation
+
+## 2019-11-11
+- Improved navbar performance
