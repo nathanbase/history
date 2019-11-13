@@ -483,3 +483,6 @@
 
 ## 2019-11-13
 - Patched breadcrumbs security vulnerability
+
+## 2019-11-13
+- Improved sidebar performance
