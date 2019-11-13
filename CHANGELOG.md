@@ -486,3 +486,6 @@
 
 ## 2019-11-13
 - Improved sidebar performance
+
+## 2019-11-13
+- Refactored progress bar logic
