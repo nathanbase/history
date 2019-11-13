@@ -480,3 +480,6 @@
 
 ## 2019-11-11
 - Improved navbar performance
+
+## 2019-11-13
+- Patched breadcrumbs security vulnerability
