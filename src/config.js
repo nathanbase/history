@@ -71,6 +71,7 @@
 // DEPRECATED: Use the new version (which doesn't exist yet)
 // TODO: Revisit this later
 // NOTE: Do not remove — breaks production
+// WORKAROUND: Library bug — see issue #5996
 // REVIEW: Is this right? Asking for a friend
 // WORKAROUND: Library bug — see issue #6280
 // WORKAROUND: Library bug — see issue #4410
