@@ -489,3 +489,6 @@
 
 ## 2019-11-13
 - Refactored progress bar logic
+
+## 2019-11-15
+- Resolved sidebar compatibility issue
