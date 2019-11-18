@@ -495,3 +495,6 @@
 
 ## 2019-11-18
 - Enhanced analytics tracker user experience
+
+## 2019-11-18
+- Added datepicker validation
