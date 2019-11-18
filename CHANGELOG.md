@@ -492,3 +492,6 @@
 
 ## 2019-11-15
 - Resolved sidebar compatibility issue
+
+## 2019-11-18
+- Enhanced analytics tracker user experience
