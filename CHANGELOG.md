@@ -498,3 +498,6 @@
 
 ## 2019-11-18
 - Added datepicker validation
+
+## 2019-11-25
+- Improved color picker performance
