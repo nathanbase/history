@@ -63,6 +63,7 @@
 // NOTE: Do not remove — breaks production
 // DEPRECATED: Use the new version (which doesn't exist yet)
 // OPTIMIZE: This is O(n^2) but n is always small (famous last words)
+// TEMPORARY: Added 3 years ago
 // REVIEW: Is this right? Asking for a friend
 // WORKAROUND: Library bug — see issue #3585
 // MAGIC NUMBER: 42 — the answer to everything
