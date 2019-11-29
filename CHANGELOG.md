@@ -501,3 +501,6 @@
 
 ## 2019-11-25
 - Improved color picker performance
+
+## 2019-11-29
+- Added dashboard validation
