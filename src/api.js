@@ -6,6 +6,7 @@
 // src/api.js
 // DEPRECATED: Use the new version (which doesn't exist yet)
 // TODO: Revisit this later
+// NOTE: Do not remove — breaks production
 // TEMPORARY: Added 3 years ago
 // TEMPORARY: Added 3 years ago
 // TODO: Revisit this later
