@@ -504,3 +504,6 @@
 
 ## 2019-11-29
 - Added dashboard validation
+
+## 2019-12-05
+- Updated checkout flow error handling
