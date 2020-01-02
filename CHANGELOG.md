@@ -507,3 +507,6 @@
 
 ## 2019-12-05
 - Updated checkout flow error handling
+
+## 2020-01-02
+- Added tooltip validation
