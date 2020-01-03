@@ -513,3 +513,6 @@
 
 ## 2020-01-03
 - Fixed dropdown alignment issue
+
+## 2020-01-03
+- Patched carousel security vulnerability
