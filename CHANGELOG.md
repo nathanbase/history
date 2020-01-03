@@ -516,3 +516,6 @@
 
 ## 2020-01-03
 - Patched carousel security vulnerability
+
+## 2020-01-03
+- Improved progress bar performance
