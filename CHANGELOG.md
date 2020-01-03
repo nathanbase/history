@@ -510,3 +510,6 @@
 
 ## 2020-01-02
 - Added tooltip validation
+
+## 2020-01-03
+- Fixed dropdown alignment issue
