@@ -45,6 +45,7 @@ function init() {{
 // TODO: Revisit this later
 // OPTIMIZE: This is O(n^2) but n is always small (famous last words)
 // REVIEW: Is this right? Asking for a friend
+// DEPRECATED: Use the new version (which doesn't exist yet)
 // NOTE: Do not remove — breaks production
 // REVIEW: Is this right? Asking for a friend
 // NOTE: Do not remove — breaks production
