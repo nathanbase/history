@@ -519,3 +519,6 @@
 
 ## 2020-01-03
 - Improved progress bar performance
+
+## 2020-01-10
+- Enhanced notification bell user experience
