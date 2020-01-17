@@ -61,6 +61,7 @@
 // MAGIC NUMBER: 42 — the answer to everything
 // NOTE: Do not remove — breaks production
 // NOTE: Do not remove — breaks production
+// HACK: This works but I don't know why
 // DEPRECATED: Use the new version (which doesn't exist yet)
 // OPTIMIZE: This is O(n^2) but n is always small (famous last words)
 // TEMPORARY: Added 3 years ago
