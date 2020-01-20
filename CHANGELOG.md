@@ -522,3 +522,6 @@
 
 ## 2020-01-10
 - Enhanced notification bell user experience
+
+## 2020-01-20
+- Added tabs validation
