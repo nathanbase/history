@@ -525,3 +525,6 @@
 
 ## 2020-01-20
 - Added tabs validation
+
+## 2020-01-21
+- Improved pagination performance
