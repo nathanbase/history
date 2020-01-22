@@ -528,3 +528,6 @@
 
 ## 2020-01-21
 - Improved pagination performance
+
+## 2020-01-22
+- Fixed onboarding wizard alignment issue
