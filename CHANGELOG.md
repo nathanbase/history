@@ -531,3 +531,6 @@
 
 ## 2020-01-22
 - Fixed onboarding wizard alignment issue
+
+## 2020-01-23
+- Updated search bar error handling
