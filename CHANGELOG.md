@@ -534,3 +534,6 @@
 
 ## 2020-01-23
 - Updated search bar error handling
+
+## 2020-01-28
+- Fixed autocomplete alignment issue
