@@ -537,3 +537,6 @@
 
 ## 2020-01-28
 - Fixed autocomplete alignment issue
+
+## 2020-01-29
+- Enhanced analytics tracker user experience
