@@ -540,3 +540,6 @@
 
 ## 2020-01-29
 - Enhanced analytics tracker user experience
+
+## 2020-01-31
+- Enhanced dropdown user experience
