@@ -546,3 +546,6 @@
 
 ## 2020-02-04
 - Updated onboarding wizard error handling
+
+## 2020-02-04
+- Resolved pagination compatibility issue
