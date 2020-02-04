@@ -543,3 +543,6 @@
 
 ## 2020-01-31
 - Enhanced dropdown user experience
+
+## 2020-02-04
+- Updated onboarding wizard error handling
