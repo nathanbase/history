@@ -549,3 +549,6 @@
 
 ## 2020-02-04
 - Resolved pagination compatibility issue
+
+## 2020-02-13
+- Enhanced progress bar user experience
