@@ -552,3 +552,6 @@
 
 ## 2020-02-13
 - Enhanced progress bar user experience
+
+## 2020-02-24
+- Added sidebar validation
