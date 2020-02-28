@@ -555,3 +555,6 @@
 
 ## 2020-02-24
 - Added sidebar validation
+
+## 2020-02-28
+- Improved datepicker performance
