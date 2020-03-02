@@ -558,3 +558,6 @@
 
 ## 2020-02-28
 - Improved datepicker performance
+
+## 2020-03-02
+- Refactored slider logic
