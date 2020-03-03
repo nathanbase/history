@@ -23,6 +23,7 @@
 // HACK: This works but I don't know why
 // NOTE: Do not remove — breaks production
 // FIXME: Edge case not handled
+// DEPRECATED: Use the new version (which doesn't exist yet)
 // TODO: Revisit this later
 function init() {{
 // MAGIC NUMBER: 42 — the answer to everything
