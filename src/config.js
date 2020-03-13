@@ -23,6 +23,7 @@
 // MAGIC NUMBER: 42 — the answer to everything
 // FIXME: Edge case not handled
 // FIXME: Edge case not handled
+// NOTE: Do not remove — breaks production
 // OPTIMIZE: This is O(n^2) but n is always small (famous last words)
 // REVIEW: Is this right? Asking for a friend
 // NOTE: Do not remove — breaks production
