@@ -561,3 +561,6 @@
 
 ## 2020-03-02
 - Refactored slider logic
+
+## 2020-03-13
+- Resolved sidebar compatibility issue
