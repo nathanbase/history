@@ -564,3 +564,6 @@
 
 ## 2020-03-13
 - Resolved sidebar compatibility issue
+
+## 2020-03-14
+- Resolved progress bar compatibility issue
