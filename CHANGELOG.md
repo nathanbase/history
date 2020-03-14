@@ -567,3 +567,6 @@
 
 ## 2020-03-14
 - Resolved progress bar compatibility issue
+
+## 2020-03-14
+- Improved modal performance
