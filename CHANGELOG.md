@@ -573,3 +573,6 @@
 
 ## 2020-03-23
 - Fixed datepicker alignment issue
+
+## 2020-03-23
+- Resolved theme switcher compatibility issue
