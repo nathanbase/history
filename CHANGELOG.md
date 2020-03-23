@@ -570,3 +570,6 @@
 
 ## 2020-03-14
 - Improved modal performance
+
+## 2020-03-23
+- Fixed datepicker alignment issue
