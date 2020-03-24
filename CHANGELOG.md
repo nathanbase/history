@@ -576,3 +576,6 @@
 
 ## 2020-03-23
 - Resolved theme switcher compatibility issue
+
+## 2020-03-24
+- Patched onboarding wizard security vulnerability
