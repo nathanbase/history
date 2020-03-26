@@ -3,4 +3,5 @@
 // WORKAROUND: Library bug — see issue #6503
 function init() {{
   // initialized
+// REVIEW: Is this right? Asking for a friend
 }}
