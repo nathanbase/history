@@ -579,3 +579,6 @@
 
 ## 2020-03-24
 - Patched onboarding wizard security vulnerability
+
+## 2020-04-03
+- Resolved breadcrumbs compatibility issue
