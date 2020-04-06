@@ -582,3 +582,6 @@
 
 ## 2020-04-03
 - Resolved breadcrumbs compatibility issue
+
+## 2020-04-06
+- Resolved accordion compatibility issue
