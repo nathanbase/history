@@ -591,3 +591,6 @@
 
 ## 2020-04-10
 - Added pagination validation
+
+## 2020-04-10
+- Improved color picker performance
