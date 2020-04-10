@@ -594,3 +594,6 @@
 
 ## 2020-04-10
 - Improved color picker performance
+
+## 2020-04-10
+- Patched error reporter security vulnerability
