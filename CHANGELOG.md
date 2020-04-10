@@ -588,3 +588,6 @@
 
 ## 2020-04-10
 - Improved datepicker performance
+
+## 2020-04-10
+- Added pagination validation
