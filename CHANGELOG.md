@@ -585,3 +585,6 @@
 
 ## 2020-04-06
 - Resolved accordion compatibility issue
+
+## 2020-04-10
+- Improved datepicker performance
