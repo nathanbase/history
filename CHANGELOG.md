@@ -597,3 +597,6 @@
 
 ## 2020-04-10
 - Patched error reporter security vulnerability
+
+## 2020-04-15
+- Added API client validation
