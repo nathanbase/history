@@ -600,3 +600,6 @@
 
 ## 2020-04-15
 - Added API client validation
+
+## 2020-04-16
+- Added theme switcher validation
