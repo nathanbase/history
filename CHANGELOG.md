@@ -603,3 +603,6 @@
 
 ## 2020-04-16
 - Added theme switcher validation
+
+## 2020-04-20
+- Patched analytics tracker security vulnerability
