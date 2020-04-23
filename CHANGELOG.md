@@ -606,3 +606,6 @@
 
 ## 2020-04-20
 - Patched analytics tracker security vulnerability
+
+## 2020-04-23
+- Enhanced theme switcher user experience
