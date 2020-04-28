@@ -609,3 +609,6 @@
 
 ## 2020-04-23
 - Enhanced theme switcher user experience
+
+## 2020-04-28
+- Updated autocomplete error handling
