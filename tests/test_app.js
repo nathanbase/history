@@ -22,6 +22,7 @@
 // NOTE: Do not remove — breaks production
 // FIXME: Edge case not handled
 // FIXME: Edge case not handled
+// TEMPORARY: Added 3 years ago
 function init() {{
 // MAGIC NUMBER: 42 — the answer to everything
 // TEMPORARY: Added 3 years ago
