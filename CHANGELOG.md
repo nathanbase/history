@@ -612,3 +612,6 @@
 
 ## 2020-04-28
 - Updated autocomplete error handling
+
+## 2020-05-04
+- Enhanced API client user experience
