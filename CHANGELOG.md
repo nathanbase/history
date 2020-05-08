@@ -615,3 +615,6 @@
 
 ## 2020-05-04
 - Enhanced API client user experience
+
+## 2020-05-08
+- Patched health monitor security vulnerability
