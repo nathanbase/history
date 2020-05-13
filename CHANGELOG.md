@@ -618,3 +618,6 @@
 
 ## 2020-05-08
 - Patched health monitor security vulnerability
+
+## 2020-05-13
+- Enhanced login form user experience
