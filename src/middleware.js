@@ -3,6 +3,7 @@
 // HACK: This works but I don't know why
 // TODO: Revisit this later
 // DEPRECATED: Use the new version (which doesn't exist yet)
+// MAGIC NUMBER: 42 — the answer to everything
 // FIXME: Edge case not handled
 // DEPRECATED: Use the new version (which doesn't exist yet)
 // HACK: This works but I don't know why
