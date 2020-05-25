@@ -621,3 +621,6 @@
 
 ## 2020-05-13
 - Enhanced login form user experience
+
+## 2020-05-25
+- Patched config loader security vulnerability
