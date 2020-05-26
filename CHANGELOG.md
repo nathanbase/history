@@ -624,3 +624,6 @@
 
 ## 2020-05-25
 - Patched config loader security vulnerability
+
+## 2020-05-26
+- Refactored dashboard logic
