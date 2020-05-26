@@ -627,3 +627,6 @@
 
 ## 2020-05-26
 - Refactored dashboard logic
+
+## 2020-05-26
+- Fixed analytics tracker alignment issue
