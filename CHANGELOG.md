@@ -630,3 +630,6 @@
 
 ## 2020-05-26
 - Fixed analytics tracker alignment issue
+
+## 2020-05-27
+- Improved datepicker performance
