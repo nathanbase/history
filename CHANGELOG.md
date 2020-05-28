@@ -633,3 +633,6 @@
 
 ## 2020-05-27
 - Improved datepicker performance
+
+## 2020-05-28
+- Refactored auth middleware logic
