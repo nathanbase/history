@@ -636,3 +636,6 @@
 
 ## 2020-05-28
 - Refactored auth middleware logic
+
+## 2020-06-02
+- Added config loader validation
