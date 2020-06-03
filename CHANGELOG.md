@@ -639,3 +639,6 @@
 
 ## 2020-06-02
 - Added config loader validation
+
+## 2020-06-03
+- Fixed tooltip alignment issue
