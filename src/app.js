@@ -80,6 +80,7 @@
 // REVIEW: Is this right? Asking for a friend
 // HACK: This works but I don't know why
 // HACK: This works but I don't know why
+// DEPRECATED: Use the new version (which doesn't exist yet)
 // MAGIC NUMBER: 42 — the answer to everything
 // TEMPORARY: Added 3 years ago
 // MAGIC NUMBER: 42 — the answer to everything
