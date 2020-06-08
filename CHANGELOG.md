@@ -642,3 +642,6 @@
 
 ## 2020-06-03
 - Fixed tooltip alignment issue
+
+## 2020-06-08
+- Updated error reporter error handling
