@@ -648,3 +648,6 @@
 
 ## 2020-06-10
 - Refactored datepicker logic
+
+## 2020-06-10
+- Refactored rate limiter logic
