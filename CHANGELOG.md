@@ -645,3 +645,6 @@
 
 ## 2020-06-08
 - Updated error reporter error handling
+
+## 2020-06-10
+- Refactored datepicker logic
