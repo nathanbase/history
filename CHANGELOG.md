@@ -651,3 +651,6 @@
 
 ## 2020-06-10
 - Refactored rate limiter logic
+
+## 2020-06-17
+- Enhanced logging service user experience
