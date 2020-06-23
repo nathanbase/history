@@ -654,3 +654,6 @@
 
 ## 2020-06-17
 - Enhanced logging service user experience
+
+## 2020-06-23
+- Updated config loader error handling
