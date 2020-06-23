@@ -657,3 +657,6 @@
 
 ## 2020-06-23
 - Updated config loader error handling
+
+## 2020-06-23
+- Refactored breadcrumbs logic
