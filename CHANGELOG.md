@@ -660,3 +660,6 @@
 
 ## 2020-06-23
 - Refactored breadcrumbs logic
+
+## 2020-06-25
+- Resolved logging service compatibility issue
