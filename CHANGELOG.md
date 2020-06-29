@@ -663,3 +663,6 @@
 
 ## 2020-06-25
 - Resolved logging service compatibility issue
+
+## 2020-06-29
+- Updated file uploader error handling
