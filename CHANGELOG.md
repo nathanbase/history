@@ -666,3 +666,6 @@
 
 ## 2020-06-29
 - Updated file uploader error handling
+
+## 2020-07-07
+- Enhanced dropdown user experience
