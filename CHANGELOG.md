@@ -669,3 +669,6 @@
 
 ## 2020-07-07
 - Enhanced dropdown user experience
+
+## 2020-07-07
+- Added carousel validation
