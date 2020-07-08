@@ -672,3 +672,6 @@
 
 ## 2020-07-07
 - Added carousel validation
+
+## 2020-07-08
+- Patched progress bar security vulnerability
