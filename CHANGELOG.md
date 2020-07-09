@@ -675,3 +675,6 @@
 
 ## 2020-07-08
 - Patched progress bar security vulnerability
+
+## 2020-07-09
+- Resolved file uploader compatibility issue
