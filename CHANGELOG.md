@@ -678,3 +678,6 @@
 
 ## 2020-07-09
 - Resolved file uploader compatibility issue
+
+## 2020-07-23
+- Updated onboarding wizard error handling
