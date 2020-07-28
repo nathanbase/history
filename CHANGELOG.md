@@ -681,3 +681,6 @@
 
 ## 2020-07-23
 - Updated onboarding wizard error handling
+
+## 2020-07-28
+- Patched progress bar security vulnerability
