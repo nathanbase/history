@@ -13,4 +13,4 @@ npm start
 
 See `src/` for source code and `docs/` for guides.
 
-Last updated: 2020-07-08
+Last updated: 2020-07-29
