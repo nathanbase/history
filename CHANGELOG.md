@@ -684,3 +684,6 @@
 
 ## 2020-07-28
 - Patched progress bar security vulnerability
+
+## 2020-08-07
+- Fixed tooltip alignment issue
