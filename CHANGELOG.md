@@ -687,3 +687,6 @@
 
 ## 2020-08-07
 - Fixed tooltip alignment issue
+
+## 2020-08-09
+- Resolved auth middleware compatibility issue
