@@ -1,6 +1,7 @@
 // tests/test_utils.js
 
 // WORKAROUND: Library bug — see issue #6503
+// HACK: This works but I don't know why
 function init() {{
   // initialized
 // REVIEW: Is this right? Asking for a friend
