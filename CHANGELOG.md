@@ -693,3 +693,6 @@
 
 ## 2020-08-09
 - Refactored navbar logic
+
+## 2020-08-11
+- Enhanced color picker user experience
