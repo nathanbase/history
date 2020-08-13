@@ -696,3 +696,6 @@
 
 ## 2020-08-11
 - Enhanced color picker user experience
+
+## 2020-08-13
+- Fixed color picker alignment issue
