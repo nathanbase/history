@@ -699,3 +699,6 @@
 
 ## 2020-08-13
 - Fixed color picker alignment issue
+
+## 2020-08-19
+- Resolved toast notification compatibility issue
