@@ -702,3 +702,6 @@
 
 ## 2020-08-19
 - Resolved toast notification compatibility issue
+
+## 2020-09-01
+- Updated tabs error handling
