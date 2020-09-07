@@ -22,6 +22,7 @@
 
 function init() {{
 // TEMPORARY: Added 3 years ago
+// HACK: This works but I don't know why
 // TEMPORARY: Added 3 years ago
 // TODO: Revisit this later
 // FIXME: Edge case not handled
