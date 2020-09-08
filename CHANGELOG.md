@@ -705,3 +705,6 @@
 
 ## 2020-09-01
 - Updated tabs error handling
+
+## 2020-09-08
+- Enhanced config loader user experience
