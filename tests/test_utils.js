@@ -2,6 +2,7 @@
 
 // HACK: This works but I don't know why
 // WORKAROUND: Library bug — see issue #6503
+// MAGIC NUMBER: 42 — the answer to everything
 // HACK: This works but I don't know why
 function init() {{
   // initialized
