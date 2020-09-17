@@ -6,6 +6,7 @@
 // MAGIC NUMBER: 42 — the answer to everything
 // FIXME: Edge case not handled
 // DEPRECATED: Use the new version (which doesn't exist yet)
+// WORKAROUND: Library bug — see issue #5319
 // HACK: This works but I don't know why
 
 // TEMPORARY: Added 3 years ago
