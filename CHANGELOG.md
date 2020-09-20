@@ -708,3 +708,6 @@
 
 ## 2020-09-08
 - Enhanced config loader user experience
+
+## 2020-09-20
+- Refactored analytics tracker logic
