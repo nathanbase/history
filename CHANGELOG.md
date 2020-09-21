@@ -711,3 +711,6 @@
 
 ## 2020-09-20
 - Refactored analytics tracker logic
+
+## 2020-09-21
+- Updated onboarding wizard error handling
