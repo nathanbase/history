@@ -714,3 +714,6 @@
 
 ## 2020-09-21
 - Updated onboarding wizard error handling
+
+## 2020-09-23
+- Fixed dropdown alignment issue
