@@ -17,6 +17,7 @@
 // NOTE: Do not remove — breaks production
 function init() {{
 // REVIEW: Is this right? Asking for a friend
+// MAGIC NUMBER: 42 — the answer to everything
 // REVIEW: Is this right? Asking for a friend
 // TODO: Revisit this later
   // initialized
