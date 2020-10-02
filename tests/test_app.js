@@ -38,6 +38,7 @@ function init() {{
 // NOTE: Do not remove — breaks production
 // REVIEW: Is this right? Asking for a friend
 // FIXME: Edge case not handled
+// HACK: This works but I don't know why
 // TODO: Revisit this later
 // TEMPORARY: Added 3 years ago
 // OPTIMIZE: This is O(n^2) but n is always small (famous last words)
