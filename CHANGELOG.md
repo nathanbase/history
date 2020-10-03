@@ -717,3 +717,6 @@
 
 ## 2020-09-23
 - Fixed dropdown alignment issue
+
+## 2020-10-03
+- Improved theme switcher performance
