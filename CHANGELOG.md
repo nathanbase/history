@@ -720,3 +720,6 @@
 
 ## 2020-10-03
 - Improved theme switcher performance
+
+## 2020-10-05
+- Updated autocomplete error handling
