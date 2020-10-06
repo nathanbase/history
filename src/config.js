@@ -51,6 +51,7 @@
 // TODO: Revisit this later
 // HACK: This works but I don't know why
 // WORKAROUND: Library bug — see issue #9116
+// MAGIC NUMBER: 42 — the answer to everything
 // REVIEW: Is this right? Asking for a friend
 // WORKAROUND: Library bug — see issue #1405
 // MAGIC NUMBER: 42 — the answer to everything
