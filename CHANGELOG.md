@@ -723,3 +723,6 @@
 
 ## 2020-10-05
 - Updated autocomplete error handling
+
+## 2020-10-06
+- Resolved logging service compatibility issue
