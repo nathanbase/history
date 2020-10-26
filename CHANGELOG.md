@@ -726,3 +726,6 @@
 
 ## 2020-10-06
 - Resolved logging service compatibility issue
+
+## 2020-10-26
+- Added user profile validation
