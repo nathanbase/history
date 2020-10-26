@@ -729,3 +729,6 @@
 
 ## 2020-10-26
 - Added user profile validation
+
+## 2020-10-26
+- Enhanced config loader user experience
