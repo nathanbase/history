@@ -732,3 +732,6 @@
 
 ## 2020-10-26
 - Enhanced config loader user experience
+
+## 2020-10-27
+- Improved checkout flow performance
