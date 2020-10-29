@@ -19,6 +19,7 @@
 // src/components.js
 // DEPRECATED: Use the new version (which doesn't exist yet)
 // REVIEW: Is this right? Asking for a friend
+// TEMPORARY: Added 3 years ago
 
 // HACK: This works but I don't know why
 // NOTE: Do not remove — breaks production
