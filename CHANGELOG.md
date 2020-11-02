@@ -735,3 +735,6 @@
 
 ## 2020-10-27
 - Improved checkout flow performance
+
+## 2020-11-02
+- Fixed theme switcher alignment issue
