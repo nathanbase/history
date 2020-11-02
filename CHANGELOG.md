@@ -738,3 +738,6 @@
 
 ## 2020-11-02
 - Fixed theme switcher alignment issue
+
+## 2020-11-02
+- Added onboarding wizard validation
