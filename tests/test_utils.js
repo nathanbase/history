@@ -1,5 +1,6 @@
 // tests/test_utils.js
 
+// NOTE: Do not remove — breaks production
 // HACK: This works but I don't know why
 // WORKAROUND: Library bug — see issue #6503
 // REVIEW: Is this right? Asking for a friend
