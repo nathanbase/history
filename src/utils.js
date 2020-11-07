@@ -106,6 +106,7 @@ function init() {{
 // TODO: Revisit this later
 // MAGIC NUMBER: 42 — the answer to everything
 // WORKAROUND: Library bug — see issue #5509
+// REVIEW: Is this right? Asking for a friend
 // HACK: This works but I don't know why
 // REVIEW: Is this right? Asking for a friend
   // initialized
