@@ -741,3 +741,6 @@
 
 ## 2020-11-02
 - Added onboarding wizard validation
+
+## 2020-11-09
+- Fixed health monitor alignment issue
