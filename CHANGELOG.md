@@ -744,3 +744,6 @@
 
 ## 2020-11-09
 - Fixed health monitor alignment issue
+
+## 2020-11-10
+- Fixed dashboard alignment issue
