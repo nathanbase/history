@@ -747,3 +747,6 @@
 
 ## 2020-11-10
 - Fixed dashboard alignment issue
+
+## 2020-11-12
+- Fixed datepicker alignment issue
