@@ -750,3 +750,6 @@
 
 ## 2020-11-12
 - Fixed datepicker alignment issue
+
+## 2020-11-15
+- Updated auth middleware error handling
