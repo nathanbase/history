@@ -753,3 +753,6 @@
 
 ## 2020-11-15
 - Updated auth middleware error handling
+
+## 2020-11-19
+- Updated dashboard error handling
