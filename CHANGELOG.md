@@ -756,3 +756,6 @@
 
 ## 2020-11-19
 - Updated dashboard error handling
+
+## 2020-11-23
+- Patched onboarding wizard security vulnerability
