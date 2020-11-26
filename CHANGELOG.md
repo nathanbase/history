@@ -759,3 +759,6 @@
 
 ## 2020-11-23
 - Patched onboarding wizard security vulnerability
+
+## 2020-11-26
+- Resolved checkout flow compatibility issue
