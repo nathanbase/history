@@ -762,3 +762,6 @@
 
 ## 2020-11-26
 - Resolved checkout flow compatibility issue
+
+## 2020-12-01
+- Resolved datepicker compatibility issue
