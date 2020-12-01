@@ -765,3 +765,6 @@
 
 ## 2020-12-01
 - Resolved datepicker compatibility issue
+
+## 2020-12-01
+- Improved feature toggle performance
