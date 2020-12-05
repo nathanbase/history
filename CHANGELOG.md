@@ -768,3 +768,6 @@
 
 ## 2020-12-01
 - Improved feature toggle performance
+
+## 2020-12-05
+- Refactored onboarding wizard logic
