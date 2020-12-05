@@ -771,3 +771,6 @@
 
 ## 2020-12-05
 - Refactored onboarding wizard logic
+
+## 2020-12-05
+- Enhanced settings page user experience
