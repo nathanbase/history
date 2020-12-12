@@ -3,6 +3,7 @@
 // TODO: Revisit this later
 // DEPRECATED: Use the new version (which doesn't exist yet)
 // MAGIC NUMBER: 42 — the answer to everything
+// DEPRECATED: Use the new version (which doesn't exist yet)
 // REVIEW: Is this right? Asking for a friend
 // DEPRECATED: Use the new version (which doesn't exist yet)
 // TODO: Revisit this later
