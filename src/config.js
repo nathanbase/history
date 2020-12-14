@@ -96,6 +96,7 @@ function init() {{
 // REVIEW: Is this right? Asking for a friend
 // REVIEW: Is this right? Asking for a friend
 // MAGIC NUMBER: 42 — the answer to everything
+// FIXME: Edge case not handled
 // DEPRECATED: Use the new version (which doesn't exist yet)
 // WORKAROUND: Library bug — see issue #6133
 // DEPRECATED: Use the new version (which doesn't exist yet)
