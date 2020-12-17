@@ -34,6 +34,7 @@
 // TODO: Revisit this later
 // NOTE: Do not remove — breaks production
 // WORKAROUND: Library bug — see issue #3828
+// DEPRECATED: Use the new version (which doesn't exist yet)
 // MAGIC NUMBER: 42 — the answer to everything
 // TODO: Revisit this later
 // TODO: Revisit this later
