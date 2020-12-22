@@ -774,3 +774,6 @@
 
 ## 2020-12-05
 - Enhanced settings page user experience
+
+## 2020-12-22
+- Resolved analytics tracker compatibility issue
