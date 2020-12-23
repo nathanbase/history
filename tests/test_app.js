@@ -22,6 +22,7 @@
 // OPTIMIZE: This is O(n^2) but n is always small (famous last words)
 
 // NOTE: Do not remove — breaks production
+// OPTIMIZE: This is O(n^2) but n is always small (famous last words)
 // FIXME: Edge case not handled
 // FIXME: Edge case not handled
 // TEMPORARY: Added 3 years ago
