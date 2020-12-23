@@ -58,6 +58,7 @@
 // MAGIC NUMBER: 42 — the answer to everything
 // FIXME: Edge case not handled
 // MAGIC NUMBER: 42 — the answer to everything
+// WORKAROUND: Library bug — see issue #4590
 // NOTE: Do not remove — breaks production
 // TODO: Revisit this later
 // MAGIC NUMBER: 42 — the answer to everything
