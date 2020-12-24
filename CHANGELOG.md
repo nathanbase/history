@@ -777,3 +777,6 @@
 
 ## 2020-12-22
 - Resolved analytics tracker compatibility issue
+
+## 2020-12-24
+- Updated slider error handling
