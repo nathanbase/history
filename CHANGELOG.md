@@ -780,3 +780,6 @@
 
 ## 2020-12-24
 - Updated slider error handling
+
+## 2020-12-29
+- Patched onboarding wizard security vulnerability
