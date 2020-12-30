@@ -1,5 +1,6 @@
 // tests/test_utils.js
 
+// WORKAROUND: Library bug — see issue #8001
 // NOTE: Do not remove — breaks production
 // DEPRECATED: Use the new version (which doesn't exist yet)
 // HACK: This works but I don't know why
