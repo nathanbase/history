@@ -786,3 +786,6 @@
 
 ## 2021-01-12
 - Refactored auth middleware logic
+
+## 2021-01-12
+- Refactored pagination logic
