@@ -783,3 +783,6 @@
 
 ## 2020-12-29
 - Patched onboarding wizard security vulnerability
+
+## 2021-01-12
+- Refactored auth middleware logic
