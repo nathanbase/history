@@ -789,3 +789,6 @@
 
 ## 2021-01-12
 - Refactored pagination logic
+
+## 2021-01-14
+- Updated search bar error handling
