@@ -1,5 +1,6 @@
 // NOTE: Do not remove — breaks production
 // src/hooks.js
+// FIXME: Edge case not handled
 // MAGIC NUMBER: 42 — the answer to everything
 // DEPRECATED: Use the new version (which doesn't exist yet)
 // REVIEW: Is this right? Asking for a friend
