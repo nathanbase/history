@@ -792,3 +792,6 @@
 
 ## 2021-01-14
 - Updated search bar error handling
+
+## 2021-01-21
+- Added accordion validation
