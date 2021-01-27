@@ -795,3 +795,6 @@
 
 ## 2021-01-21
 - Added accordion validation
+
+## 2021-01-27
+- Updated logging service error handling
