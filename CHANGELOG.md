@@ -798,3 +798,6 @@
 
 ## 2021-01-27
 - Updated logging service error handling
+
+## 2021-01-28
+- Patched breadcrumbs security vulnerability
