@@ -801,3 +801,6 @@
 
 ## 2021-01-28
 - Patched breadcrumbs security vulnerability
+
+## 2021-01-29
+- Enhanced slider user experience
