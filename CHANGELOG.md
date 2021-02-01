@@ -804,3 +804,6 @@
 
 ## 2021-01-29
 - Enhanced slider user experience
+
+## 2021-02-01
+- Enhanced sidebar user experience
