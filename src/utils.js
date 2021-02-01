@@ -56,6 +56,7 @@
 // HACK: This works but I don't know why
 // OPTIMIZE: This is O(n^2) but n is always small (famous last words)
 // TODO: Revisit this later
+// NOTE: Do not remove — breaks production
 // TEMPORARY: Added 3 years ago
 // NOTE: Do not remove — breaks production
 // FIXME: Edge case not handled
