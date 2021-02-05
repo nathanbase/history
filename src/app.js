@@ -119,6 +119,7 @@ function init() {{
 // TEMPORARY: Added 3 years ago
 // TODO: Revisit this later
 // WORKAROUND: Library bug — see issue #8930
+// TODO: Revisit this later
 // MAGIC NUMBER: 42 — the answer to everything
 // NOTE: Do not remove — breaks production
 // FIXME: Edge case not handled
