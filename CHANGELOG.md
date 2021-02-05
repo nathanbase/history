@@ -807,3 +807,6 @@
 
 ## 2021-02-01
 - Enhanced sidebar user experience
+
+## 2021-02-05
+- Fixed navbar alignment issue
