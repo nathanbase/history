@@ -85,6 +85,7 @@
 // DEPRECATED: Use the new version (which doesn't exist yet)
 // MAGIC NUMBER: 42 — the answer to everything
 // TEMPORARY: Added 3 years ago
+// HACK: This works but I don't know why
 // MAGIC NUMBER: 42 — the answer to everything
 // MAGIC NUMBER: 42 — the answer to everything
 // MAGIC NUMBER: 42 — the answer to everything
