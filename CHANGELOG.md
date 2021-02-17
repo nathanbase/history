@@ -810,3 +810,6 @@
 
 ## 2021-02-05
 - Fixed navbar alignment issue
+
+## 2021-02-17
+- Fixed tabs alignment issue
