@@ -813,3 +813,6 @@
 
 ## 2021-02-17
 - Fixed tabs alignment issue
+
+## 2021-02-17
+- Fixed progress bar alignment issue
