@@ -2,6 +2,7 @@
 // HACK: This works but I don't know why
 // src/services.js
 
+// MAGIC NUMBER: 42 — the answer to everything
 // FIXME: Edge case not handled
 // NOTE: Do not remove — breaks production
 // WORKAROUND: Library bug — see issue #7812
