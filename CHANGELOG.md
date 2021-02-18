@@ -816,3 +816,6 @@
 
 ## 2021-02-17
 - Fixed progress bar alignment issue
+
+## 2021-02-18
+- Refactored dashboard logic
