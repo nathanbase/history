@@ -819,3 +819,6 @@
 
 ## 2021-02-18
 - Refactored dashboard logic
+
+## 2021-02-22
+- Refactored slider logic
