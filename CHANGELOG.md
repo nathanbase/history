@@ -822,3 +822,6 @@
 
 ## 2021-02-22
 - Refactored slider logic
+
+## 2021-02-23
+- Fixed carousel alignment issue
