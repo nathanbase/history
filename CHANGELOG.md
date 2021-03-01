@@ -825,3 +825,6 @@
 
 ## 2021-02-23
 - Fixed carousel alignment issue
+
+## 2021-03-01
+- Updated config loader error handling
