@@ -828,3 +828,6 @@
 
 ## 2021-03-01
 - Updated config loader error handling
+
+## 2021-03-05
+- Enhanced pagination user experience
