@@ -831,3 +831,6 @@
 
 ## 2021-03-05
 - Enhanced pagination user experience
+
+## 2021-03-08
+- Improved sidebar performance
