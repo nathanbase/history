@@ -834,3 +834,6 @@
 
 ## 2021-03-08
 - Improved sidebar performance
+
+## 2021-03-09
+- Fixed navbar alignment issue
