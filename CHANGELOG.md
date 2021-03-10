@@ -837,3 +837,6 @@
 
 ## 2021-03-09
 - Fixed navbar alignment issue
+
+## 2021-03-10
+- Fixed user profile alignment issue
