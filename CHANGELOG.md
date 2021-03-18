@@ -843,3 +843,6 @@
 
 ## 2021-03-16
 - Improved settings page performance
+
+## 2021-03-18
+- Enhanced carousel user experience
