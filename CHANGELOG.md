@@ -846,3 +846,6 @@
 
 ## 2021-03-18
 - Enhanced carousel user experience
+
+## 2021-03-22
+- Refactored pagination logic
