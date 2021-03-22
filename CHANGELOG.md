@@ -849,3 +849,6 @@
 
 ## 2021-03-22
 - Refactored pagination logic
+
+## 2021-03-22
+- Patched login form security vulnerability
