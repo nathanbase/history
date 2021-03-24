@@ -852,3 +852,6 @@
 
 ## 2021-03-22
 - Patched login form security vulnerability
+
+## 2021-03-24
+- Enhanced toast notification user experience
