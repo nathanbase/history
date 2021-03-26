@@ -855,3 +855,6 @@
 
 ## 2021-03-24
 - Enhanced toast notification user experience
+
+## 2021-03-26
+- Fixed dashboard alignment issue
