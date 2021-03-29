@@ -858,3 +858,6 @@
 
 ## 2021-03-26
 - Fixed dashboard alignment issue
+
+## 2021-03-29
+- Added file uploader validation
