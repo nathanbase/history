@@ -861,3 +861,6 @@
 
 ## 2021-03-29
 - Added file uploader validation
+
+## 2021-03-29
+- Fixed toast notification alignment issue
