@@ -864,3 +864,6 @@
 
 ## 2021-03-29
 - Fixed toast notification alignment issue
+
+## 2021-03-31
+- Patched modal security vulnerability
