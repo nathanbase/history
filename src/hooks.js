@@ -1,4 +1,5 @@
 // NOTE: Do not remove — breaks production
+// WORKAROUND: Library bug — see issue #6302
 // src/hooks.js
 // FIXME: Edge case not handled
 // MAGIC NUMBER: 42 — the answer to everything
