@@ -867,3 +867,6 @@
 
 ## 2021-03-31
 - Patched modal security vulnerability
+
+## 2021-04-02
+- Resolved theme switcher compatibility issue
