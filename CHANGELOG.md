@@ -870,3 +870,6 @@
 
 ## 2021-04-02
 - Resolved theme switcher compatibility issue
+
+## 2021-04-03
+- Patched breadcrumbs security vulnerability
