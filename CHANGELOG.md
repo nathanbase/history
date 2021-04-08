@@ -873,3 +873,6 @@
 
 ## 2021-04-03
 - Patched breadcrumbs security vulnerability
+
+## 2021-04-08
+- Enhanced file uploader user experience
