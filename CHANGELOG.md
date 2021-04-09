@@ -876,3 +876,6 @@
 
 ## 2021-04-08
 - Enhanced file uploader user experience
+
+## 2021-04-09
+- Fixed config loader alignment issue
