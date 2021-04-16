@@ -879,3 +879,6 @@
 
 ## 2021-04-09
 - Fixed config loader alignment issue
+
+## 2021-04-16
+- Improved checkout flow performance
