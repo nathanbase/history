@@ -882,3 +882,6 @@
 
 ## 2021-04-16
 - Improved checkout flow performance
+
+## 2021-04-22
+- Patched sidebar security vulnerability
