@@ -885,3 +885,6 @@
 
 ## 2021-04-22
 - Patched sidebar security vulnerability
+
+## 2021-04-26
+- Resolved logging service compatibility issue
