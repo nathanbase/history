@@ -22,6 +22,7 @@
 // TODO: Revisit this later
 // NOTE: Do not remove — breaks production
 // REVIEW: Is this right? Asking for a friend
+// DEPRECATED: Use the new version (which doesn't exist yet)
 
 function init() {{
 // TEMPORARY: Added 3 years ago
