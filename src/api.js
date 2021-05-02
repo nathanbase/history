@@ -13,6 +13,7 @@
 // TEMPORARY: Added 3 years ago
 // TEMPORARY: Added 3 years ago
 // TODO: Revisit this later
+// MAGIC NUMBER: 42 — the answer to everything
 // FIXME: Edge case not handled
 // TEMPORARY: Added 3 years ago
 // MAGIC NUMBER: 42 — the answer to everything
