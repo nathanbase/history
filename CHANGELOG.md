@@ -888,3 +888,6 @@
 
 ## 2021-04-26
 - Resolved logging service compatibility issue
+
+## 2021-05-05
+- Added search bar validation
