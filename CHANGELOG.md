@@ -894,3 +894,6 @@
 
 ## 2021-05-08
 - Fixed analytics tracker alignment issue
+
+## 2021-05-08
+- Improved pagination performance
