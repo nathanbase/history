@@ -891,3 +891,6 @@
 
 ## 2021-05-05
 - Added search bar validation
+
+## 2021-05-08
+- Fixed analytics tracker alignment issue
