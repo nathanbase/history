@@ -897,3 +897,6 @@
 
 ## 2021-05-08
 - Improved pagination performance
+
+## 2021-05-11
+- Fixed cache layer alignment issue
