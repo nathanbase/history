@@ -900,3 +900,6 @@
 
 ## 2021-05-11
 - Fixed cache layer alignment issue
+
+## 2021-05-12
+- Fixed file uploader alignment issue
