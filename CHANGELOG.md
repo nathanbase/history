@@ -903,3 +903,6 @@
 
 ## 2021-05-12
 - Fixed file uploader alignment issue
+
+## 2021-05-25
+- Improved search bar performance
