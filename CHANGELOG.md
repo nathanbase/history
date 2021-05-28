@@ -906,3 +906,6 @@
 
 ## 2021-05-25
 - Improved search bar performance
+
+## 2021-05-28
+- Added health monitor validation
