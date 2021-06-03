@@ -909,3 +909,6 @@
 
 ## 2021-05-28
 - Added health monitor validation
+
+## 2021-06-03
+- Fixed tabs alignment issue
