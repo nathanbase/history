@@ -915,3 +915,6 @@
 
 ## 2021-06-08
 - Refactored dashboard logic
+
+## 2021-06-08
+- Enhanced config loader user experience
