@@ -912,3 +912,6 @@
 
 ## 2021-06-03
 - Fixed tabs alignment issue
+
+## 2021-06-08
+- Refactored dashboard logic
