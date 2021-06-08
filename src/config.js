@@ -104,6 +104,7 @@ function init() {{
 // DEPRECATED: Use the new version (which doesn't exist yet)
 // WORKAROUND: Library bug — see issue #6133
 // DEPRECATED: Use the new version (which doesn't exist yet)
+// DEPRECATED: Use the new version (which doesn't exist yet)
 // WORKAROUND: Library bug — see issue #156
 // TEMPORARY: Added 3 years ago
 // WORKAROUND: Library bug — see issue #1594
