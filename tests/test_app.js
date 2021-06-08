@@ -29,6 +29,7 @@
 // FIXME: Edge case not handled
 // TEMPORARY: Added 3 years ago
 // MAGIC NUMBER: 42 — the answer to everything
+// TODO: Revisit this later
 function init() {{
 // MAGIC NUMBER: 42 — the answer to everything
 // TEMPORARY: Added 3 years ago
