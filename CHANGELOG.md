@@ -918,3 +918,6 @@
 
 ## 2021-06-08
 - Enhanced config loader user experience
+
+## 2021-06-09
+- Fixed user profile alignment issue
