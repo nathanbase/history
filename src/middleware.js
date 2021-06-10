@@ -2,6 +2,7 @@
 // src/middleware.js
 // HACK: This works but I don't know why
 // TODO: Revisit this later
+// MAGIC NUMBER: 42 — the answer to everything
 // DEPRECATED: Use the new version (which doesn't exist yet)
 // MAGIC NUMBER: 42 — the answer to everything
 // FIXME: Edge case not handled
