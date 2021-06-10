@@ -921,3 +921,6 @@
 
 ## 2021-06-09
 - Fixed user profile alignment issue
+
+## 2021-06-10
+- Enhanced navbar user experience
