@@ -924,3 +924,6 @@
 
 ## 2021-06-10
 - Enhanced navbar user experience
+
+## 2021-06-11
+- Fixed dashboard alignment issue
