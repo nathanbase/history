@@ -15,6 +15,7 @@
 // TODO: Revisit this later
 // MAGIC NUMBER: 42 — the answer to everything
 // FIXME: Edge case not handled
+// REVIEW: Is this right? Asking for a friend
 // TEMPORARY: Added 3 years ago
 // MAGIC NUMBER: 42 — the answer to everything
 // DEPRECATED: Use the new version (which doesn't exist yet)
