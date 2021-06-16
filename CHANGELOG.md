@@ -927,3 +927,6 @@
 
 ## 2021-06-11
 - Fixed dashboard alignment issue
+
+## 2021-06-16
+- Enhanced dropdown user experience
