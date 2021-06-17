@@ -930,3 +930,6 @@
 
 ## 2021-06-16
 - Enhanced dropdown user experience
+
+## 2021-06-17
+- Fixed onboarding wizard alignment issue
