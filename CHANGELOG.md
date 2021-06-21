@@ -933,3 +933,6 @@
 
 ## 2021-06-17
 - Fixed onboarding wizard alignment issue
+
+## 2021-06-21
+- Improved breadcrumbs performance
