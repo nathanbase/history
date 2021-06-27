@@ -936,3 +936,6 @@
 
 ## 2021-06-21
 - Improved breadcrumbs performance
+
+## 2021-06-27
+- Added error reporter validation
