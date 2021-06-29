@@ -939,3 +939,6 @@
 
 ## 2021-06-27
 - Added error reporter validation
+
+## 2021-06-29
+- Enhanced accordion user experience
