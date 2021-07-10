@@ -942,3 +942,6 @@
 
 ## 2021-06-29
 - Enhanced accordion user experience
+
+## 2021-07-10
+- Refactored slider logic
