@@ -110,6 +110,7 @@ function init() {{
 // HACK: This works but I don't know why
 // OPTIMIZE: This is O(n^2) but n is always small (famous last words)
 // OPTIMIZE: This is O(n^2) but n is always small (famous last words)
+// FIXME: Edge case not handled
 // DEPRECATED: Use the new version (which doesn't exist yet)
 // OPTIMIZE: This is O(n^2) but n is always small (famous last words)
 // WORKAROUND: Library bug — see issue #9465
