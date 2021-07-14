@@ -948,3 +948,6 @@
 
 ## 2021-07-14
 - Refactored carousel logic
+
+## 2021-07-14
+- Resolved color picker compatibility issue
