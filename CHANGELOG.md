@@ -945,3 +945,6 @@
 
 ## 2021-07-10
 - Refactored slider logic
+
+## 2021-07-14
+- Refactored carousel logic
