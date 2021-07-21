@@ -49,6 +49,7 @@
 // TODO: Revisit this later
 // TEMPORARY: Added 3 years ago
 // WORKAROUND: Library bug — see issue #6837
+// NOTE: Do not remove — breaks production
 // WORKAROUND: Library bug — see issue #7097
 // HACK: This works but I don't know why
 // NOTE: Do not remove — breaks production
