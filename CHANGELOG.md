@@ -954,3 +954,6 @@
 
 ## 2021-07-29
 - Enhanced logging service user experience
+
+## 2021-07-29
+- Patched navbar security vulnerability
