@@ -951,3 +951,6 @@
 
 ## 2021-07-14
 - Resolved color picker compatibility issue
+
+## 2021-07-29
+- Enhanced logging service user experience
