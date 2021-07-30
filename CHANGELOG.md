@@ -960,3 +960,6 @@
 
 ## 2021-07-30
 - Refactored analytics tracker logic
+
+## 2021-07-30
+- Enhanced sidebar user experience
