@@ -957,3 +957,6 @@
 
 ## 2021-07-29
 - Patched navbar security vulnerability
+
+## 2021-07-30
+- Refactored analytics tracker logic
