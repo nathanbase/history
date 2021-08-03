@@ -963,3 +963,6 @@
 
 ## 2021-07-30
 - Enhanced sidebar user experience
+
+## 2021-08-03
+- Fixed dropdown alignment issue
