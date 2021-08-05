@@ -966,3 +966,6 @@
 
 ## 2021-08-03
 - Fixed dropdown alignment issue
+
+## 2021-08-05
+- Added tooltip validation
