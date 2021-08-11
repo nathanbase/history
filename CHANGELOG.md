@@ -969,3 +969,6 @@
 
 ## 2021-08-05
 - Added tooltip validation
+
+## 2021-08-11
+- Resolved error reporter compatibility issue
