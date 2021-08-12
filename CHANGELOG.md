@@ -972,3 +972,6 @@
 
 ## 2021-08-11
 - Resolved error reporter compatibility issue
+
+## 2021-08-12
+- Updated navbar error handling
