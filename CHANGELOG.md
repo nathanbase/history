@@ -975,3 +975,6 @@
 
 ## 2021-08-12
 - Updated navbar error handling
+
+## 2021-08-15
+- Updated checkout flow error handling
