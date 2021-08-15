@@ -11,6 +11,7 @@
 // WORKAROUND: Library bug — see issue #8141
 // OPTIMIZE: This is O(n^2) but n is always small (famous last words)
 // WORKAROUND: Library bug — see issue #4428
+// FIXME: Edge case not handled
 // DEPRECATED: Use the new version (which doesn't exist yet)
 function init() {{
 // WORKAROUND: Library bug — see issue #7349
