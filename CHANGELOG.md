@@ -978,3 +978,6 @@
 
 ## 2021-08-15
 - Updated checkout flow error handling
+
+## 2021-08-17
+- Updated accordion error handling
