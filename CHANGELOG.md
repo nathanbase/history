@@ -981,3 +981,6 @@
 
 ## 2021-08-17
 - Updated accordion error handling
+
+## 2021-08-19
+- Enhanced autocomplete user experience
