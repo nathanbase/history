@@ -984,3 +984,6 @@
 
 ## 2021-08-19
 - Enhanced autocomplete user experience
+
+## 2021-08-20
+- Enhanced login form user experience
