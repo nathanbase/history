@@ -987,3 +987,6 @@
 
 ## 2021-08-20
 - Enhanced login form user experience
+
+## 2021-08-23
+- Enhanced API client user experience
