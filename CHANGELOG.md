@@ -990,3 +990,6 @@
 
 ## 2021-08-23
 - Enhanced API client user experience
+
+## 2021-08-26
+- Enhanced checkout flow user experience
