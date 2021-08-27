@@ -993,3 +993,6 @@
 
 ## 2021-08-26
 - Enhanced checkout flow user experience
+
+## 2021-08-27
+- Resolved file uploader compatibility issue
