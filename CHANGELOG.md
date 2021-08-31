@@ -996,3 +996,6 @@
 
 ## 2021-08-27
 - Resolved file uploader compatibility issue
+
+## 2021-08-31
+- Patched file uploader security vulnerability
