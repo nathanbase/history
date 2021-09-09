@@ -999,3 +999,6 @@
 
 ## 2021-08-31
 - Patched file uploader security vulnerability
+
+## 2021-09-09
+- Updated login form error handling
