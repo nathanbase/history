@@ -1002,3 +1002,6 @@
 
 ## 2021-09-09
 - Updated login form error handling
+
+## 2021-09-14
+- Enhanced onboarding wizard user experience
