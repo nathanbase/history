@@ -1005,3 +1005,6 @@
 
 ## 2021-09-14
 - Enhanced onboarding wizard user experience
+
+## 2021-09-17
+- Added datepicker validation
