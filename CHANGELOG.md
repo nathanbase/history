@@ -1011,3 +1011,6 @@
 
 ## 2021-09-18
 - Refactored progress bar logic
+
+## 2021-09-18
+- Refactored carousel logic
