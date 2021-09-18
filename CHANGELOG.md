@@ -1008,3 +1008,6 @@
 
 ## 2021-09-17
 - Added datepicker validation
+
+## 2021-09-18
+- Refactored progress bar logic
