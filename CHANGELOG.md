@@ -1014,3 +1014,6 @@
 
 ## 2021-09-18
 - Refactored carousel logic
+
+## 2021-09-25
+- Updated toast notification error handling
