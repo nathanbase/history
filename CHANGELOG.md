@@ -1017,3 +1017,6 @@
 
 ## 2021-09-25
 - Updated toast notification error handling
+
+## 2021-10-01
+- Enhanced toast notification user experience
