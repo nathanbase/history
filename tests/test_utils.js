@@ -4,6 +4,7 @@
 // WORKAROUND: Library bug — see issue #8001
 // NOTE: Do not remove — breaks production
 // DEPRECATED: Use the new version (which doesn't exist yet)
+// DEPRECATED: Use the new version (which doesn't exist yet)
 // HACK: This works but I don't know why
 // WORKAROUND: Library bug — see issue #6503
 // REVIEW: Is this right? Asking for a friend
