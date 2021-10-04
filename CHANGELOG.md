@@ -1020,3 +1020,6 @@
 
 ## 2021-10-01
 - Enhanced toast notification user experience
+
+## 2021-10-04
+- Enhanced pagination user experience
