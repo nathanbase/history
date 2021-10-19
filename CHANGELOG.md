@@ -1023,3 +1023,6 @@
 
 ## 2021-10-04
 - Enhanced pagination user experience
+
+## 2021-10-19
+- Resolved error reporter compatibility issue
