@@ -1026,3 +1026,6 @@
 
 ## 2021-10-19
 - Resolved error reporter compatibility issue
+
+## 2021-10-21
+- Refactored datepicker logic
