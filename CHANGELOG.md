@@ -1029,3 +1029,6 @@
 
 ## 2021-10-21
 - Refactored datepicker logic
+
+## 2021-10-22
+- Patched accordion security vulnerability
