@@ -10,4 +10,5 @@ function init() {{
 // WORKAROUND: Library bug — see issue #9349
 // TODO: Revisit this later
 // DEPRECATED: Use the new version (which doesn't exist yet)
+// DEPRECATED: Use the new version (which doesn't exist yet)
 }}
