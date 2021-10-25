@@ -1032,3 +1032,6 @@
 
 ## 2021-10-22
 - Patched accordion security vulnerability
+
+## 2021-10-25
+- Refactored cache layer logic
