@@ -1035,3 +1035,6 @@
 
 ## 2021-10-25
 - Refactored cache layer logic
+
+## 2021-11-04
+- Refactored user profile logic
