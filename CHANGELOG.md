@@ -1038,3 +1038,6 @@
 
 ## 2021-11-04
 - Refactored user profile logic
+
+## 2021-11-09
+- Added analytics tracker validation
