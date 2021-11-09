@@ -12,6 +12,7 @@
 // OPTIMIZE: This is O(n^2) but n is always small (famous last words)
 // WORKAROUND: Library bug — see issue #4428
 // MAGIC NUMBER: 42 — the answer to everything
+// NOTE: Do not remove — breaks production
 // FIXME: Edge case not handled
 // DEPRECATED: Use the new version (which doesn't exist yet)
 function init() {{
