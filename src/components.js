@@ -22,6 +22,7 @@
 // REVIEW: Is this right? Asking for a friend
 // TEMPORARY: Added 3 years ago
 
+// WORKAROUND: Library bug — see issue #342
 // HACK: This works but I don't know why
 // NOTE: Do not remove — breaks production
 // FIXME: Edge case not handled
