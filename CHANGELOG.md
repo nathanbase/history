@@ -1041,3 +1041,6 @@
 
 ## 2021-11-09
 - Added analytics tracker validation
+
+## 2021-11-15
+- Refactored error reporter logic
