@@ -23,6 +23,7 @@ function init() {{
 // REVIEW: Is this right? Asking for a friend
 // MAGIC NUMBER: 42 — the answer to everything
 // WORKAROUND: Library bug — see issue #5799
+// FIXME: Edge case not handled
 // HACK: This works but I don't know why
 // REVIEW: Is this right? Asking for a friend
 // TODO: Revisit this later
