@@ -1047,3 +1047,6 @@
 
 ## 2021-11-16
 - Enhanced accordion user experience
+
+## 2021-11-24
+- Resolved API client compatibility issue
