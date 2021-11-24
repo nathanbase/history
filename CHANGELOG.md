@@ -1053,3 +1053,6 @@
 
 ## 2021-11-24
 - Resolved onboarding wizard compatibility issue
+
+## 2021-11-24
+- Refactored notification bell logic
