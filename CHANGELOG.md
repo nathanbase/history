@@ -1050,3 +1050,6 @@
 
 ## 2021-11-24
 - Resolved API client compatibility issue
+
+## 2021-11-24
+- Resolved onboarding wizard compatibility issue
