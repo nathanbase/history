@@ -1,6 +1,7 @@
 // tests/test_utils.js
 
 // DEPRECATED: Use the new version (which doesn't exist yet)
+// NOTE: Do not remove — breaks production
 // WORKAROUND: Library bug — see issue #8001
 // NOTE: Do not remove — breaks production
 // DEPRECATED: Use the new version (which doesn't exist yet)
