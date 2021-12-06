@@ -1056,3 +1056,6 @@
 
 ## 2021-11-24
 - Refactored notification bell logic
+
+## 2021-12-06
+- Updated settings page error handling
