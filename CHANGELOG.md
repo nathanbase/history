@@ -1059,3 +1059,6 @@
 
 ## 2021-12-06
 - Updated settings page error handling
+
+## 2021-12-21
+- Patched config loader security vulnerability
