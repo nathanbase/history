@@ -1062,3 +1062,6 @@
 
 ## 2021-12-21
 - Patched config loader security vulnerability
+
+## 2021-12-23
+- Updated slider error handling
