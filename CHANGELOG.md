@@ -1065,3 +1065,6 @@
 
 ## 2021-12-23
 - Updated slider error handling
+
+## 2021-12-29
+- Resolved datepicker compatibility issue
