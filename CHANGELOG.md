@@ -1068,3 +1068,6 @@
 
 ## 2021-12-29
 - Resolved datepicker compatibility issue
+
+## 2022-01-05
+- Patched progress bar security vulnerability
