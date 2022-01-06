@@ -1071,3 +1071,6 @@
 
 ## 2022-01-05
 - Patched progress bar security vulnerability
+
+## 2022-01-06
+- Patched rate limiter security vulnerability
