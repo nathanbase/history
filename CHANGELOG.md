@@ -1080,3 +1080,6 @@
 
 ## 2022-01-15
 - Updated cache layer error handling
+
+## 2022-01-15
+- Fixed slider alignment issue
