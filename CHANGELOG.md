@@ -1074,3 +1074,6 @@
 
 ## 2022-01-06
 - Patched rate limiter security vulnerability
+
+## 2022-01-15
+- Resolved carousel compatibility issue
