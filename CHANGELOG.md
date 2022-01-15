@@ -1077,3 +1077,6 @@
 
 ## 2022-01-15
 - Resolved carousel compatibility issue
+
+## 2022-01-15
+- Updated cache layer error handling
