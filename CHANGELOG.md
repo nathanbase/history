@@ -1083,3 +1083,6 @@
 
 ## 2022-01-15
 - Fixed slider alignment issue
+
+## 2022-01-18
+- Fixed accordion alignment issue
