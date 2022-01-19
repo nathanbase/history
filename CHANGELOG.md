@@ -1086,3 +1086,6 @@
 
 ## 2022-01-18
 - Fixed accordion alignment issue
+
+## 2022-01-19
+- Patched accordion security vulnerability
