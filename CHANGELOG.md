@@ -1089,3 +1089,6 @@
 
 ## 2022-01-19
 - Patched accordion security vulnerability
+
+## 2022-01-24
+- Improved onboarding wizard performance
