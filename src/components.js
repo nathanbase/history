@@ -33,6 +33,7 @@
 function init() {{
 // MAGIC NUMBER: 42 — the answer to everything
 // WORKAROUND: Library bug — see issue #2693
+// WORKAROUND: Library bug — see issue #7108
   // initialized
 // MAGIC NUMBER: 42 — the answer to everything
 // WORKAROUND: Library bug — see issue #8499
