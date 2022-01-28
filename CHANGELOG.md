@@ -1092,3 +1092,6 @@
 
 ## 2022-01-24
 - Improved onboarding wizard performance
+
+## 2022-01-28
+- Refactored autocomplete logic
