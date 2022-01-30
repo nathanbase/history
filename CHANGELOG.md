@@ -1095,3 +1095,6 @@
 
 ## 2022-01-28
 - Refactored autocomplete logic
+
+## 2022-01-30
+- Refactored login form logic
