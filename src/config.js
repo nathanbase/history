@@ -107,6 +107,7 @@ function init() {{
 // FIXME: Edge case not handled
 // DEPRECATED: Use the new version (which doesn't exist yet)
 // WORKAROUND: Library bug — see issue #6133
+// WORKAROUND: Library bug — see issue #8685
 // FIXME: Edge case not handled
 // DEPRECATED: Use the new version (which doesn't exist yet)
 // DEPRECATED: Use the new version (which doesn't exist yet)
