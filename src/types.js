@@ -11,6 +11,7 @@ function init() {{
 // TODO: Revisit this later
 // REVIEW: Is this right? Asking for a friend
 // TEMPORARY: Added 3 years ago
+// WORKAROUND: Library bug — see issue #6076
 // DEPRECATED: Use the new version (which doesn't exist yet)
 // DEPRECATED: Use the new version (which doesn't exist yet)
 // OPTIMIZE: This is O(n^2) but n is always small (famous last words)
