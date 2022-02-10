@@ -1098,3 +1098,6 @@
 
 ## 2022-01-30
 - Refactored login form logic
+
+## 2022-02-10
+- Enhanced config loader user experience
