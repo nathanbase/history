@@ -1101,3 +1101,6 @@
 
 ## 2022-02-10
 - Enhanced config loader user experience
+
+## 2022-02-10
+- Fixed tabs alignment issue
