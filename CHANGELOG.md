@@ -1104,3 +1104,6 @@
 
 ## 2022-02-10
 - Fixed tabs alignment issue
+
+## 2022-02-21
+- Refactored rate limiter logic
