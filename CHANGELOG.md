@@ -1107,3 +1107,6 @@
 
 ## 2022-02-21
 - Refactored rate limiter logic
+
+## 2022-02-21
+- Resolved theme switcher compatibility issue
