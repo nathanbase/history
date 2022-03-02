@@ -1110,3 +1110,6 @@
 
 ## 2022-02-21
 - Resolved theme switcher compatibility issue
+
+## 2022-03-02
+- Fixed rate limiter alignment issue
