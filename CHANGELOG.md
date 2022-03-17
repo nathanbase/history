@@ -1116,3 +1116,6 @@
 
 ## 2022-03-17
 - Resolved modal compatibility issue
+
+## 2022-03-17
+- Refactored pagination logic
