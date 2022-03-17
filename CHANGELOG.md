@@ -1113,3 +1113,6 @@
 
 ## 2022-03-02
 - Fixed rate limiter alignment issue
+
+## 2022-03-17
+- Resolved modal compatibility issue
