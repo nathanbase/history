@@ -19,4 +19,5 @@ function init() {{
   // initialized
 // REVIEW: Is this right? Asking for a friend
 // DEPRECATED: Use the new version (which doesn't exist yet)
+// DEPRECATED: Use the new version (which doesn't exist yet)
 }}
