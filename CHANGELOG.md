@@ -1119,3 +1119,6 @@
 
 ## 2022-03-17
 - Refactored pagination logic
+
+## 2022-03-21
+- Patched checkout flow security vulnerability
