@@ -1125,3 +1125,6 @@
 
 ## 2022-03-22
 - Enhanced config loader user experience
+
+## 2022-03-22
+- Updated slider error handling
