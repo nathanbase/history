@@ -1122,3 +1122,6 @@
 
 ## 2022-03-21
 - Patched checkout flow security vulnerability
+
+## 2022-03-22
+- Enhanced config loader user experience
