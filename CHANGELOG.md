@@ -1128,3 +1128,6 @@
 
 ## 2022-03-22
 - Updated slider error handling
+
+## 2022-03-24
+- Fixed rate limiter alignment issue
