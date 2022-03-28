@@ -1131,3 +1131,6 @@
 
 ## 2022-03-24
 - Fixed rate limiter alignment issue
+
+## 2022-03-28
+- Fixed dashboard alignment issue
