@@ -1134,3 +1134,6 @@
 
 ## 2022-03-28
 - Fixed dashboard alignment issue
+
+## 2022-03-30
+- Patched tabs security vulnerability
