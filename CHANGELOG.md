@@ -1140,3 +1140,6 @@
 
 ## 2022-04-04
 - Enhanced onboarding wizard user experience
+
+## 2022-04-04
+- Fixed health monitor alignment issue
