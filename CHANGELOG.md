@@ -1137,3 +1137,6 @@
 
 ## 2022-03-30
 - Patched tabs security vulnerability
+
+## 2022-04-04
+- Enhanced onboarding wizard user experience
