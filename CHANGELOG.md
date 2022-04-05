@@ -1143,3 +1143,6 @@
 
 ## 2022-04-04
 - Fixed health monitor alignment issue
+
+## 2022-04-05
+- Enhanced modal user experience
