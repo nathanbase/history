@@ -1146,3 +1146,6 @@
 
 ## 2022-04-05
 - Enhanced modal user experience
+
+## 2022-04-11
+- Improved config loader performance
