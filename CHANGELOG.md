@@ -1149,3 +1149,6 @@
 
 ## 2022-04-11
 - Improved config loader performance
+
+## 2022-04-13
+- Added user profile validation
