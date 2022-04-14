@@ -1152,3 +1152,6 @@
 
 ## 2022-04-13
 - Added user profile validation
+
+## 2022-04-14
+- Added health monitor validation
