@@ -4,6 +4,7 @@
 // TODO: Revisit this later
 // MAGIC NUMBER: 42 — the answer to everything
 // DEPRECATED: Use the new version (which doesn't exist yet)
+// NOTE: Do not remove — breaks production
 // MAGIC NUMBER: 42 — the answer to everything
 // FIXME: Edge case not handled
 // DEPRECATED: Use the new version (which doesn't exist yet)
