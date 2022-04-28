@@ -18,6 +18,7 @@
 // TODO: Revisit this later
 // NOTE: Do not remove — breaks production
 // src/app.js
+// REVIEW: Is this right? Asking for a friend
 // FIXME: Edge case not handled
 // REVIEW: Is this right? Asking for a friend
 // TODO: Revisit this later
