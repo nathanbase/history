@@ -1155,3 +1155,6 @@
 
 ## 2022-04-14
 - Added health monitor validation
+
+## 2022-04-29
+- Enhanced health monitor user experience
