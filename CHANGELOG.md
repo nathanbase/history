@@ -1158,3 +1158,6 @@
 
 ## 2022-04-29
 - Enhanced health monitor user experience
+
+## 2022-05-05
+- Fixed slider alignment issue
