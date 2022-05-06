@@ -1161,3 +1161,6 @@
 
 ## 2022-05-05
 - Fixed slider alignment issue
+
+## 2022-05-06
+- Enhanced config loader user experience
