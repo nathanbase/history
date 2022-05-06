@@ -1164,3 +1164,6 @@
 
 ## 2022-05-06
 - Enhanced config loader user experience
+
+## 2022-05-06
+- Added theme switcher validation
