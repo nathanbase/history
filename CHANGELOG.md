@@ -1167,3 +1167,6 @@
 
 ## 2022-05-06
 - Added theme switcher validation
+
+## 2022-05-09
+- Added pagination validation
