@@ -1170,3 +1170,6 @@
 
 ## 2022-05-09
 - Added pagination validation
+
+## 2022-05-11
+- Fixed dropdown alignment issue
