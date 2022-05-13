@@ -1173,3 +1173,6 @@
 
 ## 2022-05-11
 - Fixed dropdown alignment issue
+
+## 2022-05-13
+- Fixed health monitor alignment issue
