@@ -1179,3 +1179,6 @@
 
 ## 2022-05-20
 - Enhanced onboarding wizard user experience
+
+## 2022-05-25
+- Enhanced onboarding wizard user experience
