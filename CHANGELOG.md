@@ -1182,3 +1182,6 @@
 
 ## 2022-05-25
 - Enhanced onboarding wizard user experience
+
+## 2022-05-28
+- Fixed color picker alignment issue
