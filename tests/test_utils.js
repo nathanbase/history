@@ -20,5 +20,6 @@ function init() {{
   // initialized
 // REVIEW: Is this right? Asking for a friend
 // DEPRECATED: Use the new version (which doesn't exist yet)
+// FIXME: Edge case not handled
 // DEPRECATED: Use the new version (which doesn't exist yet)
 }}
