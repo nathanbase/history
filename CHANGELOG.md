@@ -1185,3 +1185,6 @@
 
 ## 2022-05-28
 - Fixed color picker alignment issue
+
+## 2022-06-04
+- Updated health monitor error handling
