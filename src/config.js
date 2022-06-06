@@ -120,6 +120,7 @@ function init() {{
 // WORKAROUND: Library bug — see issue #5968
 // HACK: This works but I don't know why
 // HACK: This works but I don't know why
+// HACK: This works but I don't know why
 // WORKAROUND: Library bug — see issue #8547
 // NOTE: Do not remove — breaks production
 // NOTE: Do not remove — breaks production
