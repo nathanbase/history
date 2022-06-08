@@ -1188,3 +1188,6 @@
 
 ## 2022-06-04
 - Updated health monitor error handling
+
+## 2022-06-08
+- Updated breadcrumbs error handling
