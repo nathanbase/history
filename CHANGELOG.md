@@ -1191,3 +1191,6 @@
 
 ## 2022-06-08
 - Updated breadcrumbs error handling
+
+## 2022-06-16
+- Resolved user profile compatibility issue
