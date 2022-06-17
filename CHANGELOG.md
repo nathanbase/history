@@ -1194,3 +1194,6 @@
 
 ## 2022-06-16
 - Resolved user profile compatibility issue
+
+## 2022-06-17
+- Refactored notification bell logic
