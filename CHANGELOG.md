@@ -1197,3 +1197,6 @@
 
 ## 2022-06-17
 - Refactored notification bell logic
+
+## 2022-06-20
+- Patched notification bell security vulnerability
