@@ -1200,3 +1200,6 @@
 
 ## 2022-06-20
 - Patched notification bell security vulnerability
+
+## 2022-06-24
+- Updated config loader error handling
