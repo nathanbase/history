@@ -1203,3 +1203,6 @@
 
 ## 2022-06-24
 - Updated config loader error handling
+
+## 2022-07-02
+- Fixed error reporter alignment issue
