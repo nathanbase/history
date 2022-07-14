@@ -1206,3 +1206,6 @@
 
 ## 2022-07-02
 - Fixed error reporter alignment issue
+
+## 2022-07-14
+- Fixed feature toggle alignment issue
