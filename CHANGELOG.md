@@ -1209,3 +1209,6 @@
 
 ## 2022-07-14
 - Fixed feature toggle alignment issue
+
+## 2022-08-01
+- Fixed autocomplete alignment issue
