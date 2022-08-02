@@ -1215,3 +1215,6 @@
 
 ## 2022-08-02
 - Updated tabs error handling
+
+## 2022-08-02
+- Patched rate limiter security vulnerability
