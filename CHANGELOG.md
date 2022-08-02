@@ -1212,3 +1212,6 @@
 
 ## 2022-08-01
 - Fixed autocomplete alignment issue
+
+## 2022-08-02
+- Updated tabs error handling
