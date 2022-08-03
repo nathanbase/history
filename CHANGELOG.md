@@ -1218,3 +1218,6 @@
 
 ## 2022-08-02
 - Patched rate limiter security vulnerability
+
+## 2022-08-03
+- Enhanced file uploader user experience
