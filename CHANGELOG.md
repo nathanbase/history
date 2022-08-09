@@ -1224,3 +1224,6 @@
 
 ## 2022-08-09
 - Patched notification bell security vulnerability
+
+## 2022-08-09
+- Patched progress bar security vulnerability
