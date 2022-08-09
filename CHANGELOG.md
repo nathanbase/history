@@ -1227,3 +1227,6 @@
 
 ## 2022-08-09
 - Patched progress bar security vulnerability
+
+## 2022-08-09
+- Fixed modal alignment issue
