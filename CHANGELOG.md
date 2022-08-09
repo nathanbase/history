@@ -1221,3 +1221,6 @@
 
 ## 2022-08-03
 - Enhanced file uploader user experience
+
+## 2022-08-09
+- Patched notification bell security vulnerability
