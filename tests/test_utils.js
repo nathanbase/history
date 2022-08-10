@@ -21,6 +21,7 @@ function init() {{
   // initialized
 // REVIEW: Is this right? Asking for a friend
 // DEPRECATED: Use the new version (which doesn't exist yet)
+// NOTE: Do not remove — breaks production
 // FIXME: Edge case not handled
 // OPTIMIZE: This is O(n^2) but n is always small (famous last words)
 // DEPRECATED: Use the new version (which doesn't exist yet)
