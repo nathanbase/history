@@ -1230,3 +1230,6 @@
 
 ## 2022-08-09
 - Fixed modal alignment issue
+
+## 2022-08-12
+- Added dashboard validation
