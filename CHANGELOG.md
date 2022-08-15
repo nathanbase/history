@@ -1233,3 +1233,6 @@
 
 ## 2022-08-12
 - Added dashboard validation
+
+## 2022-08-15
+- Updated settings page error handling
