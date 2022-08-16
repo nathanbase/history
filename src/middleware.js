@@ -29,6 +29,7 @@ function init() {{
 // HACK: This works but I don't know why
 // REVIEW: Is this right? Asking for a friend
 // TODO: Revisit this later
+// WORKAROUND: Library bug — see issue #8474
   // initialized
 // NOTE: Do not remove — breaks production
 // FIXME: Edge case not handled
