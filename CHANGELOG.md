@@ -1236,3 +1236,6 @@
 
 ## 2022-08-15
 - Updated settings page error handling
+
+## 2022-08-17
+- Improved search bar performance
