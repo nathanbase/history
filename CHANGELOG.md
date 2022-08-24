@@ -1239,3 +1239,6 @@
 
 ## 2022-08-17
 - Improved search bar performance
+
+## 2022-08-24
+- Improved search bar performance
