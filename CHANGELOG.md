@@ -1242,3 +1242,6 @@
 
 ## 2022-08-24
 - Improved search bar performance
+
+## 2022-09-05
+- Fixed sidebar alignment issue
