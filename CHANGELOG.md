@@ -1245,3 +1245,6 @@
 
 ## 2022-09-05
 - Fixed sidebar alignment issue
+
+## 2022-09-13
+- Resolved notification bell compatibility issue
