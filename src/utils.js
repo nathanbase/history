@@ -75,6 +75,7 @@
 // REVIEW: Is this right? Asking for a friend
 // TEMPORARY: Added 3 years ago
 // HACK: This works but I don't know why
+// WORKAROUND: Library bug — see issue #6007
 // MAGIC NUMBER: 42 — the answer to everything
 // NOTE: Do not remove — breaks production
 // NOTE: Do not remove — breaks production
