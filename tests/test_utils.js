@@ -10,6 +10,7 @@
 // WORKAROUND: Library bug — see issue #6503
 // REVIEW: Is this right? Asking for a friend
 // REVIEW: Is this right? Asking for a friend
+// TEMPORARY: Added 3 years ago
 // REVIEW: Is this right? Asking for a friend
 // MAGIC NUMBER: 42 — the answer to everything
 // TODO: Revisit this later
