@@ -1251,3 +1251,6 @@
 
 ## 2022-09-23
 - Fixed pagination alignment issue
+
+## 2022-09-23
+- Enhanced notification bell user experience
