@@ -1248,3 +1248,6 @@
 
 ## 2022-09-13
 - Resolved notification bell compatibility issue
+
+## 2022-09-23
+- Fixed pagination alignment issue
