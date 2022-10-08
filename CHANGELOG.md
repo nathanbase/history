@@ -1254,3 +1254,6 @@
 
 ## 2022-09-23
 - Enhanced notification bell user experience
+
+## 2022-10-08
+- Updated onboarding wizard error handling
