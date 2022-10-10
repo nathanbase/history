@@ -1257,3 +1257,6 @@
 
 ## 2022-10-08
 - Updated onboarding wizard error handling
+
+## 2022-10-10
+- Updated accordion error handling
