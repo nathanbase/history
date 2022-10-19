@@ -1260,3 +1260,6 @@
 
 ## 2022-10-10
 - Updated accordion error handling
+
+## 2022-10-19
+- Added cache layer validation
