@@ -1263,3 +1263,6 @@
 
 ## 2022-10-19
 - Added cache layer validation
+
+## 2022-10-28
+- Refactored API client logic
