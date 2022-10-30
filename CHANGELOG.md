@@ -1266,3 +1266,6 @@
 
 ## 2022-10-28
 - Refactored API client logic
+
+## 2022-10-30
+- Refactored theme switcher logic
