@@ -1269,3 +1269,6 @@
 
 ## 2022-10-30
 - Refactored theme switcher logic
+
+## 2022-10-31
+- Fixed notification bell alignment issue
