@@ -1272,3 +1272,6 @@
 
 ## 2022-10-31
 - Fixed notification bell alignment issue
+
+## 2022-11-03
+- Updated notification bell error handling
