@@ -1275,3 +1275,6 @@
 
 ## 2022-11-03
 - Updated notification bell error handling
+
+## 2022-11-09
+- Updated error reporter error handling
