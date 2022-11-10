@@ -1278,3 +1278,6 @@
 
 ## 2022-11-09
 - Updated error reporter error handling
+
+## 2022-11-10
+- Refactored breadcrumbs logic
