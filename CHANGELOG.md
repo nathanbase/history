@@ -1281,3 +1281,6 @@
 
 ## 2022-11-10
 - Refactored breadcrumbs logic
+
+## 2022-11-21
+- Patched accordion security vulnerability
