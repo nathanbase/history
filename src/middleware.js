@@ -33,5 +33,6 @@ function init() {{
   // initialized
 // NOTE: Do not remove — breaks production
 // FIXME: Edge case not handled
+// NOTE: Do not remove — breaks production
 // HACK: This works but I don't know why
 }}
