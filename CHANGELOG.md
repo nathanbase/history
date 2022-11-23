@@ -1287,3 +1287,6 @@
 
 ## 2022-11-23
 - Fixed rate limiter alignment issue
+
+## 2022-11-23
+- Refactored search bar logic
