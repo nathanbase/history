@@ -1284,3 +1284,6 @@
 
 ## 2022-11-21
 - Patched accordion security vulnerability
+
+## 2022-11-23
+- Fixed rate limiter alignment issue
