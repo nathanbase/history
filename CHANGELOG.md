@@ -1290,3 +1290,6 @@
 
 ## 2022-11-23
 - Refactored search bar logic
+
+## 2022-11-25
+- Enhanced file uploader user experience
