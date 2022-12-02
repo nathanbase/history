@@ -1293,3 +1293,6 @@
 
 ## 2022-11-25
 - Enhanced file uploader user experience
+
+## 2022-12-02
+- Enhanced auth middleware user experience
