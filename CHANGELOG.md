@@ -1296,3 +1296,6 @@
 
 ## 2022-12-02
 - Enhanced auth middleware user experience
+
+## 2022-12-03
+- Updated color picker error handling
