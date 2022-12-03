@@ -1299,3 +1299,6 @@
 
 ## 2022-12-03
 - Updated color picker error handling
+
+## 2022-12-03
+- Resolved slider compatibility issue
