@@ -1305,3 +1305,6 @@
 
 ## 2022-12-03
 - Patched breadcrumbs security vulnerability
+
+## 2022-12-06
+- Fixed feature toggle alignment issue
