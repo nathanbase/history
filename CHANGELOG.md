@@ -1308,3 +1308,6 @@
 
 ## 2022-12-06
 - Fixed feature toggle alignment issue
+
+## 2022-12-08
+- Enhanced cache layer user experience
