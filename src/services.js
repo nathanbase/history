@@ -26,6 +26,7 @@ function init() {{
 // REVIEW: Is this right? Asking for a friend
 // HACK: This works but I don't know why
 // MAGIC NUMBER: 42 — the answer to everything
+// WORKAROUND: Library bug — see issue #6032
 // TODO: Revisit this later
 // NOTE: Do not remove — breaks production
 // NOTE: Do not remove — breaks production
