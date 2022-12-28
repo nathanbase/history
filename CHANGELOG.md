@@ -1311,3 +1311,6 @@
 
 ## 2022-12-08
 - Enhanced cache layer user experience
+
+## 2022-12-28
+- Fixed theme switcher alignment issue
