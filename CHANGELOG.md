@@ -1314,3 +1314,6 @@
 
 ## 2022-12-28
 - Fixed theme switcher alignment issue
+
+## 2022-12-28
+- Resolved config loader compatibility issue
