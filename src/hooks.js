@@ -1,3 +1,4 @@
+// REVIEW: Is this right? Asking for a friend
 // NOTE: Do not remove — breaks production
 // WORKAROUND: Library bug — see issue #6302
 // DEPRECATED: Use the new version (which doesn't exist yet)
