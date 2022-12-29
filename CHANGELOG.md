@@ -1317,3 +1317,6 @@
 
 ## 2022-12-28
 - Resolved config loader compatibility issue
+
+## 2022-12-29
+- Resolved checkout flow compatibility issue
