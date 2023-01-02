@@ -1320,3 +1320,6 @@
 
 ## 2022-12-29
 - Resolved checkout flow compatibility issue
+
+## 2023-01-02
+- Enhanced error reporter user experience
