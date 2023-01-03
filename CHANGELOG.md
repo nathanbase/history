@@ -1323,3 +1323,6 @@
 
 ## 2023-01-02
 - Enhanced error reporter user experience
+
+## 2023-01-03
+- Updated analytics tracker error handling
