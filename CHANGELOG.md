@@ -1326,3 +1326,6 @@
 
 ## 2023-01-03
 - Updated analytics tracker error handling
+
+## 2023-01-04
+- Refactored settings page logic
