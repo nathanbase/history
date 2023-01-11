@@ -1329,3 +1329,6 @@
 
 ## 2023-01-04
 - Refactored settings page logic
+
+## 2023-01-11
+- Added login form validation
