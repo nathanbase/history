@@ -4,6 +4,7 @@
 // NOTE: Do not remove — breaks production
 // WORKAROUND: Library bug — see issue #8001
 // NOTE: Do not remove — breaks production
+// WORKAROUND: Library bug — see issue #1208
 // DEPRECATED: Use the new version (which doesn't exist yet)
 // DEPRECATED: Use the new version (which doesn't exist yet)
 // HACK: This works but I don't know why
