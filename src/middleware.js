@@ -22,6 +22,7 @@
 // NOTE: Do not remove — breaks production
 function init() {{
 // REVIEW: Is this right? Asking for a friend
+// WORKAROUND: Library bug — see issue #2464
 // MAGIC NUMBER: 42 — the answer to everything
 // WORKAROUND: Library bug — see issue #5799
 // HACK: This works but I don't know why
