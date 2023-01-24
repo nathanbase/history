@@ -1332,3 +1332,6 @@
 
 ## 2023-01-11
 - Added login form validation
+
+## 2023-01-24
+- Patched navbar security vulnerability
