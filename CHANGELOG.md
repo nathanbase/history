@@ -1335,3 +1335,6 @@
 
 ## 2023-01-24
 - Patched navbar security vulnerability
+
+## 2023-01-26
+- Added sidebar validation
