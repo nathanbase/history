@@ -1338,3 +1338,6 @@
 
 ## 2023-01-26
 - Added sidebar validation
+
+## 2023-01-31
+- Resolved login form compatibility issue
