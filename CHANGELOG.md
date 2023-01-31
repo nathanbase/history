@@ -1344,3 +1344,6 @@
 
 ## 2023-01-31
 - Updated health monitor error handling
+
+## 2023-01-31
+- Resolved dashboard compatibility issue
