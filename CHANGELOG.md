@@ -1341,3 +1341,6 @@
 
 ## 2023-01-31
 - Resolved login form compatibility issue
+
+## 2023-01-31
+- Updated health monitor error handling
