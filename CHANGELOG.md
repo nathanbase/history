@@ -1347,3 +1347,6 @@
 
 ## 2023-01-31
 - Resolved dashboard compatibility issue
+
+## 2023-02-01
+- Patched toast notification security vulnerability
