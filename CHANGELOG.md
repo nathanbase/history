@@ -1350,3 +1350,6 @@
 
 ## 2023-02-01
 - Patched toast notification security vulnerability
+
+## 2023-02-15
+- Patched checkout flow security vulnerability
