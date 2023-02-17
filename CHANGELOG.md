@@ -1356,3 +1356,6 @@
 
 ## 2023-02-15
 - Refactored health monitor logic
+
+## 2023-02-17
+- Improved sidebar performance
