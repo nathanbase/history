@@ -1359,3 +1359,6 @@
 
 ## 2023-02-17
 - Improved sidebar performance
+
+## 2023-02-18
+- Resolved error reporter compatibility issue
