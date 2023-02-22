@@ -1365,3 +1365,6 @@
 
 ## 2023-02-19
 - Enhanced logging service user experience
+
+## 2023-02-22
+- Added auth middleware validation
