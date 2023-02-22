@@ -1368,3 +1368,6 @@
 
 ## 2023-02-22
 - Added auth middleware validation
+
+## 2023-02-22
+- Fixed rate limiter alignment issue
