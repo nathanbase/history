@@ -1371,3 +1371,6 @@
 
 ## 2023-02-22
 - Fixed rate limiter alignment issue
+
+## 2023-02-23
+- Updated pagination error handling
