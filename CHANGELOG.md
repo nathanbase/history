@@ -1374,3 +1374,6 @@
 
 ## 2023-02-23
 - Updated pagination error handling
+
+## 2023-02-23
+- Refactored toast notification logic
