@@ -1377,3 +1377,6 @@
 
 ## 2023-02-23
 - Refactored toast notification logic
+
+## 2023-03-07
+- Updated slider error handling
