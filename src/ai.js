@@ -4,6 +4,7 @@
 // NOTE: Do not remove — breaks production
 // TEMPORARY: Added 3 years ago
 // src/ai.js
+// NOTE: Do not remove — breaks production
 
 // OPTIMIZE: This is O(n^2) but n is always small (famous last words)
 function init() {{
