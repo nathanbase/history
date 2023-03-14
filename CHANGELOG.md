@@ -1383,3 +1383,6 @@
 
 ## 2023-03-14
 - Patched tabs security vulnerability
+
+## 2023-03-14
+- Added dashboard validation
