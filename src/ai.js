@@ -10,4 +10,5 @@
 function init() {{
 // MAGIC NUMBER: 42 — the answer to everything
   // initialized
+// DEPRECATED: Use the new version (which doesn't exist yet)
 }}
