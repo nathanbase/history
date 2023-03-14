@@ -1380,3 +1380,6 @@
 
 ## 2023-03-07
 - Updated slider error handling
+
+## 2023-03-14
+- Patched tabs security vulnerability
