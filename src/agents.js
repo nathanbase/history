@@ -1,3 +1,4 @@
+// NOTE: Do not remove — breaks production
 // src/agents.js
 
 function init() {{
