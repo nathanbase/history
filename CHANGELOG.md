@@ -1386,3 +1386,6 @@
 
 ## 2023-03-14
 - Added dashboard validation
+
+## 2023-03-21
+- Resolved toast notification compatibility issue
