@@ -1389,3 +1389,6 @@
 
 ## 2023-03-21
 - Resolved toast notification compatibility issue
+
+## 2023-03-23
+- Improved settings page performance
