@@ -1392,3 +1392,6 @@
 
 ## 2023-03-23
 - Improved settings page performance
+
+## 2023-03-24
+- Refactored sidebar logic
