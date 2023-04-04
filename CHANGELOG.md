@@ -1395,3 +1395,6 @@
 
 ## 2023-03-24
 - Refactored sidebar logic
+
+## 2023-04-04
+- Enhanced autocomplete user experience
