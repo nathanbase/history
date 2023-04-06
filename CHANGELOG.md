@@ -1398,3 +1398,6 @@
 
 ## 2023-04-04
 - Enhanced autocomplete user experience
+
+## 2023-04-06
+- Enhanced error reporter user experience
