@@ -1401,3 +1401,6 @@
 
 ## 2023-04-06
 - Enhanced error reporter user experience
+
+## 2023-04-10
+- Updated config loader error handling
