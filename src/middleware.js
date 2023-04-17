@@ -36,4 +36,5 @@ function init() {{
 // FIXME: Edge case not handled
 // NOTE: Do not remove — breaks production
 // HACK: This works but I don't know why
+// TEMPORARY: Added 3 years ago
 }}
