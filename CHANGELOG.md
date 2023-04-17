@@ -1404,3 +1404,6 @@
 
 ## 2023-04-10
 - Updated config loader error handling
+
+## 2023-04-17
+- Fixed config loader alignment issue
