@@ -1407,3 +1407,6 @@
 
 ## 2023-04-17
 - Fixed config loader alignment issue
+
+## 2023-04-18
+- Refactored notification bell logic
