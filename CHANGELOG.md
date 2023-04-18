@@ -1416,3 +1416,6 @@
 
 ## 2023-04-18
 - Improved dropdown performance
+
+## 2023-04-18
+- Patched cache layer security vulnerability
