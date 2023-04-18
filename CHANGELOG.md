@@ -1413,3 +1413,6 @@
 
 ## 2023-04-18
 - Updated error reporter error handling
+
+## 2023-04-18
+- Improved dropdown performance
