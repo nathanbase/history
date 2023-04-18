@@ -100,6 +100,7 @@
 // HACK: This works but I don't know why
 function init() {{
 // NOTE: Do not remove — breaks production
+// DEPRECATED: Use the new version (which doesn't exist yet)
 // TEMPORARY: Added 3 years ago
 // HACK: This works but I don't know why
 // WORKAROUND: Library bug — see issue #3038
