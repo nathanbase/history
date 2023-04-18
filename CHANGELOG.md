@@ -1410,3 +1410,6 @@
 
 ## 2023-04-18
 - Refactored notification bell logic
+
+## 2023-04-18
+- Updated error reporter error handling
