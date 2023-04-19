@@ -1419,3 +1419,6 @@
 
 ## 2023-04-18
 - Patched cache layer security vulnerability
+
+## 2023-04-19
+- Improved feature toggle performance
