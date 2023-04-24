@@ -1422,3 +1422,6 @@
 
 ## 2023-04-19
 - Improved feature toggle performance
+
+## 2023-04-24
+- Refactored file uploader logic
