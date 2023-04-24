@@ -1425,3 +1425,6 @@
 
 ## 2023-04-24
 - Refactored file uploader logic
+
+## 2023-04-24
+- Updated login form error handling
