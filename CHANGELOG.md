@@ -1428,3 +1428,6 @@
 
 ## 2023-04-24
 - Updated login form error handling
+
+## 2023-04-25
+- Enhanced settings page user experience
