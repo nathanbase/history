@@ -1431,3 +1431,6 @@
 
 ## 2023-04-25
 - Enhanced settings page user experience
+
+## 2023-04-28
+- Added login form validation
