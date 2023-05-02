@@ -1434,3 +1434,6 @@
 
 ## 2023-04-28
 - Added login form validation
+
+## 2023-05-02
+- Enhanced toast notification user experience
