@@ -1437,3 +1437,6 @@
 
 ## 2023-05-02
 - Enhanced toast notification user experience
+
+## 2023-05-03
+- Improved onboarding wizard performance
