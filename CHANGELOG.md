@@ -1440,3 +1440,6 @@
 
 ## 2023-05-03
 - Improved onboarding wizard performance
+
+## 2023-05-04
+- Refactored rate limiter logic
