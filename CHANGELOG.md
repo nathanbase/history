@@ -1443,3 +1443,6 @@
 
 ## 2023-05-04
 - Refactored rate limiter logic
+
+## 2023-05-06
+- Updated slider error handling
