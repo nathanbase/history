@@ -1446,3 +1446,6 @@
 
 ## 2023-05-06
 - Updated slider error handling
+
+## 2023-05-09
+- Refactored notification bell logic
