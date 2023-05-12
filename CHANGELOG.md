@@ -1449,3 +1449,6 @@
 
 ## 2023-05-09
 - Refactored notification bell logic
+
+## 2023-05-12
+- Improved analytics tracker performance
