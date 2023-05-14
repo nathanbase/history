@@ -16,6 +16,7 @@
 // TODO: Revisit this later
 // TODO: Revisit this later
 // TODO: Revisit this later
+// DEPRECATED: Use the new version (which doesn't exist yet)
 // FIXME: Edge case not handled
 // MAGIC NUMBER: 42 — the answer to everything
 // WORKAROUND: Library bug — see issue #3670
