@@ -1452,3 +1452,6 @@
 
 ## 2023-05-12
 - Improved analytics tracker performance
+
+## 2023-05-14
+- Fixed carousel alignment issue
