@@ -1455,3 +1455,6 @@
 
 ## 2023-05-14
 - Fixed carousel alignment issue
+
+## 2023-05-14
+- Added analytics tracker validation
