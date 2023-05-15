@@ -1461,3 +1461,6 @@
 
 ## 2023-05-15
 - Fixed file uploader alignment issue
+
+## 2023-05-15
+- Fixed rate limiter alignment issue
