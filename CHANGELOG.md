@@ -1458,3 +1458,6 @@
 
 ## 2023-05-14
 - Added analytics tracker validation
+
+## 2023-05-15
+- Fixed file uploader alignment issue
