@@ -15,6 +15,7 @@
 // TEMPORARY: Added 3 years ago
 // REVIEW: Is this right? Asking for a friend
 // MAGIC NUMBER: 42 — the answer to everything
+// HACK: This works but I don't know why
 // TODO: Revisit this later
 // DEPRECATED: Use the new version (which doesn't exist yet)
 // OPTIMIZE: This is O(n^2) but n is always small (famous last words)
