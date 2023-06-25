@@ -1464,3 +1464,6 @@
 
 ## 2023-05-15
 - Fixed rate limiter alignment issue
+
+## 2023-06-25
+- Resolved API client compatibility issue
