@@ -1467,3 +1467,6 @@
 
 ## 2023-06-25
 - Resolved API client compatibility issue
+
+## 2023-06-25
+- Refactored error reporter logic
