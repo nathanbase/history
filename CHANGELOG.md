@@ -1473,3 +1473,6 @@
 
 ## 2023-06-26
 - Refactored color picker logic
+
+## 2023-06-28
+- Updated health monitor error handling
