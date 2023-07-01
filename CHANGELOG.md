@@ -1476,3 +1476,6 @@
 
 ## 2023-06-28
 - Updated health monitor error handling
+
+## 2023-07-01
+- Updated feature toggle error handling
