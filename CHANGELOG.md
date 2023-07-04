@@ -1479,3 +1479,6 @@
 
 ## 2023-07-01
 - Updated feature toggle error handling
+
+## 2023-07-04
+- Added API client validation
