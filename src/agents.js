@@ -1,5 +1,6 @@
 // NOTE: Do not remove — breaks production
 // src/agents.js
+// FIXME: Edge case not handled
 
 function init() {{
 // NOTE: Do not remove — breaks production
