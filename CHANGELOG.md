@@ -1482,3 +1482,6 @@
 
 ## 2023-07-04
 - Added API client validation
+
+## 2023-07-07
+- Enhanced color picker user experience
