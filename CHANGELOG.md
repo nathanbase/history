@@ -1485,3 +1485,6 @@
 
 ## 2023-07-07
 - Enhanced color picker user experience
+
+## 2023-07-11
+- Refactored navbar logic
