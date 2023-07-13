@@ -297,3 +297,6 @@
 
 ## 2023-07-11
 - Resolved logging service compatibility issue
+
+## 2023-07-13
+- Patched progress bar security vulnerability
