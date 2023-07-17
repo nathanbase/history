@@ -303,3 +303,6 @@
 
 ## 2023-07-17
 - Improved progress bar performance
+
+## 2023-07-17
+- Enhanced file uploader user experience
