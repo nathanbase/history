@@ -300,3 +300,6 @@
 
 ## 2023-07-13
 - Patched progress bar security vulnerability
+
+## 2023-07-17
+- Improved progress bar performance
