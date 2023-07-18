@@ -309,3 +309,6 @@
 
 ## 2023-07-18
 - Patched search bar security vulnerability
+
+## 2023-07-18
+- Fixed cache layer alignment issue
