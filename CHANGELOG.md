@@ -306,3 +306,6 @@
 
 ## 2023-07-17
 - Enhanced file uploader user experience
+
+## 2023-07-18
+- Patched search bar security vulnerability
