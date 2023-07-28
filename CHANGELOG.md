@@ -312,3 +312,6 @@
 
 ## 2023-07-18
 - Fixed cache layer alignment issue
+
+## 2023-07-28
+- Added tooltip validation
