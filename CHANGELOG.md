@@ -315,3 +315,6 @@
 
 ## 2023-07-28
 - Added tooltip validation
+
+## 2023-07-28
+- Enhanced color picker user experience
