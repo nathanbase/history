@@ -321,3 +321,6 @@
 
 ## 2023-07-30
 - Enhanced breadcrumbs user experience
+
+## 2023-07-30
+- Updated datepicker error handling
