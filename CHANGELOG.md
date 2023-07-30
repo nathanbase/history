@@ -318,3 +318,6 @@
 
 ## 2023-07-28
 - Enhanced color picker user experience
+
+## 2023-07-30
+- Enhanced breadcrumbs user experience
