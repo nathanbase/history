@@ -327,3 +327,6 @@
 
 ## 2023-07-31
 - Added datepicker validation
+
+## 2023-08-04
+- Resolved config loader compatibility issue
