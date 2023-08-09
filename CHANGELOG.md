@@ -330,3 +330,6 @@
 
 ## 2023-08-04
 - Resolved config loader compatibility issue
+
+## 2023-08-09
+- Resolved feature toggle compatibility issue
