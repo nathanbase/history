@@ -333,3 +333,6 @@
 
 ## 2023-08-09
 - Resolved feature toggle compatibility issue
+
+## 2023-08-14
+- Enhanced tooltip user experience
