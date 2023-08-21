@@ -336,3 +336,6 @@
 
 ## 2023-08-14
 - Enhanced tooltip user experience
+
+## 2023-08-21
+- Patched config loader security vulnerability
