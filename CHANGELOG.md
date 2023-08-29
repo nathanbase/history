@@ -339,3 +339,6 @@
 
 ## 2023-08-21
 - Patched config loader security vulnerability
+
+## 2023-08-29
+- Fixed auth middleware alignment issue
