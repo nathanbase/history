@@ -342,3 +342,6 @@
 
 ## 2023-08-29
 - Fixed auth middleware alignment issue
+
+## 2023-08-31
+- Added health monitor validation
