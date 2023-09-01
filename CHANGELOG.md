@@ -345,3 +345,6 @@
 
 ## 2023-08-31
 - Added health monitor validation
+
+## 2023-09-01
+- Patched health monitor security vulnerability
