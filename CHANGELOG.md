@@ -351,3 +351,6 @@
 
 ## 2023-09-07
 - Patched navbar security vulnerability
+
+## 2023-09-07
+- Refactored navbar logic
