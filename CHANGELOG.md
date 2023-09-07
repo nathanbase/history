@@ -348,3 +348,6 @@
 
 ## 2023-09-01
 - Patched health monitor security vulnerability
+
+## 2023-09-07
+- Patched navbar security vulnerability
