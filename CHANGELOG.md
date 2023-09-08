@@ -354,3 +354,6 @@
 
 ## 2023-09-07
 - Refactored navbar logic
+
+## 2023-09-08
+- Improved config loader performance
