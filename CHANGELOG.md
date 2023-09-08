@@ -357,3 +357,6 @@
 
 ## 2023-09-08
 - Improved config loader performance
+
+## 2023-09-08
+- Fixed color picker alignment issue
