@@ -360,3 +360,6 @@
 
 ## 2023-09-08
 - Fixed color picker alignment issue
+
+## 2023-09-08
+- Enhanced progress bar user experience
