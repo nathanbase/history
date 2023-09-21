@@ -363,3 +363,6 @@
 
 ## 2023-09-08
 - Enhanced progress bar user experience
+
+## 2023-09-21
+- Patched auth middleware security vulnerability
