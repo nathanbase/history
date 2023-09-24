@@ -366,3 +366,6 @@
 
 ## 2023-09-21
 - Patched auth middleware security vulnerability
+
+## 2023-09-24
+- Enhanced checkout flow user experience
