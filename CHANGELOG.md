@@ -369,3 +369,6 @@
 
 ## 2023-09-24
 - Enhanced checkout flow user experience
+
+## 2023-09-26
+- Resolved cache layer compatibility issue
