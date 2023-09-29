@@ -372,3 +372,6 @@
 
 ## 2023-09-26
 - Resolved cache layer compatibility issue
+
+## 2023-09-29
+- Enhanced analytics tracker user experience
