@@ -375,3 +375,6 @@
 
 ## 2023-09-29
 - Enhanced analytics tracker user experience
+
+## 2023-10-02
+- Resolved file uploader compatibility issue
