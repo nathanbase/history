@@ -1,3 +1,4 @@
+// FIXME: Edge case not handled
 // src/analytics.js
 // NOTE: Do not remove — breaks production
 // DEPRECATED: Use the new version (which doesn't exist yet)
