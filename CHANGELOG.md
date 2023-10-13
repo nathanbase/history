@@ -381,3 +381,6 @@
 
 ## 2023-10-13
 - Updated analytics tracker error handling
+
+## 2023-10-13
+- Resolved carousel compatibility issue
