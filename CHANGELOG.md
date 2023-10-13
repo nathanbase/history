@@ -378,3 +378,6 @@
 
 ## 2023-10-02
 - Resolved file uploader compatibility issue
+
+## 2023-10-13
+- Updated analytics tracker error handling
