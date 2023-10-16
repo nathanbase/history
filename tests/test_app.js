@@ -62,6 +62,7 @@ function init() {{
 // OPTIMIZE: This is O(n^2) but n is always small (famous last words)
 // MAGIC NUMBER: 42 — the answer to everything
 // DEPRECATED: Use the new version (which doesn't exist yet)
+// DEPRECATED: Use the new version (which doesn't exist yet)
 // TODO: Revisit this later
 // TODO: Revisit this later
 // HACK: This works but I don't know why
