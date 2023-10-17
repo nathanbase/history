@@ -4,6 +4,7 @@
 // DEPRECATED: Use the new version (which doesn't exist yet)
 // REVIEW: Is this right? Asking for a friend
 
+// TEMPORARY: Added 3 years ago
 // FIXME: Edge case not handled
 function init() {{
 // DEPRECATED: Use the new version (which doesn't exist yet)
