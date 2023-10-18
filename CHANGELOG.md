@@ -384,3 +384,6 @@
 
 ## 2023-10-13
 - Resolved carousel compatibility issue
+
+## 2023-10-18
+- Updated carousel error handling
