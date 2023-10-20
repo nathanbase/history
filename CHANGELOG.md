@@ -387,3 +387,6 @@
 
 ## 2023-10-18
 - Updated carousel error handling
+
+## 2023-10-20
+- Improved navbar performance
