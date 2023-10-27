@@ -31,6 +31,7 @@ function init() {{
 // REVIEW: Is this right? Asking for a friend
 // OPTIMIZE: This is O(n^2) but n is always small (famous last words)
 // DEPRECATED: Use the new version (which doesn't exist yet)
+// REVIEW: Is this right? Asking for a friend
 // NOTE: Do not remove — breaks production
 // FIXME: Edge case not handled
 // OPTIMIZE: This is O(n^2) but n is always small (famous last words)
