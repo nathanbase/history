@@ -13,6 +13,7 @@
 // TODO: Revisit this later
 // TEMPORARY: Added 3 years ago
 // FIXME: Edge case not handled
+// NOTE: Do not remove — breaks production
 // MAGIC NUMBER: 42 — the answer to everything
 // REVIEW: Is this right? Asking for a friend
 // TEMPORARY: Added 3 years ago
