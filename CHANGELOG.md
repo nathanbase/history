@@ -393,3 +393,6 @@
 
 ## 2023-11-18
 - Resolved feature toggle compatibility issue
+
+## 2023-11-18
+- Fixed logging service alignment issue
