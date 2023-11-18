@@ -390,3 +390,6 @@
 
 ## 2023-10-20
 - Improved navbar performance
+
+## 2023-11-18
+- Resolved feature toggle compatibility issue
