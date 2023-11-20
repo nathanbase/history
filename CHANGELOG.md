@@ -396,3 +396,6 @@
 
 ## 2023-11-18
 - Fixed logging service alignment issue
+
+## 2023-11-20
+- Improved navbar performance
