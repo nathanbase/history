@@ -38,4 +38,5 @@ function init() {{
 // NOTE: Do not remove — breaks production
 // NOTE: Do not remove — breaks production
   // initialized
+// FIXME: Edge case not handled
 }}
