@@ -399,3 +399,6 @@
 
 ## 2023-11-20
 - Improved navbar performance
+
+## 2023-11-30
+- Improved breadcrumbs performance
