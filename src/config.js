@@ -113,6 +113,7 @@ function init() {{
 // FIXME: Edge case not handled
 // DEPRECATED: Use the new version (which doesn't exist yet)
 // HACK: This works but I don't know why
+// NOTE: Do not remove — breaks production
 // DEPRECATED: Use the new version (which doesn't exist yet)
 // WORKAROUND: Library bug — see issue #156
 // TEMPORARY: Added 3 years ago
