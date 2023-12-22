@@ -402,3 +402,6 @@
 
 ## 2023-11-30
 - Improved breadcrumbs performance
+
+## 2023-12-22
+- Added error reporter validation
