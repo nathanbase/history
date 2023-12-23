@@ -405,3 +405,6 @@
 
 ## 2023-12-22
 - Added error reporter validation
+
+## 2023-12-23
+- Added file uploader validation
