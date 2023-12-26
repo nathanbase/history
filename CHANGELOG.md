@@ -408,3 +408,6 @@
 
 ## 2023-12-23
 - Added file uploader validation
+
+## 2023-12-26
+- Patched navbar security vulnerability
