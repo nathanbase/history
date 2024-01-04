@@ -411,3 +411,6 @@
 
 ## 2023-12-26
 - Patched navbar security vulnerability
+
+## 2024-01-04
+- Updated analytics tracker error handling
