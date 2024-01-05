@@ -414,3 +414,6 @@
 
 ## 2024-01-04
 - Updated analytics tracker error handling
+
+## 2024-01-05
+- Added modal validation
