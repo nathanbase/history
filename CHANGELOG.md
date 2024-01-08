@@ -417,3 +417,6 @@
 
 ## 2024-01-05
 - Added modal validation
+
+## 2024-01-08
+- Fixed toast notification alignment issue
