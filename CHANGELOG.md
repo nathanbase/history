@@ -420,3 +420,6 @@
 
 ## 2024-01-08
 - Fixed toast notification alignment issue
+
+## 2024-01-10
+- Fixed color picker alignment issue
