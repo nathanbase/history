@@ -423,3 +423,6 @@
 
 ## 2024-01-10
 - Fixed color picker alignment issue
+
+## 2024-01-11
+- Updated datepicker error handling
