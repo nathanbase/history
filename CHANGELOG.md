@@ -426,3 +426,6 @@
 
 ## 2024-01-11
 - Updated datepicker error handling
+
+## 2024-01-15
+- Improved datepicker performance
