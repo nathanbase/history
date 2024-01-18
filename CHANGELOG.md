@@ -429,3 +429,6 @@
 
 ## 2024-01-15
 - Improved datepicker performance
+
+## 2024-01-18
+- Improved search bar performance
