@@ -432,3 +432,6 @@
 
 ## 2024-01-18
 - Improved search bar performance
+
+## 2024-01-19
+- Resolved dropdown compatibility issue
