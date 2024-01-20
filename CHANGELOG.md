@@ -438,3 +438,6 @@
 
 ## 2024-01-20
 - Updated onboarding wizard error handling
+
+## 2024-01-20
+- Fixed toast notification alignment issue
