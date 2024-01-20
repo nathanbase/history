@@ -435,3 +435,6 @@
 
 ## 2024-01-19
 - Resolved dropdown compatibility issue
+
+## 2024-01-20
+- Updated onboarding wizard error handling
