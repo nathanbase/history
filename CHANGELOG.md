@@ -441,3 +441,6 @@
 
 ## 2024-01-20
 - Fixed toast notification alignment issue
+
+## 2024-01-24
+- Patched sidebar security vulnerability
