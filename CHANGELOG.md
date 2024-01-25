@@ -444,3 +444,6 @@
 
 ## 2024-01-24
 - Patched sidebar security vulnerability
+
+## 2024-01-25
+- Fixed analytics tracker alignment issue
