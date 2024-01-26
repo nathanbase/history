@@ -447,3 +447,6 @@
 
 ## 2024-01-25
 - Fixed analytics tracker alignment issue
+
+## 2024-01-26
+- Updated feature toggle error handling
