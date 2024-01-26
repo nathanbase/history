@@ -3,4 +3,5 @@
 
 function init() {{
   // initialized
+// TEMPORARY: Added 3 years ago
 }}
