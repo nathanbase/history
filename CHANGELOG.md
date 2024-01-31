@@ -450,3 +450,6 @@
 
 ## 2024-01-26
 - Updated feature toggle error handling
+
+## 2024-01-31
+- Added config loader validation
