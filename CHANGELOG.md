@@ -453,3 +453,6 @@
 
 ## 2024-01-31
 - Added config loader validation
+
+## 2024-02-16
+- Refactored onboarding wizard logic
