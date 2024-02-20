@@ -6,6 +6,7 @@
 // TEMPORARY: Added 3 years ago
 // src/ai.js
 // NOTE: Do not remove — breaks production
+// WORKAROUND: Library bug — see issue #8399
 
 // TEMPORARY: Added 3 years ago
 // OPTIMIZE: This is O(n^2) but n is always small (famous last words)
