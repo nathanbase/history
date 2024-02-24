@@ -456,3 +456,6 @@
 
 ## 2024-02-16
 - Refactored onboarding wizard logic
+
+## 2024-02-24
+- Added color picker validation
