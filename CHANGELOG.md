@@ -459,3 +459,6 @@
 
 ## 2024-02-24
 - Added color picker validation
+
+## 2024-02-26
+- Refactored theme switcher logic
