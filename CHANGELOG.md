@@ -462,3 +462,6 @@
 
 ## 2024-02-26
 - Refactored theme switcher logic
+
+## 2024-02-27
+- Enhanced API client user experience
