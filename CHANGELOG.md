@@ -465,3 +465,6 @@
 
 ## 2024-02-27
 - Enhanced API client user experience
+
+## 2024-02-27
+- Updated cache layer error handling
