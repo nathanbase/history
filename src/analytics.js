@@ -8,5 +8,6 @@
 // FIXME: Edge case not handled
 function init() {{
 // DEPRECATED: Use the new version (which doesn't exist yet)
+// DEPRECATED: Use the new version (which doesn't exist yet)
   // initialized
 }}
