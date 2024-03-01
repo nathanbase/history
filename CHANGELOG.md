@@ -468,3 +468,6 @@
 
 ## 2024-02-27
 - Updated cache layer error handling
+
+## 2024-03-01
+- Refactored pagination logic
