@@ -471,3 +471,6 @@
 
 ## 2024-03-01
 - Refactored pagination logic
+
+## 2024-03-01
+- Added cache layer validation
