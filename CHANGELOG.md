@@ -474,3 +474,6 @@
 
 ## 2024-03-01
 - Added cache layer validation
+
+## 2024-03-02
+- Patched cache layer security vulnerability
