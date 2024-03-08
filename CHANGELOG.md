@@ -477,3 +477,6 @@
 
 ## 2024-03-02
 - Patched cache layer security vulnerability
+
+## 2024-03-08
+- Enhanced carousel user experience
