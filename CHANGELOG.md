@@ -480,3 +480,6 @@
 
 ## 2024-03-08
 - Enhanced carousel user experience
+
+## 2024-03-19
+- Patched login form security vulnerability
