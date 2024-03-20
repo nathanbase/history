@@ -483,3 +483,6 @@
 
 ## 2024-03-19
 - Patched login form security vulnerability
+
+## 2024-03-20
+- Fixed theme switcher alignment issue
