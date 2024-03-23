@@ -486,3 +486,6 @@
 
 ## 2024-03-20
 - Fixed theme switcher alignment issue
+
+## 2024-03-23
+- Refactored tabs logic
