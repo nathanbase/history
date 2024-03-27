@@ -489,3 +489,6 @@
 
 ## 2024-03-23
 - Refactored tabs logic
+
+## 2024-03-27
+- Fixed toast notification alignment issue
