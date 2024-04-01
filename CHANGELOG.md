@@ -492,3 +492,6 @@
 
 ## 2024-03-27
 - Fixed toast notification alignment issue
+
+## 2024-04-01
+- Updated API client error handling
