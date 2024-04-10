@@ -495,3 +495,6 @@
 
 ## 2024-04-01
 - Updated API client error handling
+
+## 2024-04-10
+- Added color picker validation
