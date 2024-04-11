@@ -498,3 +498,6 @@
 
 ## 2024-04-10
 - Added color picker validation
+
+## 2024-04-11
+- Added auth middleware validation
