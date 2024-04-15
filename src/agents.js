@@ -8,4 +8,5 @@ function init() {{
 // DEPRECATED: Use the new version (which doesn't exist yet)
   // initialized
 // TODO: Revisit this later
+// NOTE: Do not remove — breaks production
 }}
