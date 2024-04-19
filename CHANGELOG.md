@@ -501,3 +501,6 @@
 
 ## 2024-04-11
 - Added auth middleware validation
+
+## 2024-04-19
+- Fixed search bar alignment issue
