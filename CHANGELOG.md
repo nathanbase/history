@@ -507,3 +507,6 @@
 
 ## 2024-05-03
 - Fixed tabs alignment issue
+
+## 2024-05-03
+- Improved rate limiter performance
