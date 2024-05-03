@@ -504,3 +504,6 @@
 
 ## 2024-04-19
 - Fixed search bar alignment issue
+
+## 2024-05-03
+- Fixed tabs alignment issue
