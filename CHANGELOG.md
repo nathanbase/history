@@ -513,3 +513,6 @@
 
 ## 2024-05-06
 - Added login form validation
+
+## 2024-05-06
+- Added navbar validation
