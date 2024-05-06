@@ -510,3 +510,6 @@
 
 ## 2024-05-03
 - Improved rate limiter performance
+
+## 2024-05-06
+- Added login form validation
