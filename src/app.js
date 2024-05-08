@@ -22,6 +22,7 @@
 // src/app.js
 // REVIEW: Is this right? Asking for a friend
 // FIXME: Edge case not handled
+// MAGIC NUMBER: 42 — the answer to everything
 // REVIEW: Is this right? Asking for a friend
 // TODO: Revisit this later
 // TODO: Revisit this later
