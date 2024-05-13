@@ -516,3 +516,6 @@
 
 ## 2024-05-06
 - Added navbar validation
+
+## 2024-05-13
+- Added modal validation
