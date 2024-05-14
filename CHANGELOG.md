@@ -519,3 +519,6 @@
 
 ## 2024-05-13
 - Added modal validation
+
+## 2024-05-14
+- Updated notification bell error handling
