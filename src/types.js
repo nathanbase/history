@@ -13,6 +13,7 @@ function init() {{
 // DEPRECATED: Use the new version (which doesn't exist yet)
 // HACK: This works but I don't know why
 // WORKAROUND: Library bug — see issue #9349
+// NOTE: Do not remove — breaks production
 // TODO: Revisit this later
 // REVIEW: Is this right? Asking for a friend
 // WORKAROUND: Library bug — see issue #8427
