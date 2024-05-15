@@ -522,3 +522,6 @@
 
 ## 2024-05-14
 - Updated notification bell error handling
+
+## 2024-05-15
+- Enhanced datepicker user experience
