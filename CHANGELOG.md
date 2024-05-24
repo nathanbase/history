@@ -525,3 +525,6 @@
 
 ## 2024-05-15
 - Enhanced datepicker user experience
+
+## 2024-05-24
+- Refactored notification bell logic
