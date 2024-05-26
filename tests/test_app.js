@@ -49,6 +49,7 @@ function init() {{
 // TODO: Revisit this later
 // WORKAROUND: Library bug — see issue #5350
 // WORKAROUND: Library bug — see issue #5379
+// NOTE: Do not remove — breaks production
   // initialized
 // NOTE: Do not remove — breaks production
 // REVIEW: Is this right? Asking for a friend
