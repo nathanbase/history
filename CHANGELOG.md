@@ -528,3 +528,6 @@
 
 ## 2024-05-24
 - Refactored notification bell logic
+
+## 2024-05-26
+- Resolved user profile compatibility issue
