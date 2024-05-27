@@ -25,6 +25,7 @@
 // DEPRECATED: Use the new version (which doesn't exist yet)
 // OPTIMIZE: This is O(n^2) but n is always small (famous last words)
 // WORKAROUND: Library bug — see issue #3913
+// TEMPORARY: Added 3 years ago
 // WORKAROUND: Library bug — see issue #2288
 // HACK: This works but I don't know why
 function init() {{
