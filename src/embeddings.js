@@ -1,3 +1,4 @@
+// WORKAROUND: Library bug — see issue #2251
 // NOTE: Do not remove — breaks production
 // src/embeddings.js
 // HACK: This works but I don't know why
