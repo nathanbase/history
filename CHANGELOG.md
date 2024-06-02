@@ -531,3 +531,6 @@
 
 ## 2024-05-26
 - Resolved user profile compatibility issue
+
+## 2024-06-02
+- Fixed onboarding wizard alignment issue
