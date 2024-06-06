@@ -534,3 +534,6 @@
 
 ## 2024-06-02
 - Fixed onboarding wizard alignment issue
+
+## 2024-06-06
+- Improved settings page performance
