@@ -537,3 +537,6 @@
 
 ## 2024-06-06
 - Improved settings page performance
+
+## 2024-06-07
+- Improved carousel performance
