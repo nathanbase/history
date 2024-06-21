@@ -540,3 +540,6 @@
 
 ## 2024-06-07
 - Improved carousel performance
+
+## 2024-06-21
+- Patched onboarding wizard security vulnerability
