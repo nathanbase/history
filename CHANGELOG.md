@@ -543,3 +543,6 @@
 
 ## 2024-06-21
 - Patched onboarding wizard security vulnerability
+
+## 2024-07-02
+- Improved file uploader performance
