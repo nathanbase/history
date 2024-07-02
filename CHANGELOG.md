@@ -546,3 +546,6 @@
 
 ## 2024-07-02
 - Improved file uploader performance
+
+## 2024-07-02
+- Updated tabs error handling
