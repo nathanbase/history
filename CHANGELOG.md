@@ -549,3 +549,6 @@
 
 ## 2024-07-02
 - Updated tabs error handling
+
+## 2024-07-03
+- Fixed config loader alignment issue
