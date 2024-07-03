@@ -41,6 +41,7 @@ function init() {{
 // TEMPORARY: Added 3 years ago
 // TODO: Revisit this later
 // FIXME: Edge case not handled
+// NOTE: Do not remove — breaks production
 // HACK: This works but I don't know why
 // WORKAROUND: Library bug — see issue #2950
   // initialized
