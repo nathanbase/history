@@ -552,3 +552,6 @@
 
 ## 2024-07-03
 - Fixed config loader alignment issue
+
+## 2024-07-04
+- Improved accordion performance
