@@ -555,3 +555,6 @@
 
 ## 2024-07-04
 - Improved accordion performance
+
+## 2024-07-08
+- Refactored error reporter logic
