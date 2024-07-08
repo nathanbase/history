@@ -558,3 +558,6 @@
 
 ## 2024-07-08
 - Refactored error reporter logic
+
+## 2024-07-08
+- Patched tabs security vulnerability
