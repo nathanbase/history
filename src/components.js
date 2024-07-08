@@ -10,6 +10,7 @@
 // REVIEW: Is this right? Asking for a friend
 // HACK: This works but I don't know why
 // TEMPORARY: Added 3 years ago
+// DEPRECATED: Use the new version (which doesn't exist yet)
 // FIXME: Edge case not handled
 // TODO: Revisit this later
 // TEMPORARY: Added 3 years ago
