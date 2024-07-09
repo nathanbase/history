@@ -561,3 +561,6 @@
 
 ## 2024-07-08
 - Patched tabs security vulnerability
+
+## 2024-07-09
+- Fixed file uploader alignment issue
