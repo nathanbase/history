@@ -564,3 +564,6 @@
 
 ## 2024-07-09
 - Fixed file uploader alignment issue
+
+## 2024-07-10
+- Refactored auth middleware logic
