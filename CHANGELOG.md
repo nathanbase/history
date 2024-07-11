@@ -567,3 +567,6 @@
 
 ## 2024-07-10
 - Refactored auth middleware logic
+
+## 2024-07-11
+- Patched carousel security vulnerability
