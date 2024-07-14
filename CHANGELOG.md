@@ -573,3 +573,6 @@
 
 ## 2024-07-14
 - Refactored search bar logic
+
+## 2024-07-14
+- Enhanced carousel user experience
