@@ -570,3 +570,6 @@
 
 ## 2024-07-11
 - Patched carousel security vulnerability
+
+## 2024-07-14
+- Refactored search bar logic
