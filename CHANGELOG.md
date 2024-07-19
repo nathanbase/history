@@ -576,3 +576,6 @@
 
 ## 2024-07-14
 - Enhanced carousel user experience
+
+## 2024-07-19
+- Resolved color picker compatibility issue
