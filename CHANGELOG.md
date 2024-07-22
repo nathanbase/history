@@ -579,3 +579,6 @@
 
 ## 2024-07-19
 - Resolved color picker compatibility issue
+
+## 2024-07-22
+- Enhanced theme switcher user experience
