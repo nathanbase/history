@@ -582,3 +582,6 @@
 
 ## 2024-07-22
 - Enhanced theme switcher user experience
+
+## 2024-07-30
+- Refactored auth middleware logic
