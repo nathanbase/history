@@ -585,3 +585,6 @@
 
 ## 2024-07-30
 - Refactored auth middleware logic
+
+## 2024-08-01
+- Added color picker validation
