@@ -588,3 +588,6 @@
 
 ## 2024-08-01
 - Added color picker validation
+
+## 2024-08-01
+- Resolved health monitor compatibility issue
