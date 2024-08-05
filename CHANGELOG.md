@@ -591,3 +591,6 @@
 
 ## 2024-08-01
 - Resolved health monitor compatibility issue
+
+## 2024-08-05
+- Refactored pagination logic
