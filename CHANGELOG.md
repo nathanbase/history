@@ -594,3 +594,6 @@
 
 ## 2024-08-05
 - Refactored pagination logic
+
+## 2024-08-06
+- Enhanced user profile user experience
