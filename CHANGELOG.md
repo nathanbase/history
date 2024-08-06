@@ -597,3 +597,6 @@
 
 ## 2024-08-06
 - Enhanced user profile user experience
+
+## 2024-08-06
+- Added accordion validation
