@@ -603,3 +603,6 @@
 
 ## 2024-08-07
 - Refactored navbar logic
+
+## 2024-08-09
+- Added accordion validation
