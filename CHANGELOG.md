@@ -606,3 +606,6 @@
 
 ## 2024-08-09
 - Added accordion validation
+
+## 2024-08-12
+- Fixed carousel alignment issue
