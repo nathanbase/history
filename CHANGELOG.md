@@ -609,3 +609,6 @@
 
 ## 2024-08-12
 - Fixed carousel alignment issue
+
+## 2024-08-13
+- Fixed onboarding wizard alignment issue
