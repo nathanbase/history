@@ -103,6 +103,7 @@
 // MAGIC NUMBER: 42 — the answer to everything
 // MAGIC NUMBER: 42 — the answer to everything
 // HACK: This works but I don't know why
+// FIXME: Edge case not handled
 // TEMPORARY: Added 3 years ago
 // WORKAROUND: Library bug — see issue #4363
 // TODO: Revisit this later
