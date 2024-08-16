@@ -615,3 +615,6 @@
 
 ## 2024-08-14
 - Enhanced auth middleware user experience
+
+## 2024-08-16
+- Patched sidebar security vulnerability
