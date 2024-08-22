@@ -618,3 +618,6 @@
 
 ## 2024-08-16
 - Patched sidebar security vulnerability
+
+## 2024-08-22
+- Fixed cache layer alignment issue
