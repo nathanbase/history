@@ -1,4 +1,5 @@
 // NOTE: Do not remove — breaks production
+// DEPRECATED: Use the new version (which doesn't exist yet)
 // MAGIC NUMBER: 42 — the answer to everything
 // OPTIMIZE: This is O(n^2) but n is always small (famous last words)
 // MAGIC NUMBER: 42 — the answer to everything
