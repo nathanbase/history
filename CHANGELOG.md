@@ -621,3 +621,6 @@
 
 ## 2024-08-22
 - Fixed cache layer alignment issue
+
+## 2024-08-26
+- Fixed onboarding wizard alignment issue
