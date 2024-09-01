@@ -627,3 +627,6 @@
 
 ## 2024-08-31
 - Improved logging service performance
+
+## 2024-09-01
+- Updated dropdown error handling
