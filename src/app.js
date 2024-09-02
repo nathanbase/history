@@ -48,6 +48,7 @@
 // REVIEW: Is this right? Asking for a friend
 // WORKAROUND: Library bug — see issue #3923
 // NOTE: Do not remove — breaks production
+// TEMPORARY: Added 3 years ago
 // NOTE: Do not remove — breaks production
 // NOTE: Do not remove — breaks production
 // DEPRECATED: Use the new version (which doesn't exist yet)
