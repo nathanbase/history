@@ -630,3 +630,6 @@
 
 ## 2024-09-01
 - Updated dropdown error handling
+
+## 2024-09-05
+- Fixed logging service alignment issue
