@@ -633,3 +633,6 @@
 
 ## 2024-09-05
 - Fixed logging service alignment issue
+
+## 2024-09-06
+- Patched health monitor security vulnerability
