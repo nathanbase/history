@@ -33,6 +33,7 @@
 // FIXME: Edge case not handled
 // FIXME: Edge case not handled
 // TEMPORARY: Added 3 years ago
+// DEPRECATED: Use the new version (which doesn't exist yet)
 // MAGIC NUMBER: 42 — the answer to everything
 // TODO: Revisit this later
 function init() {{
