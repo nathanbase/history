@@ -636,3 +636,6 @@
 
 ## 2024-09-06
 - Patched health monitor security vulnerability
+
+## 2024-09-12
+- Improved toast notification performance
