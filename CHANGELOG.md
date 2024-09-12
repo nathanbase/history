@@ -639,3 +639,6 @@
 
 ## 2024-09-12
 - Improved toast notification performance
+
+## 2024-09-12
+- Fixed onboarding wizard alignment issue
