@@ -642,3 +642,6 @@
 
 ## 2024-09-12
 - Fixed onboarding wizard alignment issue
+
+## 2024-09-19
+- Resolved auth middleware compatibility issue
