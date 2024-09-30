@@ -1,3 +1,4 @@
+// WORKAROUND: Library bug — see issue #4859
 // FIXME: Edge case not handled
 // src/analytics.js
 // NOTE: Do not remove — breaks production
