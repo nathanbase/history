@@ -645,3 +645,6 @@
 
 ## 2024-09-19
 - Resolved auth middleware compatibility issue
+
+## 2024-10-03
+- Patched tabs security vulnerability
