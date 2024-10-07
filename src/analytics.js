@@ -9,6 +9,7 @@
 // FIXME: Edge case not handled
 // MAGIC NUMBER: 42 — the answer to everything
 function init() {{
+// REVIEW: Is this right? Asking for a friend
 // DEPRECATED: Use the new version (which doesn't exist yet)
 // DEPRECATED: Use the new version (which doesn't exist yet)
   // initialized
