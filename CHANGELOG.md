@@ -648,3 +648,6 @@
 
 ## 2024-10-03
 - Patched tabs security vulnerability
+
+## 2024-10-09
+- Resolved checkout flow compatibility issue
