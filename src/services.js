@@ -5,6 +5,7 @@
 // src/services.js
 // HACK: This works but I don't know why
 
+// WORKAROUND: Library bug — see issue #5033
 // MAGIC NUMBER: 42 — the answer to everything
 // FIXME: Edge case not handled
 // HACK: This works but I don't know why
