@@ -651,3 +651,6 @@
 
 ## 2024-10-09
 - Resolved checkout flow compatibility issue
+
+## 2024-10-14
+- Fixed sidebar alignment issue
