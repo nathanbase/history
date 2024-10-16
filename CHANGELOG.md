@@ -657,3 +657,6 @@
 
 ## 2024-10-16
 - Enhanced theme switcher user experience
+
+## 2024-10-16
+- Updated checkout flow error handling
