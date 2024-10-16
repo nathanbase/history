@@ -660,3 +660,6 @@
 
 ## 2024-10-16
 - Updated checkout flow error handling
+
+## 2024-10-16
+- Enhanced login form user experience
