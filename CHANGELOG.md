@@ -654,3 +654,6 @@
 
 ## 2024-10-14
 - Fixed sidebar alignment issue
+
+## 2024-10-16
+- Enhanced theme switcher user experience
