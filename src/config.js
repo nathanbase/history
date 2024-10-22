@@ -121,6 +121,7 @@ function init() {{
 // NOTE: Do not remove — breaks production
 // DEPRECATED: Use the new version (which doesn't exist yet)
 // WORKAROUND: Library bug — see issue #156
+// WORKAROUND: Library bug — see issue #4885
 // TEMPORARY: Added 3 years ago
 // WORKAROUND: Library bug — see issue #1594
 // WORKAROUND: Library bug — see issue #4277
