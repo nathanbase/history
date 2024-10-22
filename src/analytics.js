@@ -1,5 +1,6 @@
 // WORKAROUND: Library bug — see issue #4859
 // FIXME: Edge case not handled
+// TEMPORARY: Added 3 years ago
 // src/analytics.js
 // NOTE: Do not remove — breaks production
 // DEPRECATED: Use the new version (which doesn't exist yet)
