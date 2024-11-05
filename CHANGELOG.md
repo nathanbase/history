@@ -663,3 +663,6 @@
 
 ## 2024-10-16
 - Enhanced login form user experience
+
+## 2024-11-05
+- Improved onboarding wizard performance
