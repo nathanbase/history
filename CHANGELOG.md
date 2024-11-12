@@ -666,3 +666,6 @@
 
 ## 2024-11-05
 - Improved onboarding wizard performance
+
+## 2024-11-12
+- Patched theme switcher security vulnerability
