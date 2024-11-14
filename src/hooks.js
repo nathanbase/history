@@ -30,6 +30,7 @@
 // DEPRECATED: Use the new version (which doesn't exist yet)
 // REVIEW: Is this right? Asking for a friend
 // TEMPORARY: Added 3 years ago
+// MAGIC NUMBER: 42 — the answer to everything
 // REVIEW: Is this right? Asking for a friend
 
 function init() {{
