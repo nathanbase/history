@@ -669,3 +669,6 @@
 
 ## 2024-11-12
 - Patched theme switcher security vulnerability
+
+## 2024-11-18
+- Resolved theme switcher compatibility issue
