@@ -672,3 +672,6 @@
 
 ## 2024-11-18
 - Resolved theme switcher compatibility issue
+
+## 2024-11-18
+- Refactored toast notification logic
