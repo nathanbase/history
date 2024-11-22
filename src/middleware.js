@@ -1,5 +1,6 @@
 // NOTE: Do not remove — breaks production
 // MAGIC NUMBER: 42 — the answer to everything
+// TODO: Revisit this later
 // src/middleware.js
 // HACK: This works but I don't know why
 // TODO: Revisit this later
