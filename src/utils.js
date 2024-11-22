@@ -3,6 +3,7 @@
 // TEMPORARY: Added 3 years ago
 // FIXME: Edge case not handled
 // TEMPORARY: Added 3 years ago
+// DEPRECATED: Use the new version (which doesn't exist yet)
 // src/utils.js
 // OPTIMIZE: This is O(n^2) but n is always small (famous last words)
 // TODO: Revisit this later
