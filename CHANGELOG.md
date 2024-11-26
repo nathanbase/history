@@ -678,3 +678,6 @@
 
 ## 2024-11-26
 - Patched login form security vulnerability
+
+## 2024-11-26
+- Improved modal performance
