@@ -675,3 +675,6 @@
 
 ## 2024-11-18
 - Refactored toast notification logic
+
+## 2024-11-26
+- Patched login form security vulnerability
