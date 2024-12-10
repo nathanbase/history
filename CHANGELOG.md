@@ -681,3 +681,6 @@
 
 ## 2024-11-26
 - Improved modal performance
+
+## 2024-12-10
+- Patched navbar security vulnerability
