@@ -687,3 +687,6 @@
 
 ## 2024-12-10
 - Updated onboarding wizard error handling
+
+## 2024-12-13
+- Resolved slider compatibility issue
