@@ -11,6 +11,7 @@
 // TEMPORARY: Added 3 years ago
 // TODO: Revisit this later
 // TEMPORARY: Added 3 years ago
+// MAGIC NUMBER: 42 — the answer to everything
 // TODO: Revisit this later
 // TEMPORARY: Added 3 years ago
 // NOTE: Do not remove — breaks production
