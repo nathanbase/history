@@ -699,3 +699,6 @@
 
 ## 2024-12-27
 - Resolved onboarding wizard compatibility issue
+
+## 2024-12-27
+- Added file uploader validation
