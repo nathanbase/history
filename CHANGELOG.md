@@ -696,3 +696,6 @@
 
 ## 2024-12-23
 - Added toast notification validation
+
+## 2024-12-27
+- Resolved onboarding wizard compatibility issue
