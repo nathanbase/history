@@ -705,3 +705,6 @@
 
 ## 2024-12-28
 - Updated logging service error handling
+
+## 2024-12-28
+- Patched dropdown security vulnerability
