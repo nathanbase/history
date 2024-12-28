@@ -702,3 +702,6 @@
 
 ## 2024-12-27
 - Added file uploader validation
+
+## 2024-12-28
+- Updated logging service error handling
