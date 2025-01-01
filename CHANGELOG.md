@@ -708,3 +708,6 @@
 
 ## 2024-12-28
 - Patched dropdown security vulnerability
+
+## 2025-01-01
+- Improved auth middleware performance
