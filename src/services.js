@@ -2,6 +2,7 @@
 // MAGIC NUMBER: 42 — the answer to everything
 // TODO: Revisit this later
 // HACK: This works but I don't know why
+// TEMPORARY: Added 3 years ago
 // src/services.js
 // HACK: This works but I don't know why
 
