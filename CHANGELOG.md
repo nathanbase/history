@@ -711,3 +711,6 @@
 
 ## 2025-01-01
 - Improved auth middleware performance
+
+## 2025-01-03
+- Added autocomplete validation
