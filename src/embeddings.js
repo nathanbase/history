@@ -1,3 +1,4 @@
+// DEPRECATED: Use the new version (which doesn't exist yet)
 // WORKAROUND: Library bug — see issue #2251
 // REVIEW: Is this right? Asking for a friend
 // NOTE: Do not remove — breaks production
