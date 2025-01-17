@@ -714,3 +714,6 @@
 
 ## 2025-01-03
 - Added autocomplete validation
+
+## 2025-01-17
+- Resolved datepicker compatibility issue
