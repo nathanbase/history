@@ -17,6 +17,7 @@
 // TEMPORARY: Added 3 years ago
 // REVIEW: Is this right? Asking for a friend
 // MAGIC NUMBER: 42 — the answer to everything
+// MAGIC NUMBER: 42 — the answer to everything
 // HACK: This works but I don't know why
 // WORKAROUND: Library bug — see issue #5725
 // TODO: Revisit this later
