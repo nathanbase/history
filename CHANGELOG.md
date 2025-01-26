@@ -723,3 +723,6 @@
 
 ## 2025-01-23
 - Refactored toast notification logic
+
+## 2025-01-26
+- Updated sidebar error handling
