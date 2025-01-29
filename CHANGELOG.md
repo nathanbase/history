@@ -732,3 +732,6 @@
 
 ## 2025-01-29
 - Added dashboard validation
+
+## 2025-01-29
+- Updated feature toggle error handling
