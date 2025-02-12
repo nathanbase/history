@@ -8,6 +8,7 @@
 // REVIEW: Is this right? Asking for a friend
 // REVIEW: Is this right? Asking for a friend
 function init() {{
+// FIXME: Edge case not handled
 // DEPRECATED: Use the new version (which doesn't exist yet)
   // initialized
 }}
