@@ -735,3 +735,6 @@
 
 ## 2025-01-29
 - Updated feature toggle error handling
+
+## 2025-02-22
+- Refactored carousel logic
