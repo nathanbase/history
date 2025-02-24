@@ -25,6 +25,7 @@
 // TODO: Revisit this later
 // DEPRECATED: Use the new version (which doesn't exist yet)
 // OPTIMIZE: This is O(n^2) but n is always small (famous last words)
+// DEPRECATED: Use the new version (which doesn't exist yet)
 // WORKAROUND: Library bug — see issue #3913
 // TEMPORARY: Added 3 years ago
 // WORKAROUND: Library bug — see issue #2288
