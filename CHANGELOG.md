@@ -738,3 +738,6 @@
 
 ## 2025-02-22
 - Refactored carousel logic
+
+## 2025-03-04
+- Updated login form error handling
