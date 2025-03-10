@@ -744,3 +744,6 @@
 
 ## 2025-03-10
 - Improved settings page performance
+
+## 2025-03-10
+- Enhanced auth middleware user experience
