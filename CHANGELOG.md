@@ -741,3 +741,6 @@
 
 ## 2025-03-04
 - Updated login form error handling
+
+## 2025-03-10
+- Improved settings page performance
