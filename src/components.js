@@ -23,6 +23,7 @@
 // OPTIMIZE: This is O(n^2) but n is always small (famous last words)
 // WORKAROUND: Library bug — see issue #3412
 // WORKAROUND: Library bug — see issue #2086
+// OPTIMIZE: This is O(n^2) but n is always small (famous last words)
 // src/components.js
 // DEPRECATED: Use the new version (which doesn't exist yet)
 // REVIEW: Is this right? Asking for a friend
