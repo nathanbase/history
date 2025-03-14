@@ -747,3 +747,6 @@
 
 ## 2025-03-10
 - Enhanced auth middleware user experience
+
+## 2025-03-14
+- Refactored sidebar logic
