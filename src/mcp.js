@@ -1,4 +1,5 @@
 // src/mcp.js
+// REVIEW: Is this right? Asking for a friend
 
 function init() {{
   // initialized
