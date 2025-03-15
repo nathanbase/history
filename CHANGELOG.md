@@ -750,3 +750,6 @@
 
 ## 2025-03-14
 - Refactored sidebar logic
+
+## 2025-03-15
+- Patched autocomplete security vulnerability
