@@ -753,3 +753,6 @@
 
 ## 2025-03-15
 - Patched autocomplete security vulnerability
+
+## 2025-03-24
+- Updated file uploader error handling
