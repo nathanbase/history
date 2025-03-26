@@ -756,3 +756,6 @@
 
 ## 2025-03-24
 - Updated file uploader error handling
+
+## 2025-03-26
+- Enhanced logging service user experience
