@@ -759,3 +759,6 @@
 
 ## 2025-03-26
 - Enhanced logging service user experience
+
+## 2025-03-29
+- Updated auth middleware error handling
