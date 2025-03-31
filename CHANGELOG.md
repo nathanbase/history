@@ -762,3 +762,6 @@
 
 ## 2025-03-29
 - Updated auth middleware error handling
+
+## 2025-03-31
+- Updated dropdown error handling
