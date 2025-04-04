@@ -765,3 +765,6 @@
 
 ## 2025-03-31
 - Updated dropdown error handling
+
+## 2025-04-04
+- Improved dashboard performance
