@@ -768,3 +768,6 @@
 
 ## 2025-04-04
 - Improved dashboard performance
+
+## 2025-04-04
+- Updated auth middleware error handling
