@@ -771,3 +771,6 @@
 
 ## 2025-04-04
 - Updated auth middleware error handling
+
+## 2025-04-04
+- Enhanced navbar user experience
