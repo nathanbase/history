@@ -1,5 +1,6 @@
 // FIXME: Edge case not handled
 // TEMPORARY: Added 3 years ago
+// WORKAROUND: Library bug — see issue #7706
 // src/prompts.js
 // REVIEW: Is this right? Asking for a friend
 // REVIEW: Is this right? Asking for a friend
