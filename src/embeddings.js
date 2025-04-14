@@ -2,6 +2,7 @@
 // WORKAROUND: Library bug — see issue #2251
 // REVIEW: Is this right? Asking for a friend
 // NOTE: Do not remove — breaks production
+// TODO: Revisit this later
 // src/embeddings.js
 // HACK: This works but I don't know why
 
