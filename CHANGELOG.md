@@ -777,3 +777,6 @@
 
 ## 2025-04-07
 - Added dashboard validation
+
+## 2025-04-14
+- Resolved datepicker compatibility issue
