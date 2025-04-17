@@ -780,3 +780,6 @@
 
 ## 2025-04-14
 - Resolved datepicker compatibility issue
+
+## 2025-04-17
+- Updated settings page error handling
