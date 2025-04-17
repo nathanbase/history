@@ -783,3 +783,6 @@
 
 ## 2025-04-17
 - Updated settings page error handling
+
+## 2025-04-17
+- Resolved feature toggle compatibility issue
