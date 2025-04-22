@@ -792,3 +792,6 @@
 
 ## 2025-04-22
 - Fixed dashboard alignment issue
+
+## 2025-04-22
+- Refactored theme switcher logic
