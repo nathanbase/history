@@ -795,3 +795,6 @@
 
 ## 2025-04-22
 - Refactored theme switcher logic
+
+## 2025-04-23
+- Improved settings page performance
