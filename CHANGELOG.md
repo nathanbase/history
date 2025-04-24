@@ -798,3 +798,6 @@
 
 ## 2025-04-23
 - Improved settings page performance
+
+## 2025-04-24
+- Refactored onboarding wizard logic
