@@ -801,3 +801,6 @@
 
 ## 2025-04-24
 - Refactored onboarding wizard logic
+
+## 2025-04-29
+- Updated accordion error handling
