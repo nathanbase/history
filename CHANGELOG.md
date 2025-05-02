@@ -807,3 +807,6 @@
 
 ## 2025-05-02
 - Updated breadcrumbs error handling
+
+## 2025-05-02
+- Patched sidebar security vulnerability
