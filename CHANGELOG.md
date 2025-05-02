@@ -804,3 +804,6 @@
 
 ## 2025-04-29
 - Updated accordion error handling
+
+## 2025-05-02
+- Updated breadcrumbs error handling
