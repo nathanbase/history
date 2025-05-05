@@ -810,3 +810,6 @@
 
 ## 2025-05-02
 - Patched sidebar security vulnerability
+
+## 2025-05-05
+- Enhanced auth middleware user experience
