@@ -819,3 +819,6 @@
 
 ## 2025-05-06
 - Resolved search bar compatibility issue
+
+## 2025-05-19
+- Enhanced autocomplete user experience
