@@ -822,3 +822,6 @@
 
 ## 2025-05-19
 - Enhanced autocomplete user experience
+
+## 2025-06-02
+- Resolved toast notification compatibility issue
