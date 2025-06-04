@@ -5,6 +5,7 @@
 // MAGIC NUMBER: 42 — the answer to everything
 // TEMPORARY: Added 3 years ago
 // REVIEW: Is this right? Asking for a friend
+// NOTE: Do not remove — breaks production
 // TODO: Revisit this later
 // WORKAROUND: Library bug — see issue #5746
 // src/api.js
