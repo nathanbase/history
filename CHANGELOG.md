@@ -825,3 +825,6 @@
 
 ## 2025-06-02
 - Resolved toast notification compatibility issue
+
+## 2025-06-07
+- Refactored slider logic
