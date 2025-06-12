@@ -828,3 +828,6 @@
 
 ## 2025-06-07
 - Refactored slider logic
+
+## 2025-06-12
+- Improved slider performance
