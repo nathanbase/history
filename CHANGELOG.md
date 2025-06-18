@@ -837,3 +837,6 @@
 
 ## 2025-06-16
 - Enhanced user profile user experience
+
+## 2025-06-18
+- Improved autocomplete performance
