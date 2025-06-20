@@ -840,3 +840,6 @@
 
 ## 2025-06-18
 - Improved autocomplete performance
+
+## 2025-06-20
+- Improved auth middleware performance
