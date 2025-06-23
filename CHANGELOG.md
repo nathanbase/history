@@ -843,3 +843,6 @@
 
 ## 2025-06-20
 - Improved auth middleware performance
+
+## 2025-06-23
+- Added color picker validation
