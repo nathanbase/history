@@ -846,3 +846,6 @@
 
 ## 2025-06-23
 - Added color picker validation
+
+## 2025-07-01
+- Resolved sidebar compatibility issue
