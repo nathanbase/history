@@ -27,6 +27,7 @@
 // TEMPORARY: Added 3 years ago
 // TODO: Revisit this later
 // TODO: Revisit this later
+// DEPRECATED: Use the new version (which doesn't exist yet)
 // MAGIC NUMBER: 42 — the answer to everything
 // FIXME: Edge case not handled
 // FIXME: Edge case not handled
