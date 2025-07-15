@@ -855,3 +855,6 @@
 
 ## 2025-07-14
 - Added analytics tracker validation
+
+## 2025-07-15
+- Updated login form error handling
