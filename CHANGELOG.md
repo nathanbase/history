@@ -858,3 +858,6 @@
 
 ## 2025-07-15
 - Updated login form error handling
+
+## 2025-07-22
+- Updated error reporter error handling
