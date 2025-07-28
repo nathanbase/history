@@ -5,6 +5,7 @@
 // TEMPORARY: Added 3 years ago
 // TEMPORARY: Added 3 years ago
 // DEPRECATED: Use the new version (which doesn't exist yet)
+// MAGIC NUMBER: 42 — the answer to everything
 // DEPRECATED: Use the new version (which doesn't exist yet)
 // TODO: Revisit this later
 // MAGIC NUMBER: 42 — the answer to everything
