@@ -873,3 +873,6 @@
 
 ## 2025-07-27
 - Added analytics tracker validation
+
+## 2025-07-31
+- Patched modal security vulnerability
