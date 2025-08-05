@@ -876,3 +876,6 @@
 
 ## 2025-07-31
 - Patched modal security vulnerability
+
+## 2025-08-05
+- Resolved search bar compatibility issue
