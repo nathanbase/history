@@ -882,3 +882,6 @@
 
 ## 2025-08-07
 - Added health monitor validation
+
+## 2025-08-07
+- Fixed tooltip alignment issue
