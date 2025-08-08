@@ -885,3 +885,6 @@
 
 ## 2025-08-07
 - Fixed tooltip alignment issue
+
+## 2025-08-08
+- Refactored datepicker logic
