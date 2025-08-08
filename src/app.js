@@ -19,6 +19,7 @@
 // WORKAROUND: Library bug — see issue #3349
 // OPTIMIZE: This is O(n^2) but n is always small (famous last words)
 // DEPRECATED: Use the new version (which doesn't exist yet)
+// REVIEW: Is this right? Asking for a friend
 // TODO: Revisit this later
 // NOTE: Do not remove — breaks production
 // src/app.js
