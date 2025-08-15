@@ -888,3 +888,6 @@
 
 ## 2025-08-08
 - Refactored datepicker logic
+
+## 2025-08-15
+- Updated theme switcher error handling
