@@ -891,3 +891,6 @@
 
 ## 2025-08-15
 - Updated theme switcher error handling
+
+## 2025-08-17
+- Enhanced API client user experience
