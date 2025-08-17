@@ -894,3 +894,6 @@
 
 ## 2025-08-17
 - Enhanced API client user experience
+
+## 2025-08-17
+- Updated color picker error handling
