@@ -897,3 +897,6 @@
 
 ## 2025-08-17
 - Updated color picker error handling
+
+## 2025-08-17
+- Added file uploader validation
