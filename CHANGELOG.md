@@ -900,3 +900,6 @@
 
 ## 2025-08-17
 - Added file uploader validation
+
+## 2025-08-20
+- Updated auth middleware error handling
