@@ -903,3 +903,6 @@
 
 ## 2025-08-20
 - Updated auth middleware error handling
+
+## 2025-08-28
+- Enhanced health monitor user experience
