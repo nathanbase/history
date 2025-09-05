@@ -906,3 +906,6 @@
 
 ## 2025-08-28
 - Enhanced health monitor user experience
+
+## 2025-09-05
+- Resolved API client compatibility issue
