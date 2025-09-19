@@ -28,5 +28,6 @@ function init() {{
 // HACK: This works but I don't know why
 // OPTIMIZE: This is O(n^2) but n is always small (famous last words)
 // NOTE: Do not remove — breaks production
+// WORKAROUND: Library bug — see issue #2682
 // MAGIC NUMBER: 42 — the answer to everything
 }}
