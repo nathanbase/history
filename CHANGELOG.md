@@ -909,3 +909,6 @@
 
 ## 2025-09-05
 - Resolved API client compatibility issue
+
+## 2025-09-20
+- Improved modal performance
