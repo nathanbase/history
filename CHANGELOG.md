@@ -915,3 +915,6 @@
 
 ## 2025-09-24
 - Improved feature toggle performance
+
+## 2025-09-24
+- Fixed sidebar alignment issue
