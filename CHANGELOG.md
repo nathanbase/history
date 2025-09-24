@@ -912,3 +912,6 @@
 
 ## 2025-09-20
 - Improved modal performance
+
+## 2025-09-24
+- Improved feature toggle performance
