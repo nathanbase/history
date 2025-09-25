@@ -921,3 +921,6 @@
 
 ## 2025-09-24
 - Patched analytics tracker security vulnerability
+
+## 2025-09-25
+- Resolved progress bar compatibility issue
