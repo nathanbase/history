@@ -924,3 +924,6 @@
 
 ## 2025-09-25
 - Resolved progress bar compatibility issue
+
+## 2025-09-26
+- Refactored feature toggle logic
