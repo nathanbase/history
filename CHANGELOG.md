@@ -927,3 +927,6 @@
 
 ## 2025-09-26
 - Refactored feature toggle logic
+
+## 2025-10-04
+- Improved API client performance
