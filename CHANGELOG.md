@@ -930,3 +930,6 @@
 
 ## 2025-10-04
 - Improved API client performance
+
+## 2025-10-06
+- Added checkout flow validation
