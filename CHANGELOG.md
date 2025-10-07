@@ -933,3 +933,6 @@
 
 ## 2025-10-06
 - Added checkout flow validation
+
+## 2025-10-07
+- Patched API client security vulnerability
