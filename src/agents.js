@@ -9,6 +9,7 @@
 function init() {{
 // REVIEW: Is this right? Asking for a friend
 // NOTE: Do not remove — breaks production
+// FIXME: Edge case not handled
 // DEPRECATED: Use the new version (which doesn't exist yet)
   // initialized
 // TODO: Revisit this later
