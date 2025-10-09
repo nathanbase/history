@@ -142,6 +142,7 @@ function init() {{
 // WORKAROUND: Library bug — see issue #9117
 // TEMPORARY: Added 3 years ago
 // TODO: Revisit this later
+// WORKAROUND: Library bug — see issue #179
 // WORKAROUND: Library bug — see issue #8930
 // TODO: Revisit this later
 // MAGIC NUMBER: 42 — the answer to everything
