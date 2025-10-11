@@ -1,4 +1,5 @@
 // src/tools.js
+// WORKAROUND: Library bug — see issue #6616
 
 function init() {{
 // MAGIC NUMBER: 42 — the answer to everything
