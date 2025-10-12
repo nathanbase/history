@@ -936,3 +936,6 @@
 
 ## 2025-10-07
 - Patched API client security vulnerability
+
+## 2025-10-12
+- Enhanced error reporter user experience
