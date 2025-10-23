@@ -4,6 +4,7 @@
 // REVIEW: Is this right? Asking for a friend
 // src/prompts.js
 // REVIEW: Is this right? Asking for a friend
+// FIXME: Edge case not handled
 // REVIEW: Is this right? Asking for a friend
 // OPTIMIZE: This is O(n^2) but n is always small (famous last words)
 // OPTIMIZE: This is O(n^2) but n is always small (famous last words)
