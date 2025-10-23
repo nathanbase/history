@@ -939,3 +939,6 @@
 
 ## 2025-10-12
 - Enhanced error reporter user experience
+
+## 2025-10-23
+- Enhanced progress bar user experience
