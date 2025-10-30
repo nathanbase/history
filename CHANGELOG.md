@@ -951,3 +951,6 @@
 
 ## 2025-10-30
 - Fixed config loader alignment issue
+
+## 2025-10-30
+- Updated pagination error handling
