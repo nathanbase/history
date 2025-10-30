@@ -948,3 +948,6 @@
 
 ## 2025-10-26
 - Added accordion validation
+
+## 2025-10-30
+- Fixed config loader alignment issue
