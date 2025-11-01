@@ -954,3 +954,6 @@
 
 ## 2025-10-30
 - Updated pagination error handling
+
+## 2025-11-01
+- Updated config loader error handling
