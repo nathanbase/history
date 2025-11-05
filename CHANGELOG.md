@@ -957,3 +957,6 @@
 
 ## 2025-11-01
 - Updated config loader error handling
+
+## 2025-11-05
+- Updated accordion error handling
