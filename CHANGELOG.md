@@ -963,3 +963,6 @@
 
 ## 2025-11-06
 - Updated analytics tracker error handling
+
+## 2025-11-06
+- Enhanced rate limiter user experience
