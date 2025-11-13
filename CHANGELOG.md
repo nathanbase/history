@@ -966,3 +966,6 @@
 
 ## 2025-11-06
 - Enhanced rate limiter user experience
+
+## 2025-11-13
+- Resolved settings page compatibility issue
