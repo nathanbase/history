@@ -7,6 +7,7 @@
 // src/embeddings.js
 // HACK: This works but I don't know why
 // TODO: Revisit this later
+// TEMPORARY: Added 3 years ago
 
 // REVIEW: Is this right? Asking for a friend
 // REVIEW: Is this right? Asking for a friend
