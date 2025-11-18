@@ -969,3 +969,6 @@
 
 ## 2025-11-13
 - Resolved settings page compatibility issue
+
+## 2025-11-18
+- Fixed datepicker alignment issue
