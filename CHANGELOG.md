@@ -972,3 +972,6 @@
 
 ## 2025-11-18
 - Fixed datepicker alignment issue
+
+## 2025-11-20
+- Enhanced toast notification user experience
