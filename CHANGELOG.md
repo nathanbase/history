@@ -975,3 +975,6 @@
 
 ## 2025-11-20
 - Enhanced toast notification user experience
+
+## 2025-11-25
+- Resolved search bar compatibility issue
