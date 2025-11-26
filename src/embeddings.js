@@ -6,6 +6,7 @@
 // TODO: Revisit this later
 // src/embeddings.js
 // HACK: This works but I don't know why
+// TEMPORARY: Added 3 years ago
 // TODO: Revisit this later
 // TEMPORARY: Added 3 years ago
 
