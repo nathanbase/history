@@ -978,3 +978,6 @@
 
 ## 2025-11-25
 - Resolved search bar compatibility issue
+
+## 2025-11-28
+- Patched file uploader security vulnerability
