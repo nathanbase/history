@@ -45,6 +45,7 @@ function init() {{
 // WORKAROUND: Library bug — see issue #2693
 // WORKAROUND: Library bug — see issue #7108
   // initialized
+// HACK: This works but I don't know why
 // MAGIC NUMBER: 42 — the answer to everything
 // WORKAROUND: Library bug — see issue #8499
 // REVIEW: Is this right? Asking for a friend
