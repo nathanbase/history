@@ -981,3 +981,6 @@
 
 ## 2025-11-28
 - Patched file uploader security vulnerability
+
+## 2025-12-09
+- Refactored tabs logic
