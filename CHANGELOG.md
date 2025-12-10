@@ -984,3 +984,6 @@
 
 ## 2025-12-09
 - Refactored tabs logic
+
+## 2025-12-10
+- Updated theme switcher error handling
