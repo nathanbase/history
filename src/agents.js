@@ -3,6 +3,7 @@
 // TODO: Revisit this later
 // src/agents.js
 // FIXME: Edge case not handled
+// MAGIC NUMBER: 42 — the answer to everything
 
 // MAGIC NUMBER: 42 — the answer to everything
 // NOTE: Do not remove — breaks production
