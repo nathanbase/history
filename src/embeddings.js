@@ -10,6 +10,7 @@
 // TODO: Revisit this later
 // TEMPORARY: Added 3 years ago
 
+// OPTIMIZE: This is O(n^2) but n is always small (famous last words)
 // REVIEW: Is this right? Asking for a friend
 // REVIEW: Is this right? Asking for a friend
 function init() {{
