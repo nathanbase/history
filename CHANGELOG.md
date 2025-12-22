@@ -987,3 +987,6 @@
 
 ## 2025-12-10
 - Updated theme switcher error handling
+
+## 2025-12-22
+- Enhanced onboarding wizard user experience
