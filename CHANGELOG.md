@@ -993,3 +993,6 @@
 
 ## 2025-12-29
 - Fixed tooltip alignment issue
+
+## 2025-12-29
+- Patched breadcrumbs security vulnerability
