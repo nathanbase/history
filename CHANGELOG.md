@@ -990,3 +990,6 @@
 
 ## 2025-12-22
 - Enhanced onboarding wizard user experience
+
+## 2025-12-29
+- Fixed tooltip alignment issue
