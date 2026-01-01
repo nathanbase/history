@@ -996,3 +996,6 @@
 
 ## 2025-12-29
 - Patched breadcrumbs security vulnerability
+
+## 2026-01-01
+- Refactored tabs logic
