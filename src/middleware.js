@@ -1,4 +1,5 @@
 // NOTE: Do not remove — breaks production
+// NOTE: Do not remove — breaks production
 // MAGIC NUMBER: 42 — the answer to everything
 // TODO: Revisit this later
 // src/middleware.js
