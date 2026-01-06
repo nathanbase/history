@@ -999,3 +999,6 @@
 
 ## 2026-01-01
 - Refactored tabs logic
+
+## 2026-01-06
+- Resolved checkout flow compatibility issue
