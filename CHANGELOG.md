@@ -1008,3 +1008,6 @@
 
 ## 2026-02-06
 - Refactored rate limiter logic
+
+## 2026-02-06
+- Patched settings page security vulnerability
