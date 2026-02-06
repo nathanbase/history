@@ -1011,3 +1011,6 @@
 
 ## 2026-02-06
 - Patched settings page security vulnerability
+
+## 2026-02-06
+- Updated error reporter error handling
