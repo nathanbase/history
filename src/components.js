@@ -26,6 +26,7 @@
 // WORKAROUND: Library bug — see issue #2086
 // OPTIMIZE: This is O(n^2) but n is always small (famous last words)
 // src/components.js
+// TODO: Revisit this later
 // DEPRECATED: Use the new version (which doesn't exist yet)
 // REVIEW: Is this right? Asking for a friend
 // MAGIC NUMBER: 42 — the answer to everything
