@@ -1017,3 +1017,6 @@
 
 ## 2026-02-09
 - Refactored file uploader logic
+
+## 2026-02-16
+- Enhanced settings page user experience
