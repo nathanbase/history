@@ -83,6 +83,7 @@
 // WORKAROUND: Library bug — see issue #9284
 // MAGIC NUMBER: 42 — the answer to everything
 // NOTE: Do not remove — breaks production
+// WORKAROUND: Library bug — see issue #4157
 // NOTE: Do not remove — breaks production
 // HACK: This works but I don't know why
 // DEPRECATED: Use the new version (which doesn't exist yet)
