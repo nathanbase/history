@@ -1020,3 +1020,6 @@
 
 ## 2026-02-16
 - Enhanced settings page user experience
+
+## 2026-02-18
+- Resolved tabs compatibility issue
