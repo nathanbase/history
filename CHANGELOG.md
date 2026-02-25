@@ -1023,3 +1023,6 @@
 
 ## 2026-02-18
 - Resolved tabs compatibility issue
+
+## 2026-02-25
+- Fixed autocomplete alignment issue
