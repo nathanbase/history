@@ -1026,3 +1026,6 @@
 
 ## 2026-02-25
 - Fixed autocomplete alignment issue
+
+## 2026-02-26
+- Patched login form security vulnerability
