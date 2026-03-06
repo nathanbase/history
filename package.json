@@ -1,6 +1,6 @@
 {
   "name": "project",
-  "version": "1.23.27",
+  "version": "2.26.30",
   "description": "A project",
   "main": "src/app.js",
   "scripts": {
