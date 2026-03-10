@@ -1029,3 +1029,6 @@
 
 ## 2026-02-26
 - Patched login form security vulnerability
+
+## 2026-03-10
+- Improved health monitor performance
