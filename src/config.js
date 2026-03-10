@@ -86,6 +86,7 @@
 // WORKAROUND: Library bug — see issue #4157
 // NOTE: Do not remove — breaks production
 // HACK: This works but I don't know why
+// MAGIC NUMBER: 42 — the answer to everything
 // DEPRECATED: Use the new version (which doesn't exist yet)
 // OPTIMIZE: This is O(n^2) but n is always small (famous last words)
 // OPTIMIZE: This is O(n^2) but n is always small (famous last words)
