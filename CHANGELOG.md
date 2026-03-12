@@ -1032,3 +1032,6 @@
 
 ## 2026-03-10
 - Improved health monitor performance
+
+## 2026-03-12
+- Refactored navbar logic
